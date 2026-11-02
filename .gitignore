@@ -1,0 +1,14 @@
+# Large derived data (rebuild with code/01_build_panel.R)
+data/derived/
+*.parquet
+# Third-party papers (copyright)
+literature/*.pdf
+# R / OS / Office temp files
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
+~$*
+# run logs and empty draft folder
+output/log_*.txt
+report/

@@ -1,0 +1,87 @@
+league,date,start_txt,home,away,attendance,length_min,arena
+MLB,2024-03-29,1:44 PM,New York Mets,Milwaukee Brewers,42137,148,Citi Field
+MLB,2024-03-30,1:40 PM,New York Mets,Milwaukee Brewers,30296,170,Citi Field
+MLB,2024-03-31,1:42 PM,New York Mets,Milwaukee Brewers,22222,163,Citi Field
+MLB,2024-04-01,7:10 PM,New York Mets,Detroit Tigers,16853,166,Citi Field
+MLB,2024-04-04,12:10 PM,New York Mets,Detroit Tigers,,205,Citi Field
+MLB,2024-04-04,4:21 PM,New York Mets,Detroit Tigers,15020,143,Citi Field
+MLB,2024-04-12,7:10 PM,New York Mets,Kansas City Royals,18822,138,Citi Field
+MLB,2024-04-13,1:41 PM,New York Mets,Kansas City Royals,25387,176,Citi Field
+MLB,2024-04-14,2:26 PM,New York Mets,Kansas City Royals,32749,142,Citi Field
+MLB,2024-04-15,7:10 PM,New York Mets,Pittsburgh Pirates,18266,163,Citi Field
+MLB,2024-04-16,7:10 PM,New York Mets,Pittsburgh Pirates,18398,148,Citi Field
+MLB,2024-04-17,1:10 PM,New York Mets,Pittsburgh Pirates,18092,153,Citi Field
+MLB,2024-04-26,7:11 PM,New York Mets,St. Louis Cardinals,24159,150,Citi Field
+MLB,2024-04-27,4:06 PM,New York Mets,St. Louis Cardinals,32332,183,Citi Field
+MLB,2024-04-28,1:41 PM,New York Mets,St. Louis Cardinals,30980,179,Citi Field
+MLB,2024-04-29,7:11 PM,New York Mets,Chicago Cubs,25046,125,Citi Field
+MLB,2024-04-30,7:11 PM,New York Mets,Chicago Cubs,22880,151,Citi Field
+MLB,2024-05-01,7:11 PM,New York Mets,Chicago Cubs,22485,157,Citi Field
+MLB,2024-05-02,1:10 PM,New York Mets,Chicago Cubs,22224,197,Citi Field
+MLB,2024-05-10,8:05 PM,New York Mets,Atlanta Braves,23355,147,Citi Field
+MLB,2024-05-11,4:10 PM,New York Mets,Atlanta Braves,38919,165,Citi Field
+MLB,2024-05-12,7:10 PM,New York Mets,Atlanta Braves,18944,170,Citi Field
+MLB,2024-05-13,7:11 PM,New York Mets,Philadelphia Phillies,28086,190,Citi Field
+MLB,2024-05-14,1:11 PM,New York Mets,Philadelphia Phillies,30047,168,Citi Field
+MLB,2024-05-24,7:10 PM,New York Mets,San Francisco Giants,26658,165,Citi Field
+MLB,2024-05-25,1:41 PM,New York Mets,San Francisco Giants,32971,183,Citi Field
+MLB,2024-05-26,1:40 PM,New York Mets,San Francisco Giants,41016,137,Citi Field
+MLB,2024-05-28,4:11 PM,New York Mets,Los Angeles Dodgers,,162,Citi Field
+MLB,2024-05-28,7:41 PM,New York Mets,Los Angeles Dodgers,36021,138,Citi Field
+MLB,2024-05-29,4:10 PM,New York Mets,Los Angeles Dodgers,23890,200,Citi Field
+MLB,2024-05-30,7:10 PM,New York Mets,Arizona Diamondbacks,20926,163,Citi Field
+MLB,2024-05-31,7:10 PM,New York Mets,Arizona Diamondbacks,33884,171,Citi Field
+MLB,2024-06-01,4:31 PM,New York Mets,Arizona Diamondbacks,30600,173,Citi Field
+MLB,2024-06-02,1:41 PM,New York Mets,Arizona Diamondbacks,31059,160,Citi Field
+MLB,2024-06-08,6:11 PM,New York Mets,Philadelphia Phillies,53882,172,London Stadium
+MLB,2024-06-11,7:12 PM,New York Mets,Miami Marlins,22070,170,Citi Field
+MLB,2024-06-12,7:11 PM,New York Mets,Miami Marlins,19803,165,Citi Field
+MLB,2024-06-13,7:10 PM,New York Mets,Miami Marlins,22485,145,Citi Field
+MLB,2024-06-14,8:15 PM,New York Mets,San Diego Padres,22850,152,Citi Field
+MLB,2024-06-15,4:11 PM,New York Mets,San Diego Padres,37031,154,Citi Field
+MLB,2024-06-16,1:42 PM,New York Mets,San Diego Padres,31454,191,Citi Field
+MLB,2024-06-25,7:11 PM,New York Mets,New York Yankees,42824,185,Citi Field
+MLB,2024-06-26,7:10 PM,New York Mets,New York Yankees,43004,185,Citi Field
+MLB,2024-06-28,7:11 PM,New York Mets,Houston Astros,32465,186,Citi Field
+MLB,2024-06-29,4:13 PM,New York Mets,Houston Astros,32348,203,Citi Field
+MLB,2024-06-30,1:40 PM,New York Mets,Houston Astros,26853,181,Citi Field
+MLB,2024-07-09,7:11 PM,New York Mets,Washington Nationals,31243,161,Citi Field
+MLB,2024-07-10,7:11 PM,New York Mets,Washington Nationals,24887,144,Citi Field
+MLB,2024-07-11,1:10 PM,New York Mets,Washington Nationals,25710,169,Citi Field
+MLB,2024-07-12,7:10 PM,New York Mets,Colorado Rockies,28852,169,Citi Field
+MLB,2024-07-13,4:10 PM,New York Mets,Colorado Rockies,31029,173,Citi Field
+MLB,2024-07-14,1:42 PM,New York Mets,Colorado Rockies,24970,176,Citi Field
+MLB,2024-07-25,7:10 PM,New York Mets,Atlanta Braves,34807,159,Citi Field
+MLB,2024-07-26,7:10 PM,New York Mets,Atlanta Braves,34673,164,Citi Field
+MLB,2024-07-27,4:13 PM,New York Mets,Atlanta Braves,35149,133,Citi Field
+MLB,2024-07-28,1:41 PM,New York Mets,Atlanta Braves,26916,158,Citi Field
+MLB,2024-07-29,7:11 PM,New York Mets,Minnesota Twins,28507,179,Citi Field
+MLB,2024-07-30,7:10 PM,New York Mets,Minnesota Twins,27767,132,Citi Field
+MLB,2024-07-31,1:10 PM,New York Mets,Minnesota Twins,28875,169,Citi Field
+MLB,2024-08-13,7:11 PM,New York Mets,Oakland Athletics,31923,180,Citi Field
+MLB,2024-08-14,7:11 PM,New York Mets,Oakland Athletics,28288,149,Citi Field
+MLB,2024-08-15,1:11 PM,New York Mets,Oakland Athletics,28461,225,Citi Field
+MLB,2024-08-16,7:11 PM,New York Mets,Miami Marlins,32311,161,Citi Field
+MLB,2024-08-17,4:11 PM,New York Mets,Miami Marlins,34744,146,Citi Field
+MLB,2024-08-18,12:06 PM,New York Mets,Miami Marlins,30596,186,Citi Field
+MLB,2024-08-19,7:20 PM,New York Mets,Baltimore Orioles,26874,142,Citi Field
+MLB,2024-08-20,7:11 PM,New York Mets,Baltimore Orioles,34225,169,Citi Field
+MLB,2024-08-21,1:10 PM,New York Mets,Baltimore Orioles,32871,150,Citi Field
+MLB,2024-09-02,7:10 PM,New York Mets,Boston Red Sox,35064,142,Citi Field
+MLB,2024-09-03,7:10 PM,New York Mets,Boston Red Sox,29400,155,Citi Field
+MLB,2024-09-04,7:13 PM,New York Mets,Boston Red Sox,26270,170,Citi Field
+MLB,2024-09-06,7:10 PM,New York Mets,Cincinnati Reds,25335,155,Citi Field
+MLB,2024-09-07,5:16 PM,New York Mets,Cincinnati Reds,34048,146,Citi Field
+MLB,2024-09-08,1:41 PM,New York Mets,Cincinnati Reds,28142,172,Citi Field
+MLB,2024-09-16,7:10 PM,New York Mets,Washington Nationals,21694,148,Citi Field
+MLB,2024-09-17,7:12 PM,New York Mets,Washington Nationals,24932,163,Citi Field
+MLB,2024-09-18,7:10 PM,New York Mets,Washington Nationals,34196,146,Citi Field
+MLB,2024-09-19,7:16 PM,New York Mets,Philadelphia Phillies,35982,156,Citi Field
+MLB,2024-09-20,7:10 PM,New York Mets,Philadelphia Phillies,41474,177,Citi Field
+MLB,2024-09-21,4:11 PM,New York Mets,Philadelphia Phillies,44152,143,Citi Field
+MLB,2024-09-22,7:16 PM,New York Mets,Philadelphia Phillies,43139,150,Citi Field
+MLB,2024-10-08,5:09 PM,New York Mets,Philadelphia Phillies,44093,175,Citi Field
+MLB,2024-10-09,5:09 PM,New York Mets,Philadelphia Phillies,44103,195,Citi Field
+MLB,2024-10-16,8:09 PM,New York Mets,Los Angeles Dodgers,43883,191,Citi Field
+MLB,2024-10-17,8:09 PM,New York Mets,Los Angeles Dodgers,43882,219,Citi Field
+MLB,2024-10-18,5:08 PM,New York Mets,Los Angeles Dodgers,43841,188,Citi Field

@@ -1,0 +1,34 @@
+
+\begingroup
+\centering
+\begin{tabular}{lccccc}
+   \tabularnewline \midrule \midrule
+   Dependent Variables: & log\_fpm & \multicolumn{2}{c}{log\_trips} & surge\_idx & log\_trips\\
+                                   & FS: fare/mile  & Reduced form   & 2SLS: fare/mile & FS: surge index & 2SLS: surge index \\   
+   Model:                          & (1)            & (2)            & (3)             & (4)             & (5)\\  
+   \midrule
+   \emph{Variables}\\
+   post\_game                      & 0.1361$^{***}$ & 0.5773$^{***}$ &                 & 0.1228$^{***}$  &   \\   
+                                   & (0.0463)       & (0.0740)       &                 & (0.0350)        &   \\   
+   other\_game                     & -0.0070        & -0.0026        & 0.0273          & 0.0047          & -0.0241\\   
+                                   & (0.0076)       & (0.0404)       & (0.0461)        & (0.0042)        & (0.0273)\\   
+   log\_fpm                        &                &                & 4.226$^{**}$    &                 &   \\   
+                                   &                &                & (1.618)         &                 &   \\   
+   surge\_idx                      &                &                &                 &                 & 4.681$^{***}$\\   
+                                   &                &                &                 &                 & (1.475)\\   
+   \midrule
+   \emph{Fixed-effects}\\
+   zone-dow-qod                    & Yes            & Yes            & Yes             & Yes             & Yes\\  
+   date                            & Yes            & Yes            & Yes             & Yes             & Yes\\  
+   \midrule
+   \emph{Fit statistics}\\
+   Observations                    & 154,261        & 154,596        & 154,261         & 154,269         & 154,269\\  
+   F-test (1st stage), log\_fpm    &                &                & 27.146          &                 & \\  
+   F-test (1st stage), surge\_idx  &                &                &                 &                 & 76.972\\  
+   \midrule \midrule
+   \multicolumn{6}{l}{\emph{Clustered (date) standard-errors in parentheses}}\\
+   \multicolumn{6}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+\end{tabular}
+\par\endgroup
+
+

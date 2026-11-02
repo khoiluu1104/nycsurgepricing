@@ -1,0 +1,14 @@
+variable,role,observed,handled_by
+"Weather (rain, snow, cold)",Confounder of price and trips,Add NOAA hourly data,Date FE absorbs citywide weather; add hourly weather in DML
+"Hour of day, day of week",Confounder of price and trips,Yes,Zone x weekday x 15-min-slot fixed effects
+"Citywide shocks (holidays, subway outages, parades)",Confounder of price and trips,Partly (dates),Date fixed effects (identified from control zones)
+Concerts / other events at MSG on non-game nights,Contaminates the comparison group,Add MSG calendar,Drop or flag concert nights; robustness check
+Driver anticipation of known game end times,"Exclusion threat (Z -> supply, skipping price)",No (test via pre-trends),"Test trips at -30/-15 min; use games with surprise end times (overtime, blowouts)"
+"Platform driver bonuses for events (quests, boosts)","Exclusion threat (Z -> supply, skipping price)",No,Cannot observe; discuss as a limitation; driver pay per mile partly captures it
+Drivers lingering after pre-game drop-offs,"Exclusion threat (Z -> supply, skipping price)",Partly (pre-game drop-offs by zone),Control for pre-game drop-offs into the zone; robustness check
+Post-game traffic congestion,"Exclusion threat (Z -> trips, skipping price)",Yes (median speed),Speed as an outcome (pilot: no significant change)
+"Trip mix after games (shorter trips, other destinations)",Measurement error in price (Z -> measured price),"Yes (miles, minutes, destination)","Implied-surge index: log fare residual after miles, minutes, destination, company"
+Riders who give up without booking,Selection: demand not observed,No,State as a limitation; demand elasticity taken from literature
+Spillover to neighbouring zones,SUTVA violation: treatment leaks to control zones,Yes (zone IDs),Exclude neighbours from controls (done); robustness check with neighbours treated
+Wait time / arrival timestamp (as a control),Bad control: caused by both demand and supply (collider),Yes,Do NOT control for it; use only as an outcome
+Trip speed (as a control),Bad control: post-treatment mediator,Yes,Do NOT control for it; use only as an outcome / exclusion check

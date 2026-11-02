@@ -1,0 +1,139 @@
+league,home,away,venue,zone,date,start,end,length_min,attendance
+NHL,New York Rangers,Arizona Coyotes,Madison Square Garden,186,2023-10-16,2023-10-16 19:00:00,2023-10-16 21:29:00,149,18006
+NHL,New York Rangers,Nashville Predators,Madison Square Garden,186,2023-10-19,2023-10-19 19:00:00,2023-10-19 21:24:00,144,18006
+NBA,New York Knicks,Boston Celtics,Madison Square Garden,186,2023-10-25,2023-10-25 19:00:00,2023-10-25 21:39:00,159,19812
+NBA,Brooklyn Nets,Cleveland Cavaliers,Barclays Center,65,2023-10-25,2023-10-25 19:30:00,2023-10-25 21:48:00,138,17931
+NBA,New York Knicks,Cleveland Cavaliers,Madison Square Garden,186,2023-11-01,2023-11-01 19:30:00,2023-11-01 21:52:00,142,19812
+NHL,New York Rangers,Carolina Hurricanes,Madison Square Garden,186,2023-11-02,2023-11-02 19:00:00,2023-11-02 21:31:00,151,18006
+NBA,Brooklyn Nets,Boston Celtics,Barclays Center,65,2023-11-04,2023-11-04 20:00:00,2023-11-04 22:10:00,130,17983
+NBA,Brooklyn Nets,Milwaukee Bucks,Barclays Center,65,2023-11-06,2023-11-06 19:30:00,2023-11-06 21:50:00,140,17935
+NBA,New York Knicks,Los Angeles Clippers,Madison Square Garden,186,2023-11-06,2023-11-06 19:30:00,2023-11-06 21:39:00,129,19812
+NHL,New York Rangers,Detroit Red Wings,Madison Square Garden,186,2023-11-07,2023-11-07 19:30:00,2023-11-07 21:55:00,145,18006
+NBA,Brooklyn Nets,Los Angeles Clippers,Barclays Center,65,2023-11-08,2023-11-08 19:30:00,2023-11-08 21:33:00,123,17933
+NBA,New York Knicks,San Antonio Spurs,Madison Square Garden,186,2023-11-08,2023-11-08 19:30:00,2023-11-08 21:42:00,132,19812
+NHL,New York Rangers,Minnesota Wild,Madison Square Garden,186,2023-11-09,2023-11-09 19:00:00,2023-11-09 21:23:00,143,18006
+NBA,New York Knicks,Charlotte Hornets,Madison Square Garden,186,2023-11-12,2023-11-12 12:00:00,2023-11-12 14:09:00,129,19812
+NBA,Brooklyn Nets,Washington Wizards,Barclays Center,65,2023-11-12,2023-11-12 15:00:00,2023-11-12 17:17:00,137,17732
+NHL,New York Rangers,Columbus Blue Jackets,Madison Square Garden,186,2023-11-12,2023-11-12 19:00:00,2023-11-12 21:55:00,175,18006
+NBA,Brooklyn Nets,Orlando Magic,Barclays Center,65,2023-11-14,2023-11-14 19:30:00,2023-11-14 21:37:00,127,17361
+NBA,Brooklyn Nets,Philadelphia 76ers,Barclays Center,65,2023-11-19,2023-11-19 15:00:00,2023-11-19 17:08:00,128,17934
+NBA,New York Knicks,Miami Heat,Madison Square Garden,186,2023-11-24,2023-11-24 19:30:00,2023-11-24 21:48:00,138,19812
+NHL,New York Rangers,Boston Bruins,Madison Square Garden,186,2023-11-25,2023-11-25 13:00:00,2023-11-25 15:41:00,161,18006
+NBA,Brooklyn Nets,Miami Heat,Barclays Center,65,2023-11-25,2023-11-25 18:00:00,2023-11-25 20:10:00,130,17817
+NBA,New York Knicks,Phoenix Suns,Madison Square Garden,186,2023-11-26,2023-11-26 18:00:00,2023-11-26 20:25:00,145,19812
+NBA,Brooklyn Nets,Chicago Bulls,Barclays Center,65,2023-11-26,2023-11-26 19:30:00,2023-11-26 21:33:00,123,16687
+NHL,New York Rangers,Buffalo Sabres,Madison Square Garden,186,2023-11-27,2023-11-27 19:00:00,2023-11-27 21:21:00,141,18006
+NBA,Brooklyn Nets,Toronto Raptors,Barclays Center,65,2023-11-28,2023-11-28 19:30:00,2023-11-28 21:41:00,131,15844
+NBA,New York Knicks,Charlotte Hornets,Madison Square Garden,186,2023-11-28,2023-11-28 19:30:00,2023-11-28 21:33:00,123,19111
+NHL,New York Rangers,Detroit Red Wings,Madison Square Garden,186,2023-11-29,2023-11-29 19:30:00,2023-11-29 22:04:00,154,18006
+NBA,Brooklyn Nets,Charlotte Hornets,Barclays Center,65,2023-11-30,2023-11-30 19:30:00,2023-11-30 21:31:00,121,16072
+NBA,New York Knicks,Detroit Pistons,Madison Square Garden,186,2023-11-30,2023-11-30 19:30:00,2023-11-30 21:48:00,138,19812
+NBA,Brooklyn Nets,Orlando Magic,Barclays Center,65,2023-12-02,2023-12-02 19:00:00,2023-12-02 21:20:00,140,17966
+NHL,New York Rangers,San Jose Sharks,Madison Square Garden,186,2023-12-03,2023-12-03 18:00:00,2023-12-03 20:31:00,151,18006
+NBA,Brooklyn Nets,Washington Wizards,Barclays Center,65,2023-12-08,2023-12-08 19:30:00,2023-12-08 21:39:00,129,16587
+NHL,New York Rangers,Los Angeles Kings,Madison Square Garden,186,2023-12-10,2023-12-10 19:00:00,2023-12-10 21:32:00,152,18006
+NBA,New York Knicks,Toronto Raptors,Madison Square Garden,186,2023-12-11,2023-12-11 19:30:00,2023-12-11 21:51:00,141,19812
+NHL,New York Rangers,Toronto Maple Leafs,Madison Square Garden,186,2023-12-12,2023-12-12 19:00:00,2023-12-12 21:26:00,146,18006
+NHL,New York Rangers,Anaheim Ducks,Madison Square Garden,186,2023-12-15,2023-12-15 19:00:00,2023-12-15 21:34:00,154,18006
+NBA,Brooklyn Nets,New York Knicks,Barclays Center,65,2023-12-20,2023-12-20 19:30:00,2023-12-20 21:42:00,132,18071
+NBA,Brooklyn Nets,Denver Nuggets,Barclays Center,65,2023-12-22,2023-12-22 19:30:00,2023-12-22 21:47:00,137,17732
+NHL,New York Rangers,Edmonton Oilers,Madison Square Garden,186,2023-12-22,2023-12-22 19:30:00,2023-12-22 21:59:00,149,18006
+NBA,New York Knicks,Milwaukee Bucks,Madison Square Garden,186,2023-12-23,2023-12-23 12:30:00,2023-12-23 14:41:00,131,19812
+NBA,Brooklyn Nets,Detroit Pistons,Barclays Center,65,2023-12-23,2023-12-23 19:30:00,2023-12-23 21:50:00,140,17732
+NHL,New York Rangers,Buffalo Sabres,Madison Square Garden,186,2023-12-23,2023-12-23 19:30:00,2023-12-23 22:06:00,156,18006
+NBA,New York Knicks,Milwaukee Bucks,Madison Square Garden,186,2023-12-25,2023-12-25 12:00:00,2023-12-25 14:23:00,143,19812
+NHL,New York Rangers,Washington Capitals,Madison Square Garden,186,2023-12-27,2023-12-27 19:00:00,2023-12-27 21:19:00,139,18006
+NBA,Brooklyn Nets,Milwaukee Bucks,Barclays Center,65,2023-12-27,2023-12-27 19:30:00,2023-12-27 21:46:00,136,18199
+NBA,New York Knicks,Minnesota Timberwolves,Madison Square Garden,186,2024-01-01,2024-01-01 15:00:00,2024-01-01 17:28:00,148,19812
+NHL,New York Rangers,Carolina Hurricanes,Madison Square Garden,186,2024-01-02,2024-01-02 19:00:00,2024-01-02 21:28:00,148,18006
+NBA,New York Knicks,Chicago Bulls,Madison Square Garden,186,2024-01-03,2024-01-03 20:30:00,2024-01-03 22:43:00,133,19812
+NHL,New York Rangers,Chicago Blackhawks,Madison Square Garden,186,2024-01-04,2024-01-04 19:00:00,2024-01-04 21:22:00,142,18006
+NBA,Brooklyn Nets,Oklahoma City Thunder,Barclays Center,65,2024-01-05,2024-01-05 19:30:00,2024-01-05 21:52:00,142,18147
+NBA,Brooklyn Nets,Portland Trail Blazers,Barclays Center,65,2024-01-07,2024-01-07 15:00:00,2024-01-07 17:40:00,160,17732
+NHL,New York Rangers,Vancouver Canucks,Madison Square Garden,186,2024-01-08,2024-01-08 19:00:00,2024-01-08 21:28:00,148,18006
+NBA,New York Knicks,Portland Trail Blazers,Madison Square Garden,186,2024-01-09,2024-01-09 19:30:00,2024-01-09 21:34:00,124,19812
+NHL,New York Rangers,Washington Capitals,Madison Square Garden,186,2024-01-14,2024-01-14 13:00:00,2024-01-14 15:29:00,149,18006
+NBA,New York Knicks,Orlando Magic,Madison Square Garden,186,2024-01-15,2024-01-15 15:00:00,2024-01-15 17:16:00,136,19812
+NBA,Brooklyn Nets,Miami Heat,Barclays Center,65,2024-01-15,2024-01-15 19:30:00,2024-01-15 21:58:00,148,17893
+NHL,New York Rangers,Seattle Kraken,Madison Square Garden,186,2024-01-16,2024-01-16 19:00:00,2024-01-16 21:19:00,139,18006
+NBA,New York Knicks,Houston Rockets,Madison Square Garden,186,2024-01-17,2024-01-17 19:30:00,2024-01-17 21:45:00,135,19439
+NBA,New York Knicks,Washington Wizards,Madison Square Garden,186,2024-01-18,2024-01-18 19:30:00,2024-01-18 21:54:00,144,19466
+NBA,New York Knicks,Toronto Raptors,Madison Square Garden,186,2024-01-20,2024-01-20 19:30:00,2024-01-20 21:41:00,131,19812
+NBA,Brooklyn Nets,New York Knicks,Barclays Center,65,2024-01-23,2024-01-23 19:30:00,2024-01-23 21:42:00,132,17732
+NBA,Brooklyn Nets,Minnesota Timberwolves,Barclays Center,65,2024-01-25,2024-01-25 19:30:00,2024-01-25 21:45:00,135,17732
+NBA,New York Knicks,Denver Nuggets,Madison Square Garden,186,2024-01-25,2024-01-25 19:30:00,2024-01-25 21:35:00,125,19812
+NHL,New York Rangers,Vegas Golden Knights,Madison Square Garden,186,2024-01-26,2024-01-26 19:00:00,2024-01-26 21:33:00,153,18006
+NBA,New York Knicks,Miami Heat,Madison Square Garden,186,2024-01-27,2024-01-27 15:00:00,2024-01-27 17:23:00,143,19812
+NBA,Brooklyn Nets,Houston Rockets,Barclays Center,65,2024-01-27,2024-01-27 18:00:00,2024-01-27 20:26:00,146,17732
+NBA,Brooklyn Nets,Utah Jazz,Barclays Center,65,2024-01-29,2024-01-29 19:30:00,2024-01-29 21:40:00,130,16054
+NBA,New York Knicks,Utah Jazz,Madison Square Garden,186,2024-01-30,2024-01-30 19:30:00,,,19133
+NBA,Brooklyn Nets,Phoenix Suns,Barclays Center,65,2024-01-31,2024-01-31 20:30:00,2024-01-31 22:52:00,142,17732
+NBA,New York Knicks,Indiana Pacers,Madison Square Garden,186,2024-02-01,2024-02-01 19:30:00,2024-02-01 21:47:00,137,19812
+NBA,New York Knicks,Los Angeles Lakers,Madison Square Garden,186,2024-02-03,2024-02-03 20:30:00,2024-02-03 22:48:00,138,19812
+NHL,New York Rangers,Colorado Avalanche,Madison Square Garden,186,2024-02-05,2024-02-05 19:00:00,2024-02-05 21:23:00,143,18006
+NBA,Brooklyn Nets,Golden State Warriors,Barclays Center,65,2024-02-05,2024-02-05 19:30:00,2024-02-05 21:51:00,141,17919
+NBA,Brooklyn Nets,Dallas Mavericks,Barclays Center,65,2024-02-06,2024-02-06 19:30:00,2024-02-06 21:41:00,131,17732
+NBA,New York Knicks,Memphis Grizzlies,Madison Square Garden,186,2024-02-06,2024-02-06 19:30:00,2024-02-06 21:35:00,125,19013
+NHL,New York Rangers,Tampa Bay Lightning,Madison Square Garden,186,2024-02-07,2024-02-07 19:00:00,2024-02-07 21:24:00,144,17208
+NBA,Brooklyn Nets,Cleveland Cavaliers,Barclays Center,65,2024-02-08,2024-02-08 19:30:00,2024-02-08 21:33:00,123,17304
+NBA,New York Knicks,Dallas Mavericks,Madison Square Garden,186,2024-02-08,2024-02-08 19:30:00,2024-02-08 21:42:00,132,19812
+NBA,Brooklyn Nets,San Antonio Spurs,Barclays Center,65,2024-02-10,2024-02-10 18:00:00,2024-02-10 20:10:00,130,18005
+NBA,New York Knicks,Indiana Pacers,Madison Square Garden,186,2024-02-10,2024-02-10 19:30:00,2024-02-10 21:36:00,126,19812
+NHL,New York Rangers,Calgary Flames,Madison Square Garden,186,2024-02-12,2024-02-12 19:00:00,2024-02-12 21:22:00,142,18006
+NBA,Brooklyn Nets,Boston Celtics,Barclays Center,65,2024-02-13,2024-02-13 19:30:00,2024-02-13 21:44:00,134,18053
+NHL,New York Rangers,Montreal Canadiens,Madison Square Garden,186,2024-02-15,2024-02-15 19:00:00,2024-02-15 21:45:00,165,18006
+NHL,New York Rangers,Dallas Stars,Madison Square Garden,186,2024-02-20,2024-02-20 19:00:00,2024-02-20 21:29:00,149,18006
+NBA,New York Knicks,Boston Celtics,Madison Square Garden,186,2024-02-24,2024-02-24 20:30:00,2024-02-24 22:37:00,127,19812
+NBA,New York Knicks,Detroit Pistons,Madison Square Garden,186,2024-02-26,2024-02-26 19:30:00,2024-02-26 21:37:00,127,19303
+NBA,New York Knicks,New Orleans Pelicans,Madison Square Garden,186,2024-02-27,2024-02-27 19:30:00,2024-02-27 21:39:00,129,19812
+NHL,New York Rangers,Columbus Blue Jackets,Madison Square Garden,186,2024-02-28,2024-02-28 19:00:00,2024-02-28 21:33:00,153,18006
+NBA,Brooklyn Nets,Atlanta Hawks,Barclays Center,65,2024-02-29,2024-02-29 19:30:00,2024-02-29 21:35:00,125,17284
+NBA,New York Knicks,Golden State Warriors,Madison Square Garden,186,2024-02-29,2024-02-29 19:30:00,2024-02-29 21:48:00,138,19812
+NBA,Brooklyn Nets,Atlanta Hawks,Barclays Center,65,2024-03-02,2024-03-02 15:00:00,2024-03-02 17:18:00,138,18075
+NHL,New York Rangers,Florida Panthers,Madison Square Garden,186,2024-03-04,2024-03-04 19:00:00,2024-03-04 21:30:00,150,18006
+NBA,Brooklyn Nets,Memphis Grizzlies,Barclays Center,65,2024-03-04,2024-03-04 19:30:00,2024-03-04 21:58:00,148,15847
+NBA,Brooklyn Nets,Philadelphia 76ers,Barclays Center,65,2024-03-05,2024-03-05 19:30:00,2024-03-05 21:50:00,140,17086
+NBA,New York Knicks,Atlanta Hawks,Madison Square Garden,186,2024-03-05,2024-03-05 19:30:00,2024-03-05 21:37:00,127,19812
+NBA,New York Knicks,Orlando Magic,Madison Square Garden,186,2024-03-08,2024-03-08 19:30:00,2024-03-08 21:33:00,123,19812
+NHL,New York Rangers,St. Louis Blues,Madison Square Garden,186,2024-03-09,2024-03-09 19:30:00,2024-03-09 21:53:00,143,18006
+NBA,New York Knicks,Philadelphia 76ers,Madison Square Garden,186,2024-03-10,2024-03-10 19:00:00,2024-03-10 21:18:00,138,19812
+NHL,New York Rangers,New Jersey Devils,Madison Square Garden,186,2024-03-11,2024-03-11 19:00:00,2024-03-11 21:21:00,141,18006
+NBA,New York Knicks,Philadelphia 76ers,Madison Square Garden,186,2024-03-12,2024-03-12 19:30:00,2024-03-12 21:41:00,131,19812
+NHL,New York Rangers,New York Islanders,Madison Square Garden,186,2024-03-17,2024-03-17 13:00:00,2024-03-17 15:26:00,146,18006
+NHL,New York Rangers,Winnipeg Jets,Madison Square Garden,186,2024-03-19,2024-03-19 19:00:00,2024-03-19 21:30:00,150,18006
+NBA,Brooklyn Nets,New Orleans Pelicans,Barclays Center,65,2024-03-19,2024-03-19 19:30:00,2024-03-19 21:35:00,125,17732
+NBA,New York Knicks,Brooklyn Nets,Madison Square Garden,186,2024-03-23,2024-03-23 13:00:00,2024-03-23 15:00:00,120,19812
+NHL,New York Rangers,Florida Panthers,Madison Square Garden,186,2024-03-23,2024-03-23 20:00:00,2024-03-23 22:44:00,164,18006
+NBA,New York Knicks,Detroit Pistons,Madison Square Garden,186,2024-03-25,2024-03-25 19:30:00,2024-03-25 21:41:00,131,19812
+NHL,New York Rangers,Philadelphia Flyers,Madison Square Garden,186,2024-03-26,2024-03-26 19:00:00,2024-03-26 21:40:00,160,18006
+NBA,Brooklyn Nets,Chicago Bulls,Barclays Center,65,2024-03-29,2024-03-29 19:30:00,2024-03-29 21:43:00,133,17894
+NBA,Brooklyn Nets,Los Angeles Lakers,Barclays Center,65,2024-03-31,2024-03-31 18:00:00,2024-03-31 20:08:00,128,18162
+NBA,New York Knicks,Oklahoma City Thunder,Madison Square Garden,186,2024-03-31,2024-03-31 19:00:00,2024-03-31 21:33:00,153,19812
+NHL,New York Rangers,Pittsburgh Penguins,Madison Square Garden,186,2024-04-01,2024-04-01 19:00:00,2024-04-01 21:30:00,150,18006
+NHL,New York Rangers,New Jersey Devils,Madison Square Garden,186,2024-04-03,2024-04-03 19:00:00,2024-04-03 21:38:00,158,18006
+NBA,Brooklyn Nets,Indiana Pacers,Barclays Center,65,2024-04-03,2024-04-03 19:30:00,2024-04-03 21:45:00,135,17732
+NBA,New York Knicks,Sacramento Kings,Madison Square Garden,186,2024-04-04,2024-04-04 19:30:00,2024-04-04 21:58:00,148,19812
+NBA,Brooklyn Nets,Detroit Pistons,Barclays Center,65,2024-04-06,2024-04-06 19:00:00,2024-04-06 21:07:00,127,17732
+NHL,New York Rangers,Montreal Canadiens,Madison Square Garden,186,2024-04-07,2024-04-07 19:00:00,2024-04-07 21:29:00,149,17854
+NBA,Brooklyn Nets,Sacramento Kings,Barclays Center,65,2024-04-07,2024-04-07 19:30:00,2024-04-07 21:36:00,126,17732
+NBA,Brooklyn Nets,Toronto Raptors,Barclays Center,65,2024-04-10,2024-04-10 19:30:00,2024-04-10 21:50:00,140,17732
+NHL,New York Rangers,Philadelphia Flyers,Madison Square Garden,186,2024-04-11,2024-04-11 19:00:00,2024-04-11 21:26:00,146,18006
+NBA,New York Knicks,Brooklyn Nets,Madison Square Garden,186,2024-04-12,2024-04-12 19:30:00,2024-04-12 21:45:00,135,19812
+NHL,New York Rangers,New York Islanders,Madison Square Garden,186,2024-04-13,2024-04-13 12:30:00,2024-04-13 15:19:00,169,18006
+NBA,New York Knicks,Chicago Bulls,Madison Square Garden,186,2024-04-14,2024-04-14 13:00:00,2024-04-14 15:35:00,155,19812
+NHL,New York Rangers,Ottawa Senators,Madison Square Garden,186,2024-04-15,2024-04-15 19:30:00,2024-04-15 21:53:00,143,18006
+NBA,New York Knicks,Philadelphia 76ers,Madison Square Garden,186,2024-04-20,2024-04-20 18:00:00,2024-04-20 20:30:00,150,19812
+NHL,New York Rangers,Washington Capitals,Madison Square Garden,186,2024-04-21,2024-04-21 15:00:00,2024-04-21 17:41:00,161,18006
+NBA,New York Knicks,Philadelphia 76ers,Madison Square Garden,186,2024-04-22,2024-04-22 19:30:00,2024-04-22 22:05:00,155,19812
+NHL,New York Rangers,Washington Capitals,Madison Square Garden,186,2024-04-23,2024-04-23 19:00:00,2024-04-23 21:37:00,157,18006
+NBA,New York Knicks,Philadelphia 76ers,Madison Square Garden,186,2024-04-30,2024-04-30 19:00:00,2024-04-30 21:49:00,169,19812
+NHL,New York Rangers,Carolina Hurricanes,Madison Square Garden,186,2024-05-05,2024-05-05 16:00:00,2024-05-05 18:35:00,155,18006
+NBA,New York Knicks,Indiana Pacers,Madison Square Garden,186,2024-05-06,2024-05-06 19:30:00,2024-05-06 22:00:00,150,19812
+NHL,New York Rangers,Carolina Hurricanes,Madison Square Garden,186,2024-05-07,2024-05-07 19:00:00,2024-05-07 23:03:00,243,18006
+NBA,New York Knicks,Indiana Pacers,Madison Square Garden,186,2024-05-08,2024-05-08 20:00:00,2024-05-08 22:22:00,142,19812
+NHL,New York Rangers,Carolina Hurricanes,Madison Square Garden,186,2024-05-13,2024-05-13 19:00:00,2024-05-13 21:25:00,145,18006
+NBA,New York Knicks,Indiana Pacers,Madison Square Garden,186,2024-05-14,2024-05-14 20:00:00,2024-05-14 22:36:00,156,19812
+NBA,New York Knicks,Indiana Pacers,Madison Square Garden,186,2024-05-19,2024-05-19 15:30:00,2024-05-19 17:53:00,143,19812
+NHL,New York Rangers,Florida Panthers,Madison Square Garden,186,2024-05-22,2024-05-22 20:00:00,2024-05-22 22:32:00,152,18006
+NHL,New York Rangers,Florida Panthers,Madison Square Garden,186,2024-05-24,2024-05-24 20:00:00,2024-05-24 23:12:00,192,18006
+NHL,New York Rangers,Florida Panthers,Madison Square Garden,186,2024-05-30,2024-05-30 20:00:00,2024-05-30 22:32:00,152,18006

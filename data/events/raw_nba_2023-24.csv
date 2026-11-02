@@ -1,0 +1,1320 @@
+league,date,start_txt,home,away,attendance,length_min,arena
+NBA,2023-10-24,7:30p,Denver Nuggets,Los Angeles Lakers,19842,137,Ball Arena
+NBA,2023-10-24,10:00p,Golden State Warriors,Phoenix Suns,18064,153,Chase Center
+NBA,2023-10-25,7:00p,Orlando Magic,Houston Rockets,18846,134,Kia Center
+NBA,2023-10-25,7:00p,New York Knicks,Boston Celtics,19812,159,Madison Square Garden (IV)
+NBA,2023-10-25,7:00p,Indiana Pacers,Washington Wizards,16004,127,Gainbridge Fieldhouse
+NBA,2023-10-25,7:00p,Charlotte Hornets,Atlanta Hawks,16129,142,Spectrum Center
+NBA,2023-10-25,7:30p,Miami Heat,Detroit Pistons,19695,134,Kaseya Center
+NBA,2023-10-25,7:30p,Toronto Raptors,Minnesota Timberwolves,19800,130,Scotiabank Arena
+NBA,2023-10-25,7:30p,Brooklyn Nets,Cleveland Cavaliers,17931,138,Barclays Center
+NBA,2023-10-25,8:00p,Memphis Grizzlies,New Orleans Pelicans,17798,140,FedEx Forum
+NBA,2023-10-25,8:00p,Chicago Bulls,Oklahoma City Thunder,21369,125,United Center
+NBA,2023-10-25,9:00p,Utah Jazz,Sacramento Kings,18206,138,Delta Center
+NBA,2023-10-25,9:30p,San Antonio Spurs,Dallas Mavericks,18947,140,Frost Bank Center
+NBA,2023-10-25,10:30p,Los Angeles Clippers,Portland Trail Blazers,19370,129,Crypto.com Arena
+NBA,2023-10-26,7:30p,Milwaukee Bucks,Philadelphia 76ers,17783,160,Fiserv Forum
+NBA,2023-10-26,10:00p,Los Angeles Lakers,Phoenix Suns,18997,146,Crypto.com Arena
+NBA,2023-10-27,7:00p,Memphis Grizzlies,Denver Nuggets,16617,140,FedEx Forum
+NBA,2023-10-27,7:00p,Charlotte Hornets,Detroit Pistons,15855,144,Spectrum Center
+NBA,2023-10-27,7:30p,Atlanta Hawks,New York Knicks,17692,131,State Farm Arena
+NBA,2023-10-27,7:30p,Cleveland Cavaliers,Oklahoma City Thunder,19432,147,Rocket Mortgage Fieldhouse
+NBA,2023-10-27,7:30p,Boston Celtics,Miami Heat,19156,140,TD Garden
+NBA,2023-10-27,8:00p,Chicago Bulls,Toronto Raptors,19555,165,United Center
+NBA,2023-10-27,8:00p,San Antonio Spurs,Houston Rockets,18354,158,Frost Bank Center
+NBA,2023-10-27,8:30p,Dallas Mavericks,Brooklyn Nets,20238,134,American Airlines Center
+NBA,2023-10-27,9:30p,Utah Jazz,Los Angeles Clippers,18206,135,Delta Center
+NBA,2023-10-27,10:00p,Portland Trail Blazers,Orlando Magic,19464,139,Moda Center
+NBA,2023-10-27,10:00p,Sacramento Kings,Golden State Warriors,18250,142,Golden 1 Center
+NBA,2023-10-28,7:00p,Detroit Pistons,Chicago Bulls,20062,130,Little Caesars Arena
+NBA,2023-10-28,7:00p,Washington Wizards,Memphis Grizzlies,16191,136,Capital One Arena
+NBA,2023-10-28,7:00p,New Orleans Pelicans,New York Knicks,16331,128,Smoothie King Center
+NBA,2023-10-28,7:30p,Cleveland Cavaliers,Indiana Pacers,19432,130,Rocket Mortgage Fieldhouse
+NBA,2023-10-28,7:30p,Toronto Raptors,Philadelphia 76ers,19800,130,Scotiabank Arena
+NBA,2023-10-28,8:00p,Minnesota Timberwolves,Miami Heat,18024,125,Target Center
+NBA,2023-10-28,10:00p,Phoenix Suns,Utah Jazz,17071,133,Footprint Center
+NBA,2023-10-29,3:30p,Oklahoma City Thunder,Denver Nuggets,18203,120,Paycom Center
+NBA,2023-10-29,7:00p,Houston Rockets,Golden State Warriors,18055,137,Toyota Center
+NBA,2023-10-29,7:00p,Milwaukee Bucks,Atlanta Hawks,17341,135,Fiserv Forum
+NBA,2023-10-29,7:30p,Philadelphia 76ers,Portland Trail Blazers,19768,133,Wells Fargo Center
+NBA,2023-10-29,9:00p,Los Angeles Clippers,San Antonio Spurs,19370,126,Crypto.com Arena
+NBA,2023-10-29,9:00p,Sacramento Kings,Los Angeles Lakers,18198,158,Golden 1 Center
+NBA,2023-10-30,7:00p,Indiana Pacers,Chicago Bulls,15021,146,Gainbridge Fieldhouse
+NBA,2023-10-30,7:00p,Washington Wizards,Boston Celtics,17898,126,Capital One Arena
+NBA,2023-10-30,7:00p,Charlotte Hornets,Brooklyn Nets,14491,132,Spectrum Center
+NBA,2023-10-30,7:30p,Toronto Raptors,Portland Trail Blazers,19266,123,Scotiabank Arena
+NBA,2023-10-30,7:30p,Atlanta Hawks,Minnesota Timberwolves,15504,125,State Farm Arena
+NBA,2023-10-30,8:00p,Memphis Grizzlies,Dallas Mavericks,15031,134,FedEx Forum
+NBA,2023-10-30,8:00p,Milwaukee Bucks,Miami Heat,17341,144,Fiserv Forum
+NBA,2023-10-30,8:00p,New Orleans Pelicans,Golden State Warriors,17286,128,Smoothie King Center
+NBA,2023-10-30,8:00p,Oklahoma City Thunder,Detroit Pistons,16127,138,Paycom Center
+NBA,2023-10-30,9:00p,Denver Nuggets,Utah Jazz,19671,131,Ball Arena
+NBA,2023-10-30,10:30p,Los Angeles Lakers,Orlando Magic,18997,138,Crypto.com Arena
+NBA,2023-10-31,7:30p,Cleveland Cavaliers,New York Knicks,19432,134,Rocket Mortgage Fieldhouse
+NBA,2023-10-31,10:00p,Phoenix Suns,San Antonio Spurs,17071,148,Footprint Center
+NBA,2023-10-31,10:30p,Los Angeles Clippers,Orlando Magic,14014,137,Crypto.com Arena
+NBA,2023-11-01,7:00p,Detroit Pistons,Portland Trail Blazers,16912,128,Little Caesars Arena
+NBA,2023-11-01,7:00p,Toronto Raptors,Milwaukee Bucks,19800,139,Scotiabank Arena
+NBA,2023-11-01,7:30p,Atlanta Hawks,Washington Wizards,15925,131,State Farm Arena
+NBA,2023-11-01,7:30p,Boston Celtics,Indiana Pacers,19156,123,TD Garden
+NBA,2023-11-01,7:30p,Miami Heat,Brooklyn Nets,19600,134,Kaseya Center
+NBA,2023-11-01,7:30p,New York Knicks,Cleveland Cavaliers,19812,142,Madison Square Garden (IV)
+NBA,2023-11-01,7:30p,Oklahoma City Thunder,New Orleans Pelicans,15764,152,Paycom Center
+NBA,2023-11-01,8:00p,Houston Rockets,Charlotte Hornets,16263,128,Toyota Center
+NBA,2023-11-01,8:00p,Minnesota Timberwolves,Denver Nuggets,18024,130,Target Center
+NBA,2023-11-01,8:30p,Dallas Mavericks,Chicago Bulls,20103,127,American Airlines Center
+NBA,2023-11-01,9:00p,Utah Jazz,Memphis Grizzlies,18206,142,Delta Center
+NBA,2023-11-01,10:00p,Golden State Warriors,Sacramento Kings,18064,134,Chase Center
+NBA,2023-11-01,10:00p,Los Angeles Lakers,Los Angeles Clippers,18997,166,Crypto.com Arena
+NBA,2023-11-02,7:00p,Philadelphia 76ers,Toronto Raptors,19773,136,Wells Fargo Center
+NBA,2023-11-02,8:00p,New Orleans Pelicans,Detroit Pistons,15884,141,Smoothie King Center
+NBA,2023-11-02,9:00p,Utah Jazz,Orlando Magic,18206,154,Delta Center
+NBA,2023-11-02,10:00p,Phoenix Suns,San Antonio Spurs,17071,137,Footprint Center
+NBA,2023-11-03,7:00p,Indiana Pacers,Cleveland Cavaliers,16744,139,Gainbridge Fieldhouse
+NBA,2023-11-03,7:30p,Milwaukee Bucks,New York Knicks,17717,157,Fiserv Forum
+NBA,2023-11-03,8:00p,Chicago Bulls,Brooklyn Nets,20645,123,United Center
+NBA,2023-11-03,8:00p,Miami Heat,Washington Wizards,19660,129,Kaseya Center
+NBA,2023-11-03,8:00p,Oklahoma City Thunder,Golden State Warriors,16827,159,Paycom Center
+NBA,2023-11-03,10:00p,Denver Nuggets,Dallas Mavericks,19729,139,Ball Arena
+NBA,2023-11-03,10:00p,Portland Trail Blazers,Memphis Grizzlies,18592,160,Moda Center
+NBA,2023-11-04,1:00p,Philadelphia 76ers,Phoenix Suns,19796,138,Wells Fargo Center
+NBA,2023-11-04,7:00p,Indiana Pacers,Charlotte Hornets,15945,152,Gainbridge Fieldhouse
+NBA,2023-11-04,7:00p,New Orleans Pelicans,Atlanta Hawks,17237,126,Smoothie King Center
+NBA,2023-11-04,7:00p,Orlando Magic,Los Angeles Lakers,18846,141,Kia Center
+NBA,2023-11-04,8:00p,Brooklyn Nets,Boston Celtics,17983,130,Barclays Center
+NBA,2023-11-04,8:00p,Houston Rockets,Sacramento Kings,18055,127,Toyota Center
+NBA,2023-11-04,8:00p,Minnesota Timberwolves,Utah Jazz,18024,130,Target Center
+NBA,2023-11-04,9:00p,Denver Nuggets,Chicago Bulls,19610,128,Ball Arena
+NBA,2023-11-05,3:00p,Detroit Pistons,Phoenix Suns,20062,137,Little Caesars Arena
+NBA,2023-11-05,3:30p,San Antonio Spurs,Toronto Raptors,18354,156,Frost Bank Center
+NBA,2023-11-05,6:00p,Cleveland Cavaliers,Golden State Warriors,19432,137,Rocket Mortgage Fieldhouse
+NBA,2023-11-05,7:30p,Dallas Mavericks,Charlotte Hornets,20052,142,American Airlines Center
+NBA,2023-11-05,9:00p,Portland Trail Blazers,Memphis Grizzlies,18187,133,Moda Center
+NBA,2023-11-06,7:00p,Detroit Pistons,Golden State Warriors,20062,129,Little Caesars Arena
+NBA,2023-11-06,7:00p,Indiana Pacers,San Antonio Spurs,15129,132,Gainbridge Fieldhouse
+NBA,2023-11-06,7:00p,Orlando Magic,Dallas Mavericks,19409,142,Kia Center
+NBA,2023-11-06,7:00p,Philadelphia 76ers,Washington Wizards,19765,134,Wells Fargo Center
+NBA,2023-11-06,7:30p,Brooklyn Nets,Milwaukee Bucks,17935,140,Barclays Center
+NBA,2023-11-06,7:30p,Miami Heat,Los Angeles Lakers,19725,130,Kaseya Center
+NBA,2023-11-06,7:30p,New York Knicks,Los Angeles Clippers,19812,129,Madison Square Garden (IV)
+NBA,2023-11-06,8:00p,Chicago Bulls,Utah Jazz,18031,126,United Center
+NBA,2023-11-06,8:00p,Houston Rockets,Sacramento Kings,15130,137,Toyota Center
+NBA,2023-11-06,8:00p,Minnesota Timberwolves,Boston Celtics,18024,160,Target Center
+NBA,2023-11-06,8:00p,Oklahoma City Thunder,Atlanta Hawks,16486,137,Paycom Center
+NBA,2023-11-06,9:00p,Denver Nuggets,New Orleans Pelicans,19544,129,Ball Arena
+NBA,2023-11-08,7:00p,Charlotte Hornets,Washington Wizards,14267,136,Spectrum Center
+NBA,2023-11-08,7:00p,Indiana Pacers,Utah Jazz,14509,129,Gainbridge Fieldhouse
+NBA,2023-11-08,7:00p,Philadelphia 76ers,Boston Celtics,19953,131,Wells Fargo Center
+NBA,2023-11-08,7:30p,Brooklyn Nets,Los Angeles Clippers,17933,123,Barclays Center
+NBA,2023-11-08,7:30p,New York Knicks,San Antonio Spurs,19812,132,Madison Square Garden (IV)
+NBA,2023-11-08,8:00p,Chicago Bulls,Phoenix Suns,18220,156,United Center
+NBA,2023-11-08,8:00p,Houston Rockets,Los Angeles Lakers,18055,131,Toyota Center
+NBA,2023-11-08,8:00p,Memphis Grizzlies,Miami Heat,16781,148,FedEx Forum
+NBA,2023-11-08,8:00p,Milwaukee Bucks,Detroit Pistons,17341,140,Fiserv Forum
+NBA,2023-11-08,8:00p,Minnesota Timberwolves,New Orleans Pelicans,18024,127,Target Center
+NBA,2023-11-08,8:00p,Oklahoma City Thunder,Cleveland Cavaliers,16314,139,Paycom Center
+NBA,2023-11-08,8:30p,Dallas Mavericks,Toronto Raptors,20063,139,American Airlines Center
+NBA,2023-11-08,10:00p,Denver Nuggets,Golden State Warriors,19737,140,Ball Arena
+NBA,2023-11-08,10:00p,Sacramento Kings,Portland Trail Blazers,17829,169,Golden 1 Center
+NBA,2023-11-09,7:00p,Indiana Pacers,Milwaukee Bucks,14648,145,Gainbridge Fieldhouse
+NBA,2023-11-09,9:30p,Orlando Magic,Atlanta Hawks,19986,151,Mexico City Arena
+NBA,2023-11-10,7:00p,Detroit Pistons,Philadelphia 76ers,18902,138,Little Caesars Arena
+NBA,2023-11-10,7:00p,Washington Wizards,Charlotte Hornets,17602,135,Capital One Arena
+NBA,2023-11-10,7:30p,Boston Celtics,Brooklyn Nets,19156,131,TD Garden
+NBA,2023-11-10,8:00p,Houston Rockets,New Orleans Pelicans,16236,148,Toyota Center
+NBA,2023-11-10,8:00p,Memphis Grizzlies,Utah Jazz,16977,141,FedEx Forum
+NBA,2023-11-10,8:00p,San Antonio Spurs,Minnesota Timberwolves,18354,137,Frost Bank Center
+NBA,2023-11-10,8:30p,Dallas Mavericks,Los Angeles Clippers,20377,144,American Airlines Center
+NBA,2023-11-10,10:00p,Phoenix Suns,Los Angeles Lakers,17071,153,Footprint Center
+NBA,2023-11-10,10:00p,Sacramento Kings,Oklahoma City Thunder,18097,142,Golden 1 Center
+NBA,2023-11-11,6:00p,Orlando Magic,Milwaukee Bucks,19354,145,Kia Center
+NBA,2023-11-11,7:00p,Boston Celtics,Toronto Raptors,19156,124,TD Garden
+NBA,2023-11-11,7:30p,Atlanta Hawks,Miami Heat,17722,133,State Farm Arena
+NBA,2023-11-11,8:30p,Golden State Warriors,Cleveland Cavaliers,18064,169,Chase Center
+NBA,2023-11-12,12:00p,New York Knicks,Charlotte Hornets,19812,129,Madison Square Garden (IV)
+NBA,2023-11-12,3:00p,Brooklyn Nets,Washington Wizards,17732,137,Barclays Center
+NBA,2023-11-12,3:30p,Los Angeles Clippers,Memphis Grizzlies,17220,145,Crypto.com Arena
+NBA,2023-11-12,6:00p,Philadelphia 76ers,Indiana Pacers,19758,126,Wells Fargo Center
+NBA,2023-11-12,7:00p,Chicago Bulls,Detroit Pistons,19088,132,United Center
+NBA,2023-11-12,7:00p,Houston Rockets,Denver Nuggets,18055,130,Toyota Center
+NBA,2023-11-12,7:00p,New Orleans Pelicans,Dallas Mavericks,16302,130,Smoothie King Center
+NBA,2023-11-12,7:00p,San Antonio Spurs,Miami Heat,18036,127,Frost Bank Center
+NBA,2023-11-12,8:00p,Phoenix Suns,Oklahoma City Thunder,17071,135,Footprint Center
+NBA,2023-11-12,8:30p,Golden State Warriors,Minnesota Timberwolves,18064,145,Chase Center
+NBA,2023-11-12,10:00p,Los Angeles Lakers,Portland Trail Blazers,18997,131,Crypto.com Arena
+NBA,2023-11-13,7:30p,Boston Celtics,New York Knicks,19156,131,TD Garden
+NBA,2023-11-13,7:30p,Toronto Raptors,Washington Wizards,19800,134,Scotiabank Arena
+NBA,2023-11-13,8:00p,Milwaukee Bucks,Chicago Bulls,17865,136,Fiserv Forum
+NBA,2023-11-13,10:00p,Sacramento Kings,Cleveland Cavaliers,17829,137,Golden 1 Center
+NBA,2023-11-14,7:00p,Charlotte Hornets,Miami Heat,15673,134,Spectrum Center
+NBA,2023-11-14,7:00p,Detroit Pistons,Atlanta Hawks,16963,133,Little Caesars Arena
+NBA,2023-11-14,7:00p,Philadelphia 76ers,Indiana Pacers,19774,157,Wells Fargo Center
+NBA,2023-11-14,7:30p,Brooklyn Nets,Orlando Magic,17361,127,Barclays Center
+NBA,2023-11-14,7:30p,Oklahoma City Thunder,San Antonio Spurs,18203,137,Paycom Center
+NBA,2023-11-14,8:00p,New Orleans Pelicans,Dallas Mavericks,16354,130,Smoothie King Center
+NBA,2023-11-14,9:00p,Utah Jazz,Portland Trail Blazers,18206,123,Delta Center
+NBA,2023-11-14,10:00p,Denver Nuggets,Los Angeles Clippers,19661,149,Ball Arena
+NBA,2023-11-14,10:00p,Golden State Warriors,Minnesota Timberwolves,18064,144,Chase Center
+NBA,2023-11-14,10:30p,Los Angeles Lakers,Memphis Grizzlies,18430,134,Crypto.com Arena
+NBA,2023-11-15,7:00p,Washington Wizards,Dallas Mavericks,16632,127,Capital One Arena
+NBA,2023-11-15,7:30p,Atlanta Hawks,New York Knicks,17060,137,State Farm Arena
+NBA,2023-11-15,7:30p,Philadelphia 76ers,Boston Celtics,19773,130,Wells Fargo Center
+NBA,2023-11-15,7:30p,Toronto Raptors,Milwaukee Bucks,19800,135,Scotiabank Arena
+NBA,2023-11-15,8:00p,Chicago Bulls,Orlando Magic,19092,140,United Center
+NBA,2023-11-15,9:00p,Phoenix Suns,Minnesota Timberwolves,17071,127,Footprint Center
+NBA,2023-11-15,10:00p,Los Angeles Lakers,Sacramento Kings,18687,133,Crypto.com Arena
+NBA,2023-11-15,10:00p,Portland Trail Blazers,Cleveland Cavaliers,18137,130,Moda Center
+NBA,2023-11-16,7:30p,Miami Heat,Brooklyn Nets,19866,137,Kaseya Center
+NBA,2023-11-16,10:00p,Golden State Warriors,Oklahoma City Thunder,18064,129,Chase Center
+NBA,2023-11-17,7:00p,Charlotte Hornets,Milwaukee Bucks,19258,129,Spectrum Center
+NBA,2023-11-17,7:00p,Washington Wizards,New York Knicks,16886,138,Capital One Arena
+NBA,2023-11-17,7:30p,Atlanta Hawks,Philadelphia 76ers,17067,139,State Farm Arena
+NBA,2023-11-17,7:30p,Cleveland Cavaliers,Detroit Pistons,19432,125,Rocket Mortgage Fieldhouse
+NBA,2023-11-17,7:30p,San Antonio Spurs,Sacramento Kings,18354,140,Frost Bank Center
+NBA,2023-11-17,7:30p,Toronto Raptors,Boston Celtics,19800,122,Scotiabank Arena
+NBA,2023-11-17,8:00p,Chicago Bulls,Orlando Magic,20235,137,United Center
+NBA,2023-11-17,8:00p,New Orleans Pelicans,Denver Nuggets,15278,130,Smoothie King Center
+NBA,2023-11-17,10:00p,Portland Trail Blazers,Los Angeles Lakers,18570,128,Moda Center
+NBA,2023-11-17,10:00p,Utah Jazz,Phoenix Suns,18206,148,Delta Center
+NBA,2023-11-17,10:30p,Los Angeles Clippers,Houston Rockets,19370,147,Crypto.com Arena
+NBA,2023-11-18,6:00p,Charlotte Hornets,New York Knicks,19171,122,Spectrum Center
+NBA,2023-11-18,7:00p,New Orleans Pelicans,Minnesota Timberwolves,15536,141,Smoothie King Center
+NBA,2023-11-18,8:00p,Chicago Bulls,Miami Heat,18063,138,United Center
+NBA,2023-11-18,8:00p,Milwaukee Bucks,Dallas Mavericks,18128,127,Fiserv Forum
+NBA,2023-11-18,8:00p,San Antonio Spurs,Memphis Grizzlies,18354,138,Frost Bank Center
+NBA,2023-11-18,8:30p,Golden State Warriors,Oklahoma City Thunder,18064,147,Chase Center
+NBA,2023-11-19,3:00p,Brooklyn Nets,Philadelphia 76ers,17934,128,Barclays Center
+NBA,2023-11-19,4:00p,Toronto Raptors,Detroit Pistons,19182,131,Scotiabank Arena
+NBA,2023-11-19,5:00p,Indiana Pacers,Orlando Magic,17276,146,Gainbridge Fieldhouse
+NBA,2023-11-19,6:00p,Cleveland Cavaliers,Denver Nuggets,19432,125,Rocket Mortgage Fieldhouse
+NBA,2023-11-19,7:30p,Dallas Mavericks,Sacramento Kings,20211,130,American Airlines Center
+NBA,2023-11-19,8:00p,Memphis Grizzlies,Boston Celtics,17798,128,FedEx Forum
+NBA,2023-11-19,8:00p,Utah Jazz,Phoenix Suns,18206,171,Delta Center
+NBA,2023-11-19,9:00p,Portland Trail Blazers,Oklahoma City Thunder,18235,119,Moda Center
+NBA,2023-11-19,9:30p,Los Angeles Lakers,Houston Rockets,18997,141,Crypto.com Arena
+NBA,2023-11-20,7:00p,Charlotte Hornets,Boston Celtics,19134,139,Spectrum Center
+NBA,2023-11-20,7:00p,Detroit Pistons,Denver Nuggets,19403,135,Little Caesars Arena
+NBA,2023-11-20,7:00p,Washington Wizards,Milwaukee Bucks,17746,125,Capital One Arena
+NBA,2023-11-20,8:00p,Chicago Bulls,Miami Heat,19258,129,United Center
+NBA,2023-11-20,8:00p,Minnesota Timberwolves,New York Knicks,18024,139,Target Center
+NBA,2023-11-20,8:00p,New Orleans Pelicans,Sacramento Kings,16004,130,Smoothie King Center
+NBA,2023-11-20,8:00p,San Antonio Spurs,Los Angeles Clippers,18354,125,Frost Bank Center
+NBA,2023-11-20,10:00p,Golden State Warriors,Houston Rockets,18064,129,Chase Center
+NBA,2023-11-21,7:00p,Orlando Magic,Toronto Raptors,18846,130,Kia Center
+NBA,2023-11-21,7:30p,Atlanta Hawks,Indiana Pacers,17162,138,State Farm Arena
+NBA,2023-11-21,7:30p,Philadelphia 76ers,Cleveland Cavaliers,20565,171,Wells Fargo Center
+NBA,2023-11-21,9:00p,Phoenix Suns,Portland Trail Blazers,17071,136,Footprint Center
+NBA,2023-11-21,10:00p,Los Angeles Lakers,Utah Jazz,18997,129,Crypto.com Arena
+NBA,2023-11-22,7:00p,Charlotte Hornets,Washington Wizards,16432,132,Spectrum Center
+NBA,2023-11-22,7:00p,Orlando Magic,Denver Nuggets,18237,142,Kia Center
+NBA,2023-11-22,7:30p,Atlanta Hawks,Brooklyn Nets,17340,157,State Farm Arena
+NBA,2023-11-22,7:30p,Boston Celtics,Milwaukee Bucks,19156,133,TD Garden
+NBA,2023-11-22,7:30p,Cleveland Cavaliers,Miami Heat,19432,130,Rocket Mortgage Fieldhouse
+NBA,2023-11-22,7:30p,Indiana Pacers,Toronto Raptors,17091,139,Gainbridge Fieldhouse
+NBA,2023-11-22,8:00p,Houston Rockets,Memphis Grizzlies,18055,137,Toyota Center
+NBA,2023-11-22,8:00p,Minnesota Timberwolves,Philadelphia 76ers,18024,129,Target Center
+NBA,2023-11-22,8:00p,New Orleans Pelicans,Sacramento Kings,16012,146,Smoothie King Center
+NBA,2023-11-22,8:00p,Oklahoma City Thunder,Chicago Bulls,18203,134,Paycom Center
+NBA,2023-11-22,8:00p,San Antonio Spurs,Los Angeles Clippers,18354,136,Frost Bank Center
+NBA,2023-11-22,10:00p,Phoenix Suns,Golden State Warriors,17071,165,Footprint Center
+NBA,2023-11-22,10:00p,Portland Trail Blazers,Utah Jazz,17819,127,Moda Center
+NBA,2023-11-22,10:30p,Los Angeles Lakers,Dallas Mavericks,18997,132,Crypto.com Arena
+NBA,2023-11-24,2:30p,Orlando Magic,Boston Celtics,18846,137,Kia Center
+NBA,2023-11-24,5:00p,Memphis Grizzlies,Phoenix Suns,17794,126,FedEx Forum
+NBA,2023-11-24,7:30p,New York Knicks,Miami Heat,19812,138,Madison Square Garden (IV)
+NBA,2023-11-24,7:30p,Toronto Raptors,Chicago Bulls,19800,132,Scotiabank Arena
+NBA,2023-11-24,8:00p,Houston Rockets,Denver Nuggets,18055,127,Toyota Center
+NBA,2023-11-24,8:00p,Indiana Pacers,Detroit Pistons,17274,134,Gainbridge Fieldhouse
+NBA,2023-11-24,8:00p,Milwaukee Bucks,Washington Wizards,17880,140,Fiserv Forum
+NBA,2023-11-24,8:00p,Minnesota Timberwolves,Sacramento Kings,18024,131,Target Center
+NBA,2023-11-24,10:00p,Golden State Warriors,San Antonio Spurs,18064,155,Chase Center
+NBA,2023-11-24,10:30p,Los Angeles Clippers,New Orleans Pelicans,19370,140,Crypto.com Arena
+NBA,2023-11-25,5:00p,Oklahoma City Thunder,Philadelphia 76ers,17125,153,Paycom Center
+NBA,2023-11-25,6:00p,Brooklyn Nets,Miami Heat,17817,130,Barclays Center
+NBA,2023-11-25,7:00p,Washington Wizards,Atlanta Hawks,16276,122,Capital One Arena
+NBA,2023-11-25,7:30p,Cleveland Cavaliers,Los Angeles Lakers,19432,132,Rocket Mortgage Fieldhouse
+NBA,2023-11-25,9:30p,Utah Jazz,New Orleans Pelicans,18206,130,Delta Center
+NBA,2023-11-25,10:30p,Los Angeles Clippers,Dallas Mavericks,19370,129,Crypto.com Arena
+NBA,2023-11-26,3:30p,Milwaukee Bucks,Portland Trail Blazers,17602,149,Fiserv Forum
+NBA,2023-11-26,6:00p,Boston Celtics,Atlanta Hawks,19156,128,TD Garden
+NBA,2023-11-26,6:00p,Memphis Grizzlies,Minnesota Timberwolves,15764,135,FedEx Forum
+NBA,2023-11-26,6:00p,New York Knicks,Phoenix Suns,19812,145,Madison Square Garden (IV)
+NBA,2023-11-26,6:00p,Orlando Magic,Charlotte Hornets,18846,136,Kia Center
+NBA,2023-11-26,7:30p,Brooklyn Nets,Chicago Bulls,16687,123,Barclays Center
+NBA,2023-11-26,7:30p,Cleveland Cavaliers,Toronto Raptors,19432,136,Rocket Mortgage Fieldhouse
+NBA,2023-11-26,8:00p,Denver Nuggets,San Antonio Spurs,19665,139,Ball Arena
+NBA,2023-11-27,7:00p,Detroit Pistons,Washington Wizards,14346,138,Little Caesars Arena
+NBA,2023-11-27,7:00p,Indiana Pacers,Portland Trail Blazers,14508,149,Gainbridge Fieldhouse
+NBA,2023-11-27,7:00p,Philadelphia 76ers,Los Angeles Lakers,19907,131,Wells Fargo Center
+NBA,2023-11-27,9:00p,Utah Jazz,New Orleans Pelicans,18206,137,Delta Center
+NBA,2023-11-27,10:30p,Los Angeles Clippers,Denver Nuggets,17071,146,Crypto.com Arena
+NBA,2023-11-28,7:30p,Boston Celtics,Chicago Bulls,19156,121,TD Garden
+NBA,2023-11-28,7:30p,Brooklyn Nets,Toronto Raptors,15844,131,Barclays Center
+NBA,2023-11-28,7:30p,Cleveland Cavaliers,Atlanta Hawks,19432,130,Rocket Mortgage Fieldhouse
+NBA,2023-11-28,7:30p,Miami Heat,Milwaukee Bucks,19691,151,Kaseya Center
+NBA,2023-11-28,7:30p,New York Knicks,Charlotte Hornets,19111,123,Madison Square Garden (IV)
+NBA,2023-11-28,8:00p,Minnesota Timberwolves,Oklahoma City Thunder,18024,140,Target Center
+NBA,2023-11-28,8:30p,Dallas Mavericks,Houston Rockets,20103,155,American Airlines Center
+NBA,2023-11-28,10:00p,Sacramento Kings,Golden State Warriors,18039,164,Golden 1 Center
+NBA,2023-11-29,7:00p,Detroit Pistons,Los Angeles Lakers,20062,133,Little Caesars Arena
+NBA,2023-11-29,7:00p,Orlando Magic,Washington Wizards,17109,133,Kia Center
+NBA,2023-11-29,7:30p,Toronto Raptors,Phoenix Suns,19800,132,Scotiabank Arena
+NBA,2023-11-29,8:00p,Memphis Grizzlies,Utah Jazz,15327,126,FedEx Forum
+NBA,2023-11-29,8:00p,New Orleans Pelicans,Philadelphia 76ers,16009,143,Smoothie King Center
+NBA,2023-11-29,9:00p,Denver Nuggets,Houston Rockets,19590,127,Ball Arena
+NBA,2023-11-29,10:00p,Sacramento Kings,Los Angeles Clippers,17829,137,Golden 1 Center
+NBA,2023-11-30,7:00p,Cleveland Cavaliers,Portland Trail Blazers,19432,124,Rocket Mortgage Fieldhouse
+NBA,2023-11-30,7:30p,Brooklyn Nets,Charlotte Hornets,16072,121,Barclays Center
+NBA,2023-11-30,7:30p,Miami Heat,Indiana Pacers,19604,153,Kaseya Center
+NBA,2023-11-30,7:30p,New York Knicks,Detroit Pistons,19812,138,Madison Square Garden (IV)
+NBA,2023-11-30,8:00p,Chicago Bulls,Milwaukee Bucks,19838,156,United Center
+NBA,2023-11-30,8:00p,Minnesota Timberwolves,Utah Jazz,18024,123,Target Center
+NBA,2023-11-30,8:00p,Oklahoma City Thunder,Los Angeles Lakers,17401,127,Paycom Center
+NBA,2023-11-30,8:00p,San Antonio Spurs,Atlanta Hawks,17646,137,Frost Bank Center
+NBA,2023-11-30,10:00p,Golden State Warriors,Los Angeles Clippers,18064,143,Chase Center
+NBA,2023-12-01,7:00p,Orlando Magic,Washington Wizards,18846,150,Kia Center
+NBA,2023-12-01,7:30p,Boston Celtics,Philadelphia 76ers,19156,145,TD Garden
+NBA,2023-12-01,7:30p,Dallas Mavericks,Memphis Grizzlies,20150,128,American Airlines Center
+NBA,2023-12-01,7:30p,Toronto Raptors,New York Knicks,19800,133,Scotiabank Arena
+NBA,2023-12-01,8:00p,New Orleans Pelicans,San Antonio Spurs,17028,129,Smoothie King Center
+NBA,2023-12-01,10:00p,Phoenix Suns,Denver Nuggets,17071,141,Footprint Center
+NBA,2023-12-02,4:00p,Los Angeles Clippers,Golden State Warriors,19370,140,Crypto.com Arena
+NBA,2023-12-02,5:00p,Charlotte Hornets,Minnesota Timberwolves,17731,136,Spectrum Center
+NBA,2023-12-02,7:00p,Brooklyn Nets,Orlando Magic,17966,140,Barclays Center
+NBA,2023-12-02,7:00p,Detroit Pistons,Cleveland Cavaliers,18924,125,Little Caesars Arena
+NBA,2023-12-02,8:00p,Chicago Bulls,New Orleans Pelicans,20511,135,United Center
+NBA,2023-12-02,8:00p,Miami Heat,Indiana Pacers,19650,137,Kaseya Center
+NBA,2023-12-02,8:00p,Milwaukee Bucks,Atlanta Hawks,17866,124,Fiserv Forum
+NBA,2023-12-02,9:00p,Dallas Mavericks,Oklahoma City Thunder,20277,142,American Airlines Center
+NBA,2023-12-02,9:00p,Phoenix Suns,Memphis Grizzlies,17071,147,Footprint Center
+NBA,2023-12-02,9:30p,Utah Jazz,Portland Trail Blazers,18206,148,Delta Center
+NBA,2023-12-02,10:00p,Sacramento Kings,Denver Nuggets,17829,133,Golden 1 Center
+NBA,2023-12-02,10:30p,Los Angeles Lakers,Houston Rockets,18997,137,Crypto.com Arena
+NBA,2023-12-04,7:30p,Indiana Pacers,Boston Celtics,16693,134,Gainbridge Fieldhouse
+NBA,2023-12-04,10:00p,Sacramento Kings,New Orleans Pelicans,18048,144,Golden 1 Center
+NBA,2023-12-05,7:30p,Milwaukee Bucks,New York Knicks,17448,141,Fiserv Forum
+NBA,2023-12-05,10:00p,Los Angeles Lakers,Phoenix Suns,18664,148,Crypto.com Arena
+NBA,2023-12-06,7:00p,Cleveland Cavaliers,Orlando Magic,19432,145,Rocket Mortgage Fieldhouse
+NBA,2023-12-06,7:00p,Detroit Pistons,Memphis Grizzlies,12862,119,Little Caesars Arena
+NBA,2023-12-06,7:00p,Washington Wizards,Philadelphia 76ers,15568,127,Capital One Arena
+NBA,2023-12-06,7:30p,Atlanta Hawks,Brooklyn Nets,15906,141,State Farm Arena
+NBA,2023-12-06,7:30p,Minnesota Timberwolves,San Antonio Spurs,18024,135,Target Center
+NBA,2023-12-06,7:30p,Toronto Raptors,Miami Heat,19084,130,Scotiabank Arena
+NBA,2023-12-06,8:00p,Chicago Bulls,Charlotte Hornets,17689,137,United Center
+NBA,2023-12-06,8:00p,Houston Rockets,Oklahoma City Thunder,16291,130,Toyota Center
+NBA,2023-12-06,8:30p,Dallas Mavericks,Utah Jazz,19877,122,American Airlines Center
+NBA,2023-12-06,10:00p,Golden State Warriors,Portland Trail Blazers,18064,140,Chase Center
+NBA,2023-12-06,10:00p,Los Angeles Clippers,Denver Nuggets,16365,133,Crypto.com Arena
+NBA,2023-12-07,5:00p,Milwaukee Bucks,Indiana Pacers,16837,147,T-Mobile Arena
+NBA,2023-12-07,9:00p,Los Angeles Lakers,New Orleans Pelicans,18017,132,T-Mobile Arena
+NBA,2023-12-08,7:00p,Charlotte Hornets,Toronto Raptors,11526,137,Spectrum Center
+NBA,2023-12-08,7:00p,Orlando Magic,Detroit Pistons,18655,128,Kia Center
+NBA,2023-12-08,7:00p,Philadelphia 76ers,Atlanta Hawks,19746,133,Wells Fargo Center
+NBA,2023-12-08,7:30p,Boston Celtics,New York Knicks,19156,136,TD Garden
+NBA,2023-12-08,7:30p,Brooklyn Nets,Washington Wizards,16587,129,Barclays Center
+NBA,2023-12-08,8:00p,Memphis Grizzlies,Minnesota Timberwolves,15577,131,FedEx Forum
+NBA,2023-12-08,8:00p,Miami Heat,Cleveland Cavaliers,19600,132,Kaseya Center
+NBA,2023-12-08,8:00p,Oklahoma City Thunder,Golden State Warriors,17112,157,Paycom Center
+NBA,2023-12-08,8:30p,San Antonio Spurs,Chicago Bulls,18074,132,Frost Bank Center
+NBA,2023-12-08,9:00p,Denver Nuggets,Houston Rockets,19544,148,Ball Arena
+NBA,2023-12-08,9:00p,Phoenix Suns,Sacramento Kings,17071,135,Footprint Center
+NBA,2023-12-08,10:00p,Portland Trail Blazers,Dallas Mavericks,18762,135,Moda Center
+NBA,2023-12-08,10:00p,Utah Jazz,Los Angeles Clippers,18206,141,Delta Center
+NBA,2023-12-09,8:30p,Los Angeles Lakers,Indiana Pacers,19021,,T-Mobile Arena
+NBA,2023-12-11,7:00p,Charlotte Hornets,Miami Heat,15543,142,Spectrum Center
+NBA,2023-12-11,7:00p,Detroit Pistons,Indiana Pacers,14988,132,Little Caesars Arena
+NBA,2023-12-11,7:00p,Orlando Magic,Cleveland Cavaliers,19032,145,Kia Center
+NBA,2023-12-11,7:00p,Philadelphia 76ers,Washington Wizards,19762,132,Wells Fargo Center
+NBA,2023-12-11,7:30p,Atlanta Hawks,Denver Nuggets,17531,146,State Farm Arena
+NBA,2023-12-11,7:30p,New York Knicks,Toronto Raptors,19812,141,Madison Square Garden (IV)
+NBA,2023-12-11,8:00p,Houston Rockets,San Antonio Spurs,16481,127,Toyota Center
+NBA,2023-12-11,8:00p,Memphis Grizzlies,Dallas Mavericks,16379,131,FedEx Forum
+NBA,2023-12-11,8:00p,Milwaukee Bucks,Chicago Bulls,17440,161,Fiserv Forum
+NBA,2023-12-11,8:00p,New Orleans Pelicans,Minnesota Timberwolves,16487,139,Smoothie King Center
+NBA,2023-12-11,8:00p,Oklahoma City Thunder,Utah Jazz,16631,123,Paycom Center
+NBA,2023-12-11,10:00p,Sacramento Kings,Brooklyn Nets,17794,131,Golden 1 Center
+NBA,2023-12-11,10:30p,Los Angeles Clippers,Portland Trail Blazers,17102,148,Crypto.com Arena
+NBA,2023-12-12,7:30p,Boston Celtics,Cleveland Cavaliers,19156,122,TD Garden
+NBA,2023-12-12,7:30p,Dallas Mavericks,Los Angeles Lakers,20377,141,American Airlines Center
+NBA,2023-12-12,8:00p,Chicago Bulls,Denver Nuggets,20775,140,United Center
+NBA,2023-12-12,10:00p,Phoenix Suns,Golden State Warriors,17071,158,Footprint Center
+NBA,2023-12-12,10:30p,Los Angeles Clippers,Sacramento Kings,17060,131,Crypto.com Arena
+NBA,2023-12-13,7:00p,Detroit Pistons,Philadelphia 76ers,16749,130,Little Caesars Arena
+NBA,2023-12-13,7:00p,Washington Wizards,New Orleans Pelicans,14080,128,Capital One Arena
+NBA,2023-12-13,7:30p,Miami Heat,Charlotte Hornets,19600,124,Kaseya Center
+NBA,2023-12-13,7:30p,Toronto Raptors,Atlanta Hawks,19423,138,Scotiabank Arena
+NBA,2023-12-13,8:00p,Houston Rockets,Memphis Grizzlies,16813,139,Toyota Center
+NBA,2023-12-13,8:00p,Milwaukee Bucks,Indiana Pacers,17431,168,Fiserv Forum
+NBA,2023-12-13,8:00p,San Antonio Spurs,Los Angeles Lakers,18354,134,Frost Bank Center
+NBA,2023-12-13,9:00p,Phoenix Suns,Brooklyn Nets,17071,140,Footprint Center
+NBA,2023-12-13,9:00p,Utah Jazz,New York Knicks,18206,149,Delta Center
+NBA,2023-12-14,7:30p,Boston Celtics,Cleveland Cavaliers,19156,127,TD Garden
+NBA,2023-12-14,7:30p,Miami Heat,Chicago Bulls,19653,139,Kaseya Center
+NBA,2023-12-14,8:30p,Dallas Mavericks,Minnesota Timberwolves,20177,132,American Airlines Center
+NBA,2023-12-14,9:00p,Denver Nuggets,Brooklyn Nets,19636,132,Ball Arena
+NBA,2023-12-14,10:00p,Portland Trail Blazers,Utah Jazz,17842,127,Moda Center
+NBA,2023-12-14,10:00p,Sacramento Kings,Oklahoma City Thunder,17794,144,Golden 1 Center
+NBA,2023-12-14,10:30p,Los Angeles Clippers,Golden State Warriors,19370,138,Crypto.com Arena
+NBA,2023-12-15,7:00p,Charlotte Hornets,New Orleans Pelicans,16080,135,Spectrum Center
+NBA,2023-12-15,7:00p,Philadelphia 76ers,Detroit Pistons,19761,131,Wells Fargo Center
+NBA,2023-12-15,7:00p,Washington Wizards,Indiana Pacers,15208,136,Capital One Arena
+NBA,2023-12-15,7:30p,Boston Celtics,Orlando Magic,19156,126,TD Garden
+NBA,2023-12-15,7:30p,San Antonio Spurs,Los Angeles Lakers,18354,134,Frost Bank Center
+NBA,2023-12-15,7:30p,Toronto Raptors,Atlanta Hawks,19800,124,Scotiabank Arena
+NBA,2023-12-15,8:00p,Memphis Grizzlies,Houston Rockets,16941,140,FedEx Forum
+NBA,2023-12-15,10:00p,Phoenix Suns,New York Knicks,17071,143,Footprint Center
+NBA,2023-12-16,6:00p,Milwaukee Bucks,Detroit Pistons,17666,133,Fiserv Forum
+NBA,2023-12-16,7:00p,Charlotte Hornets,Philadelphia 76ers,17829,121,Spectrum Center
+NBA,2023-12-16,7:30p,Cleveland Cavaliers,Atlanta Hawks,19432,129,Rocket Mortgage Fieldhouse
+NBA,2023-12-16,8:00p,Miami Heat,Chicago Bulls,19815,129,Kaseya Center
+NBA,2023-12-16,8:00p,Minnesota Timberwolves,Indiana Pacers,18024,130,Target Center
+NBA,2023-12-16,8:30p,Golden State Warriors,Brooklyn Nets,18064,134,Chase Center
+NBA,2023-12-16,9:00p,Denver Nuggets,Oklahoma City Thunder,19611,138,Ball Arena
+NBA,2023-12-16,9:00p,Portland Trail Blazers,Dallas Mavericks,18439,132,Moda Center
+NBA,2023-12-16,10:00p,Sacramento Kings,Utah Jazz,17794,126,Golden 1 Center
+NBA,2023-12-16,10:30p,Los Angeles Clippers,New York Knicks,19370,135,Crypto.com Arena
+NBA,2023-12-17,3:00p,Boston Celtics,Orlando Magic,19156,130,TD Garden
+NBA,2023-12-17,3:30p,San Antonio Spurs,New Orleans Pelicans,18354,126,Frost Bank Center
+NBA,2023-12-17,7:00p,Milwaukee Bucks,Houston Rockets,17341,141,Fiserv Forum
+NBA,2023-12-17,8:00p,Phoenix Suns,Washington Wizards,17071,146,Footprint Center
+NBA,2023-12-17,9:00p,Portland Trail Blazers,Golden State Warriors,18547,134,Moda Center
+NBA,2023-12-18,7:00p,Cleveland Cavaliers,Houston Rockets,19432,161,Rocket Mortgage Fieldhouse
+NBA,2023-12-18,7:00p,Indiana Pacers,Los Angeles Clippers,16665,135,Gainbridge Fieldhouse
+NBA,2023-12-18,7:00p,Philadelphia 76ers,Chicago Bulls,19773,129,Wells Fargo Center
+NBA,2023-12-18,7:30p,Atlanta Hawks,Detroit Pistons,17664,145,State Farm Arena
+NBA,2023-12-18,7:30p,Miami Heat,Minnesota Timberwolves,19819,131,Kaseya Center
+NBA,2023-12-18,7:30p,Toronto Raptors,Charlotte Hornets,19288,125,Scotiabank Arena
+NBA,2023-12-18,8:00p,Oklahoma City Thunder,Memphis Grizzlies,16409,127,Paycom Center
+NBA,2023-12-18,9:00p,Denver Nuggets,Dallas Mavericks,19659,123,Ball Arena
+NBA,2023-12-18,9:00p,Utah Jazz,Brooklyn Nets,18206,130,Delta Center
+NBA,2023-12-18,10:00p,Sacramento Kings,Washington Wizards,17794,137,Golden 1 Center
+NBA,2023-12-18,10:30p,Los Angeles Lakers,New York Knicks,18997,136,Crypto.com Arena
+NBA,2023-12-19,7:30p,New Orleans Pelicans,Memphis Grizzlies,18355,144,Smoothie King Center
+NBA,2023-12-19,8:00p,Milwaukee Bucks,San Antonio Spurs,17729,127,Fiserv Forum
+NBA,2023-12-19,10:00p,Golden State Warriors,Boston Celtics,18064,145,Chase Center
+NBA,2023-12-19,10:00p,Portland Trail Blazers,Phoenix Suns,18233,137,Moda Center
+NBA,2023-12-20,7:00p,Cleveland Cavaliers,Utah Jazz,19432,127,Rocket Mortgage Fieldhouse
+NBA,2023-12-20,7:00p,Indiana Pacers,Charlotte Hornets,16761,131,Gainbridge Fieldhouse
+NBA,2023-12-20,7:00p,Orlando Magic,Miami Heat,19129,139,Kia Center
+NBA,2023-12-20,7:00p,Philadelphia 76ers,Minnesota Timberwolves,20365,143,Wells Fargo Center
+NBA,2023-12-20,7:30p,Brooklyn Nets,New York Knicks,18071,132,Barclays Center
+NBA,2023-12-20,7:30p,Toronto Raptors,Denver Nuggets,19800,117,Scotiabank Arena
+NBA,2023-12-20,8:00p,Chicago Bulls,Los Angeles Lakers,21234,120,United Center
+NBA,2023-12-20,8:00p,Houston Rockets,Atlanta Hawks,18055,137,Toyota Center
+NBA,2023-12-20,8:30p,Dallas Mavericks,Los Angeles Clippers,20310,140,American Airlines Center
+NBA,2023-12-20,10:00p,Sacramento Kings,Boston Celtics,17874,131,Golden 1 Center
+NBA,2023-12-21,7:00p,Detroit Pistons,Utah Jazz,18122,128,Little Caesars Arena
+NBA,2023-12-21,7:30p,Cleveland Cavaliers,New Orleans Pelicans,19432,115,Rocket Mortgage Fieldhouse
+NBA,2023-12-21,8:00p,Chicago Bulls,San Antonio Spurs,20697,122,United Center
+NBA,2023-12-21,8:00p,Memphis Grizzlies,Indiana Pacers,18160,134,FedEx Forum
+NBA,2023-12-21,8:00p,Milwaukee Bucks,Orlando Magic,17928,145,Fiserv Forum
+NBA,2023-12-21,8:00p,Oklahoma City Thunder,Los Angeles Clippers,18203,128,Paycom Center
+NBA,2023-12-21,9:00p,Minnesota Timberwolves,Los Angeles Lakers,18024,137,Target Center
+NBA,2023-12-21,10:00p,Portland Trail Blazers,Washington Wizards,18690,143,Moda Center
+NBA,2023-12-22,7:00p,Philadelphia 76ers,Toronto Raptors,20230,133,Wells Fargo Center
+NBA,2023-12-22,7:30p,Brooklyn Nets,Denver Nuggets,17732,137,Barclays Center
+NBA,2023-12-22,8:00p,Houston Rockets,Dallas Mavericks,18055,129,Toyota Center
+NBA,2023-12-22,8:00p,Miami Heat,Atlanta Hawks,20029,139,Kaseya Center
+NBA,2023-12-22,10:00p,Golden State Warriors,Washington Wizards,18064,136,Chase Center
+NBA,2023-12-22,10:00p,Sacramento Kings,Phoenix Suns,17794,138,Golden 1 Center
+NBA,2023-12-23,12:30p,New York Knicks,Milwaukee Bucks,19812,131,Madison Square Garden (IV)
+NBA,2023-12-23,3:30p,Los Angeles Clippers,Boston Celtics,19370,129,Crypto.com Arena
+NBA,2023-12-23,7:00p,Charlotte Hornets,Denver Nuggets,19165,129,Spectrum Center
+NBA,2023-12-23,7:00p,Indiana Pacers,Orlando Magic,17274,140,Gainbridge Fieldhouse
+NBA,2023-12-23,7:00p,New Orleans Pelicans,Houston Rockets,17399,146,Smoothie King Center
+NBA,2023-12-23,7:30p,Atlanta Hawks,Memphis Grizzlies,17632,138,State Farm Arena
+NBA,2023-12-23,7:30p,Brooklyn Nets,Detroit Pistons,17732,140,Barclays Center
+NBA,2023-12-23,7:30p,Toronto Raptors,Utah Jazz,19420,126,Scotiabank Arena
+NBA,2023-12-23,8:00p,Chicago Bulls,Cleveland Cavaliers,19583,127,United Center
+NBA,2023-12-23,8:00p,Oklahoma City Thunder,Los Angeles Lakers,18203,128,Paycom Center
+NBA,2023-12-23,8:30p,Dallas Mavericks,San Antonio Spurs,20409,127,American Airlines Center
+NBA,2023-12-23,8:30p,Golden State Warriors,Portland Trail Blazers,18064,130,Chase Center
+NBA,2023-12-23,10:00p,Sacramento Kings,Minnesota Timberwolves,17983,125,Golden 1 Center
+NBA,2023-12-25,12:00p,New York Knicks,Milwaukee Bucks,19812,143,Madison Square Garden (IV)
+NBA,2023-12-25,2:30p,Denver Nuggets,Golden State Warriors,19811,147,Ball Arena
+NBA,2023-12-25,5:00p,Los Angeles Lakers,Boston Celtics,18997,137,Crypto.com Arena
+NBA,2023-12-25,8:00p,Miami Heat,Philadelphia 76ers,20162,144,Kaseya Center
+NBA,2023-12-25,10:30p,Phoenix Suns,Dallas Mavericks,17071,146,Footprint Center
+NBA,2023-12-26,7:00p,Detroit Pistons,Brooklyn Nets,19811,147,Little Caesars Arena
+NBA,2023-12-26,7:00p,Washington Wizards,Orlando Magic,16293,140,Capital One Arena
+NBA,2023-12-26,8:00p,Chicago Bulls,Atlanta Hawks,21420,138,United Center
+NBA,2023-12-26,8:00p,Houston Rockets,Indiana Pacers,18055,136,Toyota Center
+NBA,2023-12-26,8:00p,New Orleans Pelicans,Memphis Grizzlies,18538,171,Smoothie King Center
+NBA,2023-12-26,8:00p,Oklahoma City Thunder,Minnesota Timberwolves,18203,134,Paycom Center
+NBA,2023-12-26,8:00p,San Antonio Spurs,Utah Jazz,18579,136,Frost Bank Center
+NBA,2023-12-26,10:00p,Portland Trail Blazers,Sacramento Kings,18585,126,Moda Center
+NBA,2023-12-26,10:30p,Los Angeles Clippers,Charlotte Hornets,19370,126,Crypto.com Arena
+NBA,2023-12-27,7:00p,Orlando Magic,Philadelphia 76ers,19179,135,Kia Center
+NBA,2023-12-27,7:00p,Washington Wizards,Toronto Raptors,15437,126,Capital One Arena
+NBA,2023-12-27,7:30p,Brooklyn Nets,Milwaukee Bucks,18199,136,Barclays Center
+NBA,2023-12-27,8:00p,Houston Rockets,Phoenix Suns,18055,134,Toyota Center
+NBA,2023-12-27,8:00p,Oklahoma City Thunder,New York Knicks,18203,136,Paycom Center
+NBA,2023-12-27,8:30p,Dallas Mavericks,Cleveland Cavaliers,20377,135,American Airlines Center
+NBA,2023-12-28,7:30p,Boston Celtics,Detroit Pistons,19156,151,TD Garden
+NBA,2023-12-28,8:00p,Chicago Bulls,Indiana Pacers,21568,133,United Center
+NBA,2023-12-28,8:00p,Minnesota Timberwolves,Dallas Mavericks,18024,144,Target Center
+NBA,2023-12-28,8:00p,New Orleans Pelicans,Utah Jazz,17753,127,Smoothie King Center
+NBA,2023-12-28,9:00p,Denver Nuggets,Memphis Grizzlies,19733,126,Ball Arena
+NBA,2023-12-28,10:00p,Golden State Warriors,Miami Heat,18064,138,Chase Center
+NBA,2023-12-28,10:00p,Portland Trail Blazers,San Antonio Spurs,19335,135,Moda Center
+NBA,2023-12-28,10:30p,Los Angeles Lakers,Charlotte Hornets,18997,123,Crypto.com Arena
+NBA,2023-12-29,7:00p,Orlando Magic,New York Knicks,19587,151,Kia Center
+NBA,2023-12-29,7:00p,Washington Wizards,Brooklyn Nets,16825,124,Capital One Arena
+NBA,2023-12-29,7:30p,Atlanta Hawks,Sacramento Kings,18305,128,State Farm Arena
+NBA,2023-12-29,7:30p,Boston Celtics,Toronto Raptors,19156,134,TD Garden
+NBA,2023-12-29,7:30p,Cleveland Cavaliers,Milwaukee Bucks,19432,136,Rocket Mortgage Fieldhouse
+NBA,2023-12-29,8:00p,Houston Rockets,Philadelphia 76ers,18055,137,Toyota Center
+NBA,2023-12-29,9:00p,Denver Nuggets,Oklahoma City Thunder,19808,125,Ball Arena
+NBA,2023-12-29,9:00p,Phoenix Suns,Charlotte Hornets,17071,130,Footprint Center
+NBA,2023-12-29,10:00p,Portland Trail Blazers,San Antonio Spurs,18861,133,Moda Center
+NBA,2023-12-29,10:30p,Los Angeles Clippers,Memphis Grizzlies,19370,135,Crypto.com Arena
+NBA,2023-12-30,5:00p,Utah Jazz,Miami Heat,18206,138,Delta Center
+NBA,2023-12-30,6:00p,Detroit Pistons,Toronto Raptors,18411,145,Little Caesars Arena
+NBA,2023-12-30,7:00p,Indiana Pacers,New York Knicks,17274,134,Gainbridge Fieldhouse
+NBA,2023-12-30,8:00p,Chicago Bulls,Philadelphia 76ers,21648,130,United Center
+NBA,2023-12-30,8:00p,Minnesota Timberwolves,Los Angeles Lakers,18024,149,Target Center
+NBA,2023-12-30,8:30p,Golden State Warriors,Dallas Mavericks,18064,133,Chase Center
+NBA,2023-12-31,3:00p,Washington Wizards,Atlanta Hawks,17042,138,Capital One Arena
+NBA,2023-12-31,7:00p,New Orleans Pelicans,Los Angeles Lakers,18434,127,Smoothie King Center
+NBA,2023-12-31,7:00p,Oklahoma City Thunder,Brooklyn Nets,18203,139,Paycom Center
+NBA,2023-12-31,7:00p,San Antonio Spurs,Boston Celtics,18886,117,Frost Bank Center
+NBA,2023-12-31,8:00p,Memphis Grizzlies,Sacramento Kings,17794,126,FedEx Forum
+NBA,2023-12-31,8:00p,Phoenix Suns,Orlando Magic,17071,126,Footprint Center
+NBA,2024-01-01,3:00p,New York Knicks,Minnesota Timberwolves,19812,148,Madison Square Garden (IV)
+NBA,2024-01-01,7:30p,Toronto Raptors,Cleveland Cavaliers,19800,148,Scotiabank Arena
+NBA,2024-01-01,8:00p,Houston Rockets,Detroit Pistons,18055,126,Toyota Center
+NBA,2024-01-01,8:00p,Milwaukee Bucks,Indiana Pacers,17922,142,Fiserv Forum
+NBA,2024-01-01,9:00p,Denver Nuggets,Charlotte Hornets,19625,121,Ball Arena
+NBA,2024-01-01,9:00p,Phoenix Suns,Portland Trail Blazers,17071,132,Footprint Center
+NBA,2024-01-01,9:00p,Utah Jazz,Dallas Mavericks,18206,125,Delta Center
+NBA,2024-01-01,10:30p,Los Angeles Clippers,Miami Heat,19370,130,Crypto.com Arena
+NBA,2024-01-02,7:00p,Philadelphia 76ers,Chicago Bulls,19772,137,Wells Fargo Center
+NBA,2024-01-02,8:00p,Memphis Grizzlies,San Antonio Spurs,17794,141,FedEx Forum
+NBA,2024-01-02,8:00p,New Orleans Pelicans,Brooklyn Nets,16253,116,Smoothie King Center
+NBA,2024-01-02,8:00p,Oklahoma City Thunder,Boston Celtics,18203,136,Paycom Center
+NBA,2024-01-02,10:00p,Golden State Warriors,Orlando Magic,18064,153,Chase Center
+NBA,2024-01-02,10:00p,Sacramento Kings,Charlotte Hornets,17832,130,Golden 1 Center
+NBA,2024-01-03,7:00p,Cleveland Cavaliers,Washington Wizards,19432,117,Rocket Mortgage Fieldhouse
+NBA,2024-01-03,7:00p,Indiana Pacers,Milwaukee Bucks,17274,155,Gainbridge Fieldhouse
+NBA,2024-01-03,7:30p,Atlanta Hawks,Oklahoma City Thunder,17770,147,State Farm Arena
+NBA,2024-01-03,8:00p,Houston Rockets,Brooklyn Nets,16563,135,Toyota Center
+NBA,2024-01-03,8:00p,Memphis Grizzlies,Toronto Raptors,16385,133,FedEx Forum
+NBA,2024-01-03,8:00p,Minnesota Timberwolves,New Orleans Pelicans,18024,131,Target Center
+NBA,2024-01-03,8:30p,Dallas Mavericks,Portland Trail Blazers,20077,142,American Airlines Center
+NBA,2024-01-03,8:30p,New York Knicks,Chicago Bulls,19812,133,Madison Square Garden (IV)
+NBA,2024-01-03,9:00p,Phoenix Suns,Los Angeles Clippers,17071,148,Footprint Center
+NBA,2024-01-03,9:00p,Utah Jazz,Detroit Pistons,18206,163,Delta Center
+NBA,2024-01-03,10:00p,Los Angeles Lakers,Miami Heat,18997,134,Crypto.com Arena
+NBA,2024-01-03,10:00p,Sacramento Kings,Orlando Magic,17832,179,Golden 1 Center
+NBA,2024-01-04,7:30p,San Antonio Spurs,Milwaukee Bucks,19082,136,Frost Bank Center
+NBA,2024-01-04,10:00p,Golden State Warriors,Denver Nuggets,18064,142,Chase Center
+NBA,2024-01-05,7:00p,Boston Celtics,Utah Jazz,19156,130,TD Garden
+NBA,2024-01-05,7:00p,Indiana Pacers,Atlanta Hawks,17274,123,Gainbridge Fieldhouse
+NBA,2024-01-05,7:30p,Brooklyn Nets,Oklahoma City Thunder,18147,142,Barclays Center
+NBA,2024-01-05,7:30p,Cleveland Cavaliers,Washington Wizards,19432,125,Rocket Mortgage Fieldhouse
+NBA,2024-01-05,7:30p,Philadelphia 76ers,New York Knicks,20461,141,Wells Fargo Center
+NBA,2024-01-05,8:00p,Chicago Bulls,Charlotte Hornets,21345,126,United Center
+NBA,2024-01-05,8:00p,Houston Rockets,Minnesota Timberwolves,18055,124,Toyota Center
+NBA,2024-01-05,8:00p,New Orleans Pelicans,Los Angeles Clippers,18329,118,Smoothie King Center
+NBA,2024-01-05,8:30p,Dallas Mavericks,Portland Trail Blazers,20162,125,American Airlines Center
+NBA,2024-01-05,9:00p,Denver Nuggets,Orlando Magic,19659,135,Ball Arena
+NBA,2024-01-05,9:00p,Phoenix Suns,Miami Heat,17071,127,Footprint Center
+NBA,2024-01-05,10:00p,Golden State Warriors,Detroit Pistons,18064,139,Chase Center
+NBA,2024-01-05,10:00p,Los Angeles Lakers,Memphis Grizzlies,18997,135,Crypto.com Arena
+NBA,2024-01-05,10:00p,Sacramento Kings,Toronto Raptors,17941,141,Golden 1 Center
+NBA,2024-01-06,7:00p,Indiana Pacers,Boston Celtics,17274,131,Gainbridge Fieldhouse
+NBA,2024-01-06,7:00p,Washington Wizards,New York Knicks,20333,130,Capital One Arena
+NBA,2024-01-06,7:30p,Philadelphia 76ers,Utah Jazz,20278,133,Wells Fargo Center
+NBA,2024-01-06,8:00p,Houston Rockets,Milwaukee Bucks,18055,157,Toyota Center
+NBA,2024-01-07,1:00p,Cleveland Cavaliers,San Antonio Spurs,19432,138,Rocket Mortgage Fieldhouse
+NBA,2024-01-07,3:00p,Brooklyn Nets,Portland Trail Blazers,17732,160,Barclays Center
+NBA,2024-01-07,6:00p,Orlando Magic,Atlanta Hawks,19349,155,Kia Center
+NBA,2024-01-07,6:00p,Sacramento Kings,New Orleans Pelicans,17832,116,Golden 1 Center
+NBA,2024-01-07,7:30p,Dallas Mavericks,Minnesota Timberwolves,20111,137,American Airlines Center
+NBA,2024-01-07,8:00p,Denver Nuggets,Detroit Pistons,19623,135,Ball Arena
+NBA,2024-01-07,8:00p,Phoenix Suns,Memphis Grizzlies,17071,141,Footprint Center
+NBA,2024-01-07,8:30p,Golden State Warriors,Toronto Raptors,18064,120,Chase Center
+NBA,2024-01-07,9:30p,Los Angeles Lakers,Los Angeles Clippers,18997,136,Crypto.com Arena
+NBA,2024-01-08,7:00p,Charlotte Hornets,Chicago Bulls,14418,138,Spectrum Center
+NBA,2024-01-08,7:00p,Indiana Pacers,Boston Celtics,16009,144,Gainbridge Fieldhouse
+NBA,2024-01-08,7:00p,Washington Wizards,Oklahoma City Thunder,15297,136,Capital One Arena
+NBA,2024-01-08,7:30p,Miami Heat,Houston Rockets,19694,139,Kaseya Center
+NBA,2024-01-08,8:00p,Milwaukee Bucks,Utah Jazz,17341,130,Fiserv Forum
+NBA,2024-01-08,10:30p,Los Angeles Clippers,Phoenix Suns,19370,131,Crypto.com Arena
+NBA,2024-01-09,7:00p,Detroit Pistons,Sacramento Kings,13992,132,Little Caesars Arena
+NBA,2024-01-09,7:00p,Orlando Magic,Minnesota Timberwolves,19223,127,Kia Center
+NBA,2024-01-09,7:30p,New York Knicks,Portland Trail Blazers,19812,124,Madison Square Garden (IV)
+NBA,2024-01-09,8:30p,Dallas Mavericks,Memphis Grizzlies,20116,138,American Airlines Center
+NBA,2024-01-09,10:30p,Los Angeles Lakers,Toronto Raptors,18997,148,Crypto.com Arena
+NBA,2024-01-10,7:00p,Boston Celtics,Minnesota Timberwolves,19156,157,TD Garden
+NBA,2024-01-10,7:00p,Charlotte Hornets,Sacramento Kings,14173,122,Spectrum Center
+NBA,2024-01-10,7:00p,Detroit Pistons,San Antonio Spurs,17833,125,Little Caesars Arena
+NBA,2024-01-10,7:00p,Indiana Pacers,Washington Wizards,15721,137,Gainbridge Fieldhouse
+NBA,2024-01-10,7:30p,Atlanta Hawks,Philadelphia 76ers,16089,157,State Farm Arena
+NBA,2024-01-10,7:30p,Miami Heat,Oklahoma City Thunder,19636,134,Kaseya Center
+NBA,2024-01-10,8:00p,Chicago Bulls,Houston Rockets,21149,156,United Center
+NBA,2024-01-10,8:30p,Golden State Warriors,New Orleans Pelicans,18064,133,Chase Center
+NBA,2024-01-10,10:00p,Utah Jazz,Denver Nuggets,18206,143,Delta Center
+NBA,2024-01-10,10:30p,Los Angeles Clippers,Toronto Raptors,19370,127,Crypto.com Arena
+NBA,2024-01-11,2:00p,Cleveland Cavaliers,Brooklyn Nets,15887,151,Accor Arena
+NBA,2024-01-11,7:30p,Milwaukee Bucks,Boston Celtics,17781,132,Fiserv Forum
+NBA,2024-01-11,8:00p,Oklahoma City Thunder,Portland Trail Blazers,15828,118,Paycom Center
+NBA,2024-01-11,8:30p,Dallas Mavericks,New York Knicks,20040,144,American Airlines Center
+NBA,2024-01-11,10:00p,Los Angeles Lakers,Phoenix Suns,18416,139,Crypto.com Arena
+NBA,2024-01-12,7:30p,Atlanta Hawks,Indiana Pacers,15596,126,State Farm Arena
+NBA,2024-01-12,7:30p,Detroit Pistons,Houston Rockets,13987,130,Little Caesars Arena
+NBA,2024-01-12,7:30p,Philadelphia 76ers,Sacramento Kings,19766,136,Wells Fargo Center
+NBA,2024-01-12,8:00p,Chicago Bulls,Golden State Warriors,21153,139,United Center
+NBA,2024-01-12,8:00p,Memphis Grizzlies,Los Angeles Clippers,16617,127,FedEx Forum
+NBA,2024-01-12,8:00p,Miami Heat,Orlando Magic,19650,147,Kaseya Center
+NBA,2024-01-12,8:00p,Minnesota Timberwolves,Portland Trail Blazers,18024,132,Target Center
+NBA,2024-01-12,8:00p,San Antonio Spurs,Charlotte Hornets,18073,141,Frost Bank Center
+NBA,2024-01-12,9:30p,Utah Jazz,Toronto Raptors,18206,130,Delta Center
+NBA,2024-01-12,10:00p,Denver Nuggets,New Orleans Pelicans,19638,136,Ball Arena
+NBA,2024-01-13,7:00p,Boston Celtics,Houston Rockets,19156,126,TD Garden
+NBA,2024-01-13,7:30p,Atlanta Hawks,Washington Wizards,17108,134,State Farm Arena
+NBA,2024-01-13,8:00p,Memphis Grizzlies,New York Knicks,16598,122,FedEx Forum
+NBA,2024-01-13,8:00p,Milwaukee Bucks,Golden State Warriors,18009,128,Fiserv Forum
+NBA,2024-01-13,8:00p,Oklahoma City Thunder,Orlando Magic,18203,130,Paycom Center
+NBA,2024-01-13,8:30p,Dallas Mavericks,New Orleans Pelicans,20155,130,American Airlines Center
+NBA,2024-01-13,8:30p,San Antonio Spurs,Chicago Bulls,18354,128,Frost Bank Center
+NBA,2024-01-13,9:30p,Utah Jazz,Los Angeles Lakers,18206,138,Delta Center
+NBA,2024-01-14,3:30p,Denver Nuggets,Indiana Pacers,19631,137,Ball Arena
+NBA,2024-01-14,6:00p,Miami Heat,Charlotte Hornets,19831,134,Kaseya Center
+NBA,2024-01-14,7:00p,Milwaukee Bucks,Sacramento Kings,17612,159,Fiserv Forum
+NBA,2024-01-14,7:00p,Minnesota Timberwolves,Los Angeles Clippers,18024,146,Target Center
+NBA,2024-01-14,9:00p,Portland Trail Blazers,Phoenix Suns,18071,133,Moda Center
+NBA,2024-01-15,1:00p,Philadelphia 76ers,Houston Rockets,20822,145,Wells Fargo Center
+NBA,2024-01-15,2:30p,Dallas Mavericks,New Orleans Pelicans,20010,149,American Airlines Center
+NBA,2024-01-15,3:00p,New York Knicks,Orlando Magic,19812,136,Madison Square Garden (IV)
+NBA,2024-01-15,3:00p,Washington Wizards,Detroit Pistons,15156,126,Capital One Arena
+NBA,2024-01-15,3:30p,Atlanta Hawks,San Antonio Spurs,17447,137,State Farm Arena
+NBA,2024-01-15,6:00p,Memphis Grizzlies,Golden State Warriors,16612,142,FedEx Forum
+NBA,2024-01-15,7:00p,Cleveland Cavaliers,Chicago Bulls,19432,130,Rocket Mortgage Fieldhouse
+NBA,2024-01-15,7:30p,Brooklyn Nets,Miami Heat,17893,148,Barclays Center
+NBA,2024-01-15,7:30p,Toronto Raptors,Boston Celtics,19278,126,Scotiabank Arena
+NBA,2024-01-15,9:00p,Utah Jazz,Indiana Pacers,18206,135,Delta Center
+NBA,2024-01-15,10:30p,Los Angeles Lakers,Oklahoma City Thunder,18997,125,Crypto.com Arena
+NBA,2024-01-16,7:30p,Philadelphia 76ers,Denver Nuggets,19775,148,Wells Fargo Center
+NBA,2024-01-16,9:00p,Phoenix Suns,Sacramento Kings,17071,134,Footprint Center
+NBA,2024-01-16,10:00p,Los Angeles Clippers,Oklahoma City Thunder,19370,140,Crypto.com Arena
+NBA,2024-01-17,7:00p,Detroit Pistons,Minnesota Timberwolves,16022,127,Little Caesars Arena
+NBA,2024-01-17,7:30p,Atlanta Hawks,Orlando Magic,14541,134,State Farm Arena
+NBA,2024-01-17,7:30p,Boston Celtics,San Antonio Spurs,19156,120,TD Garden
+NBA,2024-01-17,7:30p,Cleveland Cavaliers,Milwaukee Bucks,19432,122,Rocket Mortgage Fieldhouse
+NBA,2024-01-17,7:30p,New York Knicks,Houston Rockets,19439,135,Madison Square Garden (IV)
+NBA,2024-01-17,7:30p,Toronto Raptors,Miami Heat,19631,121,Scotiabank Arena
+NBA,2024-01-17,8:00p,New Orleans Pelicans,Charlotte Hornets,16093,124,Smoothie King Center
+NBA,2024-01-17,8:30p,Los Angeles Lakers,Dallas Mavericks,18338,137,Crypto.com Arena
+NBA,2024-01-17,10:00p,Portland Trail Blazers,Brooklyn Nets,17021,133,Moda Center
+NBA,2024-01-18,7:30p,New York Knicks,Washington Wizards,19466,144,Madison Square Garden (IV)
+NBA,2024-01-18,7:30p,Toronto Raptors,Chicago Bulls,19312,133,Scotiabank Arena
+NBA,2024-01-18,9:00p,Utah Jazz,Oklahoma City Thunder,18206,144,Delta Center
+NBA,2024-01-18,10:00p,Minnesota Timberwolves,Memphis Grizzlies,18024,135,Target Center
+NBA,2024-01-18,10:00p,Sacramento Kings,Indiana Pacers,17832,144,Golden 1 Center
+NBA,2024-01-19,7:00p,Charlotte Hornets,San Antonio Spurs,19093,130,Spectrum Center
+NBA,2024-01-19,7:00p,Orlando Magic,Philadelphia 76ers,19063,136,Kia Center
+NBA,2024-01-19,7:30p,Boston Celtics,Denver Nuggets,19156,132,TD Garden
+NBA,2024-01-19,8:00p,Miami Heat,Atlanta Hawks,20040,154,Kaseya Center
+NBA,2024-01-19,8:00p,New Orleans Pelicans,Phoenix Suns,18686,127,Smoothie King Center
+NBA,2024-01-19,10:00p,Portland Trail Blazers,Indiana Pacers,18595,146,Moda Center
+NBA,2024-01-19,10:30p,Los Angeles Lakers,Brooklyn Nets,18997,131,Crypto.com Arena
+NBA,2024-01-20,3:00p,Detroit Pistons,Milwaukee Bucks,19996,147,Little Caesars Arena
+NBA,2024-01-20,7:00p,Charlotte Hornets,Philadelphia 76ers,18261,129,Spectrum Center
+NBA,2024-01-20,7:00p,Washington Wizards,San Antonio Spurs,17922,137,Capital One Arena
+NBA,2024-01-20,7:30p,Atlanta Hawks,Cleveland Cavaliers,17047,124,State Farm Arena
+NBA,2024-01-20,7:30p,New York Knicks,Toronto Raptors,19812,131,Madison Square Garden (IV)
+NBA,2024-01-20,8:00p,Chicago Bulls,Memphis Grizzlies,21441,127,United Center
+NBA,2024-01-20,8:00p,Houston Rockets,Utah Jazz,16618,161,Toyota Center
+NBA,2024-01-20,8:00p,Minnesota Timberwolves,Oklahoma City Thunder,18024,144,Target Center
+NBA,2024-01-21,3:30p,Los Angeles Clippers,Brooklyn Nets,19370,140,Crypto.com Arena
+NBA,2024-01-21,6:00p,Orlando Magic,Miami Heat,18102,137,Kia Center
+NBA,2024-01-21,6:00p,Washington Wizards,Denver Nuggets,17107,129,Capital One Arena
+NBA,2024-01-21,7:00p,Houston Rockets,Boston Celtics,18055,129,Toyota Center
+NBA,2024-01-21,8:00p,Phoenix Suns,Indiana Pacers,17071,139,Footprint Center
+NBA,2024-01-21,10:00p,Los Angeles Lakers,Portland Trail Blazers,18997,124,Crypto.com Arena
+NBA,2024-01-22,7:00p,Detroit Pistons,Milwaukee Bucks,17201,139,Little Caesars Arena
+NBA,2024-01-22,7:00p,Orlando Magic,Cleveland Cavaliers,19301,132,Kia Center
+NBA,2024-01-22,7:00p,Philadelphia 76ers,San Antonio Spurs,20511,139,Wells Fargo Center
+NBA,2024-01-22,7:30p,Toronto Raptors,Memphis Grizzlies,18577,126,Scotiabank Arena
+NBA,2024-01-22,8:00p,Minnesota Timberwolves,Charlotte Hornets,18024,131,Target Center
+NBA,2024-01-22,8:30p,Dallas Mavericks,Boston Celtics,20277,127,American Airlines Center
+NBA,2024-01-22,9:00p,Phoenix Suns,Chicago Bulls,17071,131,Footprint Center
+NBA,2024-01-22,10:00p,Sacramento Kings,Atlanta Hawks,17832,133,Golden 1 Center
+NBA,2024-01-23,7:00p,Indiana Pacers,Denver Nuggets,16004,136,Gainbridge Fieldhouse
+NBA,2024-01-23,7:30p,Brooklyn Nets,New York Knicks,17732,132,Barclays Center
+NBA,2024-01-23,8:00p,New Orleans Pelicans,Utah Jazz,16032,125,Smoothie King Center
+NBA,2024-01-23,8:00p,Oklahoma City Thunder,Portland Trail Blazers,15874,131,Paycom Center
+NBA,2024-01-23,10:00p,Los Angeles Clippers,Los Angeles Lakers,19370,130,Crypto.com Arena
+NBA,2024-01-24,7:00p,Detroit Pistons,Charlotte Hornets,15020,130,Little Caesars Arena
+NBA,2024-01-24,7:00p,Washington Wizards,Minnesota Timberwolves,15446,140,Capital One Arena
+NBA,2024-01-24,7:30p,Miami Heat,Memphis Grizzlies,19600,133,Kaseya Center
+NBA,2024-01-24,8:00p,Houston Rockets,Portland Trail Blazers,18055,145,Toyota Center
+NBA,2024-01-24,8:00p,Milwaukee Bucks,Cleveland Cavaliers,17510,129,Fiserv Forum
+NBA,2024-01-24,8:30p,Dallas Mavericks,Phoenix Suns,20202,142,American Airlines Center
+NBA,2024-01-24,9:30p,San Antonio Spurs,Oklahoma City Thunder,18130,133,Frost Bank Center
+NBA,2024-01-24,10:00p,Golden State Warriors,Atlanta Hawks,18064,128,Chase Center
+NBA,2024-01-25,7:00p,Indiana Pacers,Philadelphia 76ers,15699,150,Gainbridge Fieldhouse
+NBA,2024-01-25,7:00p,Washington Wizards,Utah Jazz,14027,122,Capital One Arena
+NBA,2024-01-25,7:30p,Brooklyn Nets,Minnesota Timberwolves,17732,135,Barclays Center
+NBA,2024-01-25,7:30p,Miami Heat,Boston Celtics,20074,122,Kaseya Center
+NBA,2024-01-25,7:30p,New York Knicks,Denver Nuggets,19812,125,Madison Square Garden (IV)
+NBA,2024-01-25,10:00p,Golden State Warriors,Sacramento Kings,18064,144,Chase Center
+NBA,2024-01-25,10:30p,Los Angeles Lakers,Chicago Bulls,18997,135,Crypto.com Arena
+NBA,2024-01-26,7:00p,Atlanta Hawks,Dallas Mavericks,16149,144,State Farm Arena
+NBA,2024-01-26,7:00p,Charlotte Hornets,Houston Rockets,16164,134,Spectrum Center
+NBA,2024-01-26,7:00p,Indiana Pacers,Phoenix Suns,17274,137,Gainbridge Fieldhouse
+NBA,2024-01-26,7:30p,Toronto Raptors,Los Angeles Clippers,19800,131,Scotiabank Arena
+NBA,2024-01-26,8:00p,Memphis Grizzlies,Orlando Magic,16823,135,FedEx Forum
+NBA,2024-01-26,8:00p,Milwaukee Bucks,Cleveland Cavaliers,17855,147,Fiserv Forum
+NBA,2024-01-26,8:00p,New Orleans Pelicans,Oklahoma City Thunder,18624,120,Smoothie King Center
+NBA,2024-01-26,9:30p,San Antonio Spurs,Portland Trail Blazers,17274,129,Frost Bank Center
+NBA,2024-01-27,12:00p,Detroit Pistons,Washington Wizards,16922,128,Little Caesars Arena
+NBA,2024-01-27,3:00p,New York Knicks,Miami Heat,19812,143,Madison Square Garden (IV)
+NBA,2024-01-27,5:30p,Denver Nuggets,Philadelphia 76ers,19805,142,Ball Arena
+NBA,2024-01-27,6:00p,Brooklyn Nets,Houston Rockets,17732,146,Barclays Center
+NBA,2024-01-27,7:00p,Boston Celtics,Los Angeles Clippers,19156,123,TD Garden
+NBA,2024-01-27,7:00p,Charlotte Hornets,Utah Jazz,17633,124,Spectrum Center
+NBA,2024-01-27,8:00p,Milwaukee Bucks,New Orleans Pelicans,17940,134,Fiserv Forum
+NBA,2024-01-27,8:30p,Golden State Warriors,Los Angeles Lakers,18064,197,Chase Center
+NBA,2024-01-27,8:30p,San Antonio Spurs,Minnesota Timberwolves,17726,124,Frost Bank Center
+NBA,2024-01-27,9:00p,Dallas Mavericks,Sacramento Kings,20373,143,American Airlines Center
+NBA,2024-01-28,2:00p,Detroit Pistons,Oklahoma City Thunder,16861,116,Little Caesars Arena
+NBA,2024-01-28,3:30p,Indiana Pacers,Memphis Grizzlies,16519,135,Gainbridge Fieldhouse
+NBA,2024-01-28,6:00p,Atlanta Hawks,Toronto Raptors,15658,140,State Farm Arena
+NBA,2024-01-28,6:00p,Orlando Magic,Phoenix Suns,18823,144,Kia Center
+NBA,2024-01-28,9:00p,Portland Trail Blazers,Chicago Bulls,17899,131,Moda Center
+NBA,2024-01-29,7:00p,Charlotte Hornets,New York Knicks,15546,123,Spectrum Center
+NBA,2024-01-29,7:00p,Cleveland Cavaliers,Los Angeles Clippers,19432,138,Rocket Mortgage Fieldhouse
+NBA,2024-01-29,7:30p,Boston Celtics,New Orleans Pelicans,19156,128,TD Garden
+NBA,2024-01-29,7:30p,Brooklyn Nets,Utah Jazz,16054,130,Barclays Center
+NBA,2024-01-29,7:30p,Miami Heat,Phoenix Suns,19600,132,Kaseya Center
+NBA,2024-01-29,8:00p,Houston Rockets,Los Angeles Lakers,18055,132,Toyota Center
+NBA,2024-01-29,8:00p,Memphis Grizzlies,Sacramento Kings,15333,120,FedEx Forum
+NBA,2024-01-29,8:00p,Oklahoma City Thunder,Minnesota Timberwolves,16870,130,Paycom Center
+NBA,2024-01-29,8:00p,San Antonio Spurs,Washington Wizards,17020,130,Frost Bank Center
+NBA,2024-01-29,8:30p,Dallas Mavericks,Orlando Magic,20020,155,American Airlines Center
+NBA,2024-01-29,9:00p,Denver Nuggets,Milwaukee Bucks,19801,139,Ball Arena
+NBA,2024-01-29,10:00p,Portland Trail Blazers,Philadelphia 76ers,17128,132,Moda Center
+NBA,2024-01-30,7:30p,Atlanta Hawks,Los Angeles Lakers,17871,126,State Farm Arena
+NBA,2024-01-30,7:30p,Boston Celtics,Indiana Pacers,19156,145,TD Garden
+NBA,2024-01-30,7:30p,New York Knicks,Utah Jazz,19133,,Madison Square Garden (IV)
+NBA,2024-01-30,8:00p,Chicago Bulls,Toronto Raptors,21259,136,United Center
+NBA,2024-01-30,10:00p,Golden State Warriors,Philadelphia 76ers,18064,142,Chase Center
+NBA,2024-01-31,7:00p,Charlotte Hornets,Chicago Bulls,13712,129,Spectrum Center
+NBA,2024-01-31,7:00p,Cleveland Cavaliers,Detroit Pistons,19432,133,Rocket Mortgage Fieldhouse
+NBA,2024-01-31,7:00p,Washington Wizards,Los Angeles Clippers,17201,126,Capital One Arena
+NBA,2024-01-31,7:30p,Miami Heat,Sacramento Kings,19600,126,Kaseya Center
+NBA,2024-01-31,8:00p,Houston Rockets,New Orleans Pelicans,18055,134,Toyota Center
+NBA,2024-01-31,8:00p,Minnesota Timberwolves,Dallas Mavericks,18024,131,Target Center
+NBA,2024-01-31,8:00p,Oklahoma City Thunder,Denver Nuggets,16723,136,Paycom Center
+NBA,2024-01-31,8:00p,San Antonio Spurs,Orlando Magic,17081,131,Frost Bank Center
+NBA,2024-01-31,8:30p,Brooklyn Nets,Phoenix Suns,17732,142,Barclays Center
+NBA,2024-01-31,10:00p,Portland Trail Blazers,Milwaukee Bucks,19335,144,Moda Center
+NBA,2024-02-01,7:30p,Boston Celtics,Los Angeles Lakers,19156,133,TD Garden
+NBA,2024-02-01,7:30p,New York Knicks,Indiana Pacers,19812,137,Madison Square Garden (IV)
+NBA,2024-02-01,8:00p,Memphis Grizzlies,Cleveland Cavaliers,15505,133,FedEx Forum
+NBA,2024-02-01,10:00p,Utah Jazz,Philadelphia 76ers,18206,146,Delta Center
+NBA,2024-02-02,7:00p,Detroit Pistons,Los Angeles Clippers,19122,,Little Caesars Arena
+NBA,2024-02-02,7:00p,Washington Wizards,Miami Heat,18308,143,Capital One Arena
+NBA,2024-02-02,7:30p,Atlanta Hawks,Phoenix Suns,16536,130,State Farm Arena
+NBA,2024-02-02,7:30p,Indiana Pacers,Sacramento Kings,17274,137,Gainbridge Fieldhouse
+NBA,2024-02-02,8:00p,Houston Rockets,Toronto Raptors,18055,123,Toyota Center
+NBA,2024-02-02,8:00p,Memphis Grizzlies,Golden State Warriors,17794,140,FedEx Forum
+NBA,2024-02-02,8:00p,Minnesota Timberwolves,Orlando Magic,18024,136,Target Center
+NBA,2024-02-02,8:00p,Oklahoma City Thunder,Charlotte Hornets,17552,124,Paycom Center
+NBA,2024-02-02,8:00p,San Antonio Spurs,New Orleans Pelicans,17207,132,Frost Bank Center
+NBA,2024-02-02,9:00p,Denver Nuggets,Portland Trail Blazers,19622,126,Ball Arena
+NBA,2024-02-03,6:00p,Philadelphia 76ers,Brooklyn Nets,20673,131,Wells Fargo Center
+NBA,2024-02-03,7:30p,Atlanta Hawks,Golden State Warriors,17600,151,State Farm Arena
+NBA,2024-02-03,8:00p,Chicago Bulls,Sacramento Kings,21579,134,United Center
+NBA,2024-02-03,8:30p,Dallas Mavericks,Milwaukee Bucks,20377,138,American Airlines Center
+NBA,2024-02-03,8:30p,New York Knicks,Los Angeles Lakers,19812,138,Madison Square Garden (IV)
+NBA,2024-02-03,8:30p,San Antonio Spurs,Cleveland Cavaliers,18354,134,Frost Bank Center
+NBA,2024-02-04,3:00p,Detroit Pistons,Orlando Magic,17982,128,Little Caesars Arena
+NBA,2024-02-04,3:30p,Washington Wizards,Phoenix Suns,16984,130,Capital One Arena
+NBA,2024-02-04,6:00p,Boston Celtics,Memphis Grizzlies,19156,117,TD Garden
+NBA,2024-02-04,6:00p,Charlotte Hornets,Indiana Pacers,15687,134,Spectrum Center
+NBA,2024-02-04,6:00p,Miami Heat,Los Angeles Clippers,19855,137,Kaseya Center
+NBA,2024-02-04,7:00p,Minnesota Timberwolves,Houston Rockets,18024,135,Target Center
+NBA,2024-02-04,7:00p,Oklahoma City Thunder,Toronto Raptors,17059,153,Paycom Center
+NBA,2024-02-04,8:00p,Utah Jazz,Milwaukee Bucks,18206,135,Delta Center
+NBA,2024-02-04,8:30p,Denver Nuggets,Portland Trail Blazers,19715,120,Ball Arena
+NBA,2024-02-05,7:00p,Charlotte Hornets,Los Angeles Lakers,19375,122,Spectrum Center
+NBA,2024-02-05,7:00p,Cleveland Cavaliers,Sacramento Kings,19432,128,Rocket Mortgage Fieldhouse
+NBA,2024-02-05,7:00p,Philadelphia 76ers,Dallas Mavericks,19764,128,Wells Fargo Center
+NBA,2024-02-05,7:30p,Atlanta Hawks,Los Angeles Clippers,17093,141,State Farm Arena
+NBA,2024-02-05,7:30p,Brooklyn Nets,Golden State Warriors,17919,141,Barclays Center
+NBA,2024-02-05,8:00p,New Orleans Pelicans,Toronto Raptors,17429,119,Smoothie King Center
+NBA,2024-02-06,7:00p,Indiana Pacers,Houston Rockets,15571,129,Gainbridge Fieldhouse
+NBA,2024-02-06,7:30p,Brooklyn Nets,Dallas Mavericks,17732,131,Barclays Center
+NBA,2024-02-06,7:30p,Miami Heat,Orlando Magic,19600,128,Kaseya Center
+NBA,2024-02-06,7:30p,New York Knicks,Memphis Grizzlies,19013,125,Madison Square Garden (IV)
+NBA,2024-02-06,8:00p,Chicago Bulls,Minnesota Timberwolves,20949,160,United Center
+NBA,2024-02-06,9:00p,Utah Jazz,Oklahoma City Thunder,18206,128,Delta Center
+NBA,2024-02-06,10:00p,Phoenix Suns,Milwaukee Bucks,17071,155,Footprint Center
+NBA,2024-02-07,7:00p,Charlotte Hornets,Toronto Raptors,11720,132,Spectrum Center
+NBA,2024-02-07,7:00p,Washington Wizards,Cleveland Cavaliers,15860,133,Capital One Arena
+NBA,2024-02-07,7:30p,Boston Celtics,Atlanta Hawks,19156,118,TD Garden
+NBA,2024-02-07,7:30p,Miami Heat,San Antonio Spurs,19652,129,Kaseya Center
+NBA,2024-02-07,7:30p,Philadelphia 76ers,Golden State Warriors,19780,134,Wells Fargo Center
+NBA,2024-02-07,10:00p,Los Angeles Clippers,New Orleans Pelicans,19370,137,Crypto.com Arena
+NBA,2024-02-07,10:00p,Sacramento Kings,Detroit Pistons,17832,129,Golden 1 Center
+NBA,2024-02-08,7:00p,Indiana Pacers,Golden State Warriors,17274,128,Gainbridge Fieldhouse
+NBA,2024-02-08,7:00p,Orlando Magic,San Antonio Spurs,19074,135,Kia Center
+NBA,2024-02-08,7:30p,Brooklyn Nets,Cleveland Cavaliers,17304,123,Barclays Center
+NBA,2024-02-08,7:30p,New York Knicks,Dallas Mavericks,19812,132,Madison Square Garden (IV)
+NBA,2024-02-08,8:00p,Memphis Grizzlies,Chicago Bulls,16285,133,FedEx Forum
+NBA,2024-02-08,8:00p,Milwaukee Bucks,Minnesota Timberwolves,17577,125,Fiserv Forum
+NBA,2024-02-08,9:00p,Phoenix Suns,Utah Jazz,17071,131,Footprint Center
+NBA,2024-02-08,10:00p,Los Angeles Lakers,Denver Nuggets,18997,132,Crypto.com Arena
+NBA,2024-02-08,10:00p,Portland Trail Blazers,Detroit Pistons,18125,159,Moda Center
+NBA,2024-02-09,7:00p,Philadelphia 76ers,Atlanta Hawks,19758,144,Wells Fargo Center
+NBA,2024-02-09,7:30p,Boston Celtics,Washington Wizards,19156,134,TD Garden
+NBA,2024-02-09,7:30p,Toronto Raptors,Houston Rockets,19800,139,Scotiabank Arena
+NBA,2024-02-09,8:00p,Milwaukee Bucks,Charlotte Hornets,17690,128,Fiserv Forum
+NBA,2024-02-09,10:00p,Sacramento Kings,Denver Nuggets,17832,130,Golden 1 Center
+NBA,2024-02-09,10:30p,Los Angeles Lakers,New Orleans Pelicans,18997,133,Crypto.com Arena
+NBA,2024-02-10,3:00p,Dallas Mavericks,Oklahoma City Thunder,20277,134,American Airlines Center
+NBA,2024-02-10,3:30p,Los Angeles Clippers,Detroit Pistons,19370,133,Crypto.com Arena
+NBA,2024-02-10,6:00p,Brooklyn Nets,San Antonio Spurs,18005,130,Barclays Center
+NBA,2024-02-10,7:00p,Charlotte Hornets,Memphis Grizzlies,17259,116,Spectrum Center
+NBA,2024-02-10,7:00p,Orlando Magic,Chicago Bulls,19459,141,Kia Center
+NBA,2024-02-10,7:00p,Washington Wizards,Philadelphia 76ers,20333,133,Capital One Arena
+NBA,2024-02-10,7:30p,Atlanta Hawks,Houston Rockets,17503,139,State Farm Arena
+NBA,2024-02-10,7:30p,New York Knicks,Indiana Pacers,19812,126,Madison Square Garden (IV)
+NBA,2024-02-10,7:30p,Toronto Raptors,Cleveland Cavaliers,19800,123,Scotiabank Arena
+NBA,2024-02-10,8:30p,Golden State Warriors,Phoenix Suns,18064,145,Chase Center
+NBA,2024-02-10,10:00p,Portland Trail Blazers,New Orleans Pelicans,18226,122,Moda Center
+NBA,2024-02-11,2:00p,Miami Heat,Boston Celtics,20049,141,Kaseya Center
+NBA,2024-02-11,3:00p,Oklahoma City Thunder,Sacramento Kings,17092,132,Paycom Center
+NBA,2024-02-12,7:00p,Charlotte Hornets,Indiana Pacers,12112,124,Spectrum Center
+NBA,2024-02-12,7:00p,Cleveland Cavaliers,Philadelphia 76ers,19432,141,Rocket Mortgage Fieldhouse
+NBA,2024-02-12,7:30p,Atlanta Hawks,Chicago Bulls,16524,135,State Farm Arena
+NBA,2024-02-12,7:30p,Toronto Raptors,San Antonio Spurs,19800,125,Scotiabank Arena
+NBA,2024-02-12,8:00p,Houston Rockets,New York Knicks,16790,142,Toyota Center
+NBA,2024-02-12,8:00p,Memphis Grizzlies,New Orleans Pelicans,15823,,FedEx Forum
+NBA,2024-02-12,8:00p,Milwaukee Bucks,Denver Nuggets,17444,124,Fiserv Forum
+NBA,2024-02-12,8:30p,Dallas Mavericks,Washington Wizards,19921,136,American Airlines Center
+NBA,2024-02-12,9:00p,Utah Jazz,Golden State Warriors,18206,126,Delta Center
+NBA,2024-02-12,10:30p,Los Angeles Clippers,Minnesota Timberwolves,19370,126,Crypto.com Arena
+NBA,2024-02-13,7:30p,Brooklyn Nets,Boston Celtics,18053,134,Barclays Center
+NBA,2024-02-13,7:30p,Orlando Magic,Oklahoma City Thunder,19301,138,Kia Center
+NBA,2024-02-13,8:00p,Milwaukee Bucks,Miami Heat,17520,126,Fiserv Forum
+NBA,2024-02-13,10:00p,Phoenix Suns,Sacramento Kings,17071,151,Footprint Center
+NBA,2024-02-13,10:00p,Portland Trail Blazers,Minnesota Timberwolves,17906,132,Moda Center
+NBA,2024-02-13,10:30p,Los Angeles Lakers,Detroit Pistons,18997,127,Crypto.com Arena
+NBA,2024-02-14,7:00p,Charlotte Hornets,Atlanta Hawks,14336,126,Spectrum Center
+NBA,2024-02-14,7:00p,Orlando Magic,New York Knicks,19259,128,Kia Center
+NBA,2024-02-14,7:00p,Philadelphia 76ers,Miami Heat,20015,133,Wells Fargo Center
+NBA,2024-02-14,7:30p,Boston Celtics,Brooklyn Nets,19156,114,TD Garden
+NBA,2024-02-14,7:30p,Cleveland Cavaliers,Chicago Bulls,19432,140,Rocket Mortgage Fieldhouse
+NBA,2024-02-14,7:30p,Toronto Raptors,Indiana Pacers,19800,133,Scotiabank Arena
+NBA,2024-02-14,8:00p,Memphis Grizzlies,Houston Rockets,15012,142,FedEx Forum
+NBA,2024-02-14,8:00p,New Orleans Pelicans,Washington Wizards,18316,150,Smoothie King Center
+NBA,2024-02-14,8:30p,Dallas Mavericks,San Antonio Spurs,20311,118,American Airlines Center
+NBA,2024-02-14,9:00p,Denver Nuggets,Sacramento Kings,19617,135,Ball Arena
+NBA,2024-02-14,9:00p,Phoenix Suns,Detroit Pistons,17071,138,Footprint Center
+NBA,2024-02-14,9:00p,Utah Jazz,Los Angeles Lakers,18206,126,Delta Center
+NBA,2024-02-14,10:00p,Golden State Warriors,Los Angeles Clippers,18064,153,Chase Center
+NBA,2024-02-15,8:30p,Memphis Grizzlies,Milwaukee Bucks,16544,148,FedEx Forum
+NBA,2024-02-15,9:00p,Utah Jazz,Golden State Warriors,18206,134,Delta Center
+NBA,2024-02-15,10:00p,Portland Trail Blazers,Minnesota Timberwolves,18606,130,Moda Center
+NBA,2024-02-22,7:00p,Cleveland Cavaliers,Orlando Magic,19432,135,Rocket Mortgage Fieldhouse
+NBA,2024-02-22,7:00p,Indiana Pacers,Detroit Pistons,16506,128,Gainbridge Fieldhouse
+NBA,2024-02-22,7:00p,Philadelphia 76ers,New York Knicks,21094,133,Wells Fargo Center
+NBA,2024-02-22,7:00p,Toronto Raptors,Brooklyn Nets,19800,133,Scotiabank Arena
+NBA,2024-02-22,7:30p,Dallas Mavericks,Phoenix Suns,20377,145,American Airlines Center
+NBA,2024-02-22,8:00p,Chicago Bulls,Boston Celtics,20313,123,United Center
+NBA,2024-02-22,8:00p,New Orleans Pelicans,Houston Rockets,17421,138,Smoothie King Center
+NBA,2024-02-22,8:00p,Oklahoma City Thunder,Los Angeles Clippers,18203,120,Paycom Center
+NBA,2024-02-22,9:00p,Denver Nuggets,Washington Wizards,19621,123,Ball Arena
+NBA,2024-02-22,9:00p,Utah Jazz,Charlotte Hornets,18206,134,Delta Center
+NBA,2024-02-22,10:00p,Golden State Warriors,Los Angeles Lakers,18064,135,Chase Center
+NBA,2024-02-22,10:00p,Sacramento Kings,San Antonio Spurs,18153,123,Golden 1 Center
+NBA,2024-02-23,7:30p,Atlanta Hawks,Toronto Raptors,17625,129,State Farm Arena
+NBA,2024-02-23,7:30p,Philadelphia 76ers,Cleveland Cavaliers,19938,139,Wells Fargo Center
+NBA,2024-02-23,8:00p,Houston Rockets,Phoenix Suns,18055,152,Toyota Center
+NBA,2024-02-23,8:00p,Memphis Grizzlies,Los Angeles Clippers,17255,132,FedEx Forum
+NBA,2024-02-23,8:00p,New Orleans Pelicans,Miami Heat,18658,146,Smoothie King Center
+NBA,2024-02-23,8:00p,Oklahoma City Thunder,Washington Wizards,18203,123,Paycom Center
+NBA,2024-02-23,10:00p,Golden State Warriors,Charlotte Hornets,18064,128,Chase Center
+NBA,2024-02-23,10:00p,Minnesota Timberwolves,Milwaukee Bucks,18024,137,Target Center
+NBA,2024-02-23,10:00p,Portland Trail Blazers,Denver Nuggets,18898,128,Moda Center
+NBA,2024-02-23,10:30p,Los Angeles Lakers,San Antonio Spurs,18997,132,Crypto.com Arena
+NBA,2024-02-24,8:00p,Detroit Pistons,Orlando Magic,19388,129,Little Caesars Arena
+NBA,2024-02-24,8:30p,New York Knicks,Boston Celtics,19812,127,Madison Square Garden (IV)
+NBA,2024-02-24,9:00p,Minnesota Timberwolves,Brooklyn Nets,18024,140,Target Center
+NBA,2024-02-25,1:00p,Philadelphia 76ers,Milwaukee Bucks,19831,134,Wells Fargo Center
+NBA,2024-02-25,3:30p,Phoenix Suns,Los Angeles Lakers,17071,140,Footprint Center
+NBA,2024-02-25,5:00p,Indiana Pacers,Dallas Mavericks,17274,125,Gainbridge Fieldhouse
+NBA,2024-02-25,6:00p,Washington Wizards,Cleveland Cavaliers,17895,134,Capital One Arena
+NBA,2024-02-25,7:00p,Atlanta Hawks,Orlando Magic,17173,126,State Farm Arena
+NBA,2024-02-25,7:00p,Golden State Warriors,Denver Nuggets,18064,141,Chase Center
+NBA,2024-02-25,7:00p,Houston Rockets,Oklahoma City Thunder,18055,131,Toyota Center
+NBA,2024-02-25,7:00p,New Orleans Pelicans,Chicago Bulls,18684,125,Smoothie King Center
+NBA,2024-02-25,8:00p,Utah Jazz,San Antonio Spurs,18206,133,Delta Center
+NBA,2024-02-25,9:00p,Portland Trail Blazers,Charlotte Hornets,17888,116,Moda Center
+NBA,2024-02-25,9:30p,Los Angeles Clippers,Sacramento Kings,19370,134,Crypto.com Arena
+NBA,2024-02-26,7:00p,Indiana Pacers,Toronto Raptors,16026,139,Gainbridge Fieldhouse
+NBA,2024-02-26,7:30p,New York Knicks,Detroit Pistons,19303,127,Madison Square Garden (IV)
+NBA,2024-02-26,8:00p,Memphis Grizzlies,Brooklyn Nets,15417,133,FedEx Forum
+NBA,2024-02-26,10:00p,Sacramento Kings,Miami Heat,17832,127,Golden 1 Center
+NBA,2024-02-27,7:00p,Cleveland Cavaliers,Dallas Mavericks,19432,125,Rocket Mortgage Fieldhouse
+NBA,2024-02-27,7:00p,Orlando Magic,Brooklyn Nets,17708,135,Kia Center
+NBA,2024-02-27,7:00p,Washington Wizards,Golden State Warriors,20333,121,Capital One Arena
+NBA,2024-02-27,7:30p,Atlanta Hawks,Utah Jazz,17129,125,State Farm Arena
+NBA,2024-02-27,7:30p,Boston Celtics,Philadelphia 76ers,19156,136,TD Garden
+NBA,2024-02-27,7:30p,New York Knicks,New Orleans Pelicans,19812,129,Madison Square Garden (IV)
+NBA,2024-02-27,8:00p,Chicago Bulls,Detroit Pistons,21089,125,United Center
+NBA,2024-02-27,8:00p,Milwaukee Bucks,Charlotte Hornets,17607,120,Fiserv Forum
+NBA,2024-02-27,8:00p,Minnesota Timberwolves,San Antonio Spurs,18024,119,Target Center
+NBA,2024-02-27,10:00p,Oklahoma City Thunder,Houston Rockets,17164,136,Paycom Center
+NBA,2024-02-27,10:00p,Portland Trail Blazers,Miami Heat,18143,133,Moda Center
+NBA,2024-02-28,7:30p,Indiana Pacers,New Orleans Pelicans,16010,136,Gainbridge Fieldhouse
+NBA,2024-02-28,7:30p,Toronto Raptors,Dallas Mavericks,19800,129,Scotiabank Arena
+NBA,2024-02-28,8:00p,Chicago Bulls,Cleveland Cavaliers,21700,163,United Center
+NBA,2024-02-28,8:00p,Minnesota Timberwolves,Memphis Grizzlies,18024,136,Target Center
+NBA,2024-02-28,9:00p,Denver Nuggets,Sacramento Kings,19628,124,Ball Arena
+NBA,2024-02-28,10:00p,Los Angeles Clippers,Los Angeles Lakers,19370,136,Crypto.com Arena
+NBA,2024-02-29,7:00p,Charlotte Hornets,Milwaukee Bucks,18463,130,Spectrum Center
+NBA,2024-02-29,7:00p,Orlando Magic,Utah Jazz,17848,135,Kia Center
+NBA,2024-02-29,7:30p,Brooklyn Nets,Atlanta Hawks,17284,125,Barclays Center
+NBA,2024-02-29,7:30p,New York Knicks,Golden State Warriors,19812,138,Madison Square Garden (IV)
+NBA,2024-02-29,8:30p,San Antonio Spurs,Oklahoma City Thunder,18392,130,Frost Bank Center
+NBA,2024-02-29,9:00p,Phoenix Suns,Houston Rockets,17071,146,Footprint Center
+NBA,2024-02-29,10:00p,Denver Nuggets,Miami Heat,19634,150,Ball Arena
+NBA,2024-02-29,10:30p,Los Angeles Lakers,Washington Wizards,18997,142,Crypto.com Arena
+NBA,2024-03-01,7:00p,Detroit Pistons,Cleveland Cavaliers,19299,132,Little Caesars Arena
+NBA,2024-03-01,7:00p,Philadelphia 76ers,Charlotte Hornets,19788,132,Wells Fargo Center
+NBA,2024-03-01,7:30p,Boston Celtics,Dallas Mavericks,19156,128,TD Garden
+NBA,2024-03-01,7:30p,Toronto Raptors,Golden State Warriors,19800,130,Scotiabank Arena
+NBA,2024-03-01,8:00p,Memphis Grizzlies,Portland Trail Blazers,15493,128,FedEx Forum
+NBA,2024-03-01,8:00p,Minnesota Timberwolves,Sacramento Kings,18024,157,Target Center
+NBA,2024-03-01,8:00p,New Orleans Pelicans,Indiana Pacers,17898,132,Smoothie King Center
+NBA,2024-03-01,10:00p,Chicago Bulls,Milwaukee Bucks,21249,144,United Center
+NBA,2024-03-01,10:30p,Los Angeles Clippers,Washington Wizards,19370,127,Crypto.com Arena
+NBA,2024-03-02,3:00p,Brooklyn Nets,Atlanta Hawks,18075,138,Barclays Center
+NBA,2024-03-02,5:00p,Miami Heat,Utah Jazz,19858,134,Kaseya Center
+NBA,2024-03-02,8:00p,Memphis Grizzlies,Portland Trail Blazers,16381,157,FedEx Forum
+NBA,2024-03-02,8:30p,Los Angeles Lakers,Denver Nuggets,18997,122,Crypto.com Arena
+NBA,2024-03-02,9:00p,Phoenix Suns,Houston Rockets,17071,154,Footprint Center
+NBA,2024-03-03,1:00p,Dallas Mavericks,Philadelphia 76ers,20277,145,American Airlines Center
+NBA,2024-03-03,3:30p,Boston Celtics,Golden State Warriors,19156,127,TD Garden
+NBA,2024-03-03,3:30p,Minnesota Timberwolves,Los Angeles Clippers,18024,133,Target Center
+NBA,2024-03-03,6:00p,Orlando Magic,Detroit Pistons,19459,130,Kia Center
+NBA,2024-03-03,6:00p,Toronto Raptors,Charlotte Hornets,19512,134,Scotiabank Arena
+NBA,2024-03-03,7:00p,Cleveland Cavaliers,New York Knicks,19432,127,Rocket Mortgage Fieldhouse
+NBA,2024-03-03,7:00p,San Antonio Spurs,Indiana Pacers,18027,135,Frost Bank Center
+NBA,2024-03-03,9:30p,Phoenix Suns,Oklahoma City Thunder,17071,141,Footprint Center
+NBA,2024-03-04,7:30p,Brooklyn Nets,Memphis Grizzlies,15847,148,Barclays Center
+NBA,2024-03-04,8:00p,Milwaukee Bucks,Los Angeles Clippers,17875,133,Fiserv Forum
+NBA,2024-03-04,8:00p,Minnesota Timberwolves,Portland Trail Blazers,18024,137,Target Center
+NBA,2024-03-04,9:00p,Utah Jazz,Washington Wizards,18206,127,Delta Center
+NBA,2024-03-04,10:00p,Sacramento Kings,Chicago Bulls,17832,139,Golden 1 Center
+NBA,2024-03-04,10:30p,Los Angeles Lakers,Oklahoma City Thunder,18997,124,Crypto.com Arena
+NBA,2024-03-05,7:00p,Charlotte Hornets,Orlando Magic,15928,128,Spectrum Center
+NBA,2024-03-05,7:30p,Brooklyn Nets,Philadelphia 76ers,17086,140,Barclays Center
+NBA,2024-03-05,7:30p,Cleveland Cavaliers,Boston Celtics,19432,131,Rocket Mortgage Fieldhouse
+NBA,2024-03-05,7:30p,Miami Heat,Detroit Pistons,19724,130,Kaseya Center
+NBA,2024-03-05,7:30p,New York Knicks,Atlanta Hawks,19812,127,Madison Square Garden (IV)
+NBA,2024-03-05,7:30p,Toronto Raptors,New Orleans Pelicans,18864,120,Scotiabank Arena
+NBA,2024-03-05,8:00p,Houston Rockets,San Antonio Spurs,16734,126,Toyota Center
+NBA,2024-03-05,8:30p,Dallas Mavericks,Indiana Pacers,20200,134,American Airlines Center
+NBA,2024-03-05,10:00p,Denver Nuggets,Phoenix Suns,19589,144,Ball Arena
+NBA,2024-03-06,7:00p,Washington Wizards,Orlando Magic,16018,134,Capital One Arena
+NBA,2024-03-06,7:30p,Atlanta Hawks,Cleveland Cavaliers,15841,123,State Farm Arena
+NBA,2024-03-06,7:30p,Houston Rockets,Los Angeles Clippers,17033,139,Toyota Center
+NBA,2024-03-06,7:30p,Philadelphia 76ers,Memphis Grizzlies,19757,142,Wells Fargo Center
+NBA,2024-03-06,9:00p,Utah Jazz,Chicago Bulls,18206,133,Delta Center
+NBA,2024-03-06,10:00p,Golden State Warriors,Milwaukee Bucks,18064,131,Chase Center
+NBA,2024-03-06,10:00p,Portland Trail Blazers,Oklahoma City Thunder,17589,144,Moda Center
+NBA,2024-03-06,10:30p,Los Angeles Lakers,Sacramento Kings,18498,136,Crypto.com Arena
+NBA,2024-03-07,7:00p,Detroit Pistons,Brooklyn Nets,19011,134,Little Caesars Arena
+NBA,2024-03-07,7:00p,Indiana Pacers,Minnesota Timberwolves,16580,143,Gainbridge Fieldhouse
+NBA,2024-03-07,7:30p,Dallas Mavericks,Miami Heat,20221,143,American Airlines Center
+NBA,2024-03-07,9:00p,Phoenix Suns,Toronto Raptors,17071,136,Footprint Center
+NBA,2024-03-07,10:00p,Denver Nuggets,Boston Celtics,19855,144,Ball Arena
+NBA,2024-03-07,10:00p,Golden State Warriors,Chicago Bulls,18064,137,Chase Center
+NBA,2024-03-07,10:00p,Sacramento Kings,San Antonio Spurs,17968,136,Golden 1 Center
+NBA,2024-03-08,7:00p,Philadelphia 76ers,New Orleans Pelicans,19777,135,Wells Fargo Center
+NBA,2024-03-08,7:00p,Washington Wizards,Charlotte Hornets,18778,127,Capital One Arena
+NBA,2024-03-08,7:30p,Cleveland Cavaliers,Minnesota Timberwolves,19432,169,Rocket Mortgage Fieldhouse
+NBA,2024-03-08,7:30p,New York Knicks,Orlando Magic,19812,123,Madison Square Garden (IV)
+NBA,2024-03-08,8:00p,Memphis Grizzlies,Atlanta Hawks,16667,132,FedEx Forum
+NBA,2024-03-08,8:00p,Oklahoma City Thunder,Miami Heat,18203,127,Paycom Center
+NBA,2024-03-08,10:00p,Los Angeles Lakers,Milwaukee Bucks,18997,140,Crypto.com Arena
+NBA,2024-03-08,10:00p,Portland Trail Blazers,Houston Rockets,18139,126,Moda Center
+NBA,2024-03-09,4:00p,Los Angeles Clippers,Chicago Bulls,19370,131,Crypto.com Arena
+NBA,2024-03-09,7:00p,Charlotte Hornets,Brooklyn Nets,19090,128,Spectrum Center
+NBA,2024-03-09,7:00p,Detroit Pistons,Dallas Mavericks,20062,137,Little Caesars Arena
+NBA,2024-03-09,8:30p,Golden State Warriors,San Antonio Spurs,18064,144,Chase Center
+NBA,2024-03-09,8:30p,Phoenix Suns,Boston Celtics,17071,132,Footprint Center
+NBA,2024-03-09,9:00p,Denver Nuggets,Utah Jazz,19632,132,Ball Arena
+NBA,2024-03-09,10:00p,Portland Trail Blazers,Toronto Raptors,18117,144,Moda Center
+NBA,2024-03-10,3:00p,Los Angeles Clippers,Milwaukee Bucks,19370,139,Crypto.com Arena
+NBA,2024-03-10,6:00p,Atlanta Hawks,New Orleans Pelicans,17695,122,State Farm Arena
+NBA,2024-03-10,6:00p,Miami Heat,Washington Wizards,19730,133,Kaseya Center
+NBA,2024-03-10,6:00p,Orlando Magic,Indiana Pacers,19481,139,Kia Center
+NBA,2024-03-10,6:00p,Sacramento Kings,Houston Rockets,18022,138,Golden 1 Center
+NBA,2024-03-10,7:00p,Cleveland Cavaliers,Brooklyn Nets,19432,125,Rocket Mortgage Fieldhouse
+NBA,2024-03-10,7:00p,New York Knicks,Philadelphia 76ers,19812,138,Madison Square Garden (IV)
+NBA,2024-03-10,7:00p,Oklahoma City Thunder,Memphis Grizzlies,18203,121,Paycom Center
+NBA,2024-03-10,9:30p,Los Angeles Lakers,Minnesota Timberwolves,18997,135,Crypto.com Arena
+NBA,2024-03-11,7:00p,Detroit Pistons,Charlotte Hornets,18003,127,Little Caesars Arena
+NBA,2024-03-11,7:30p,Cleveland Cavaliers,Phoenix Suns,19432,130,Rocket Mortgage Fieldhouse
+NBA,2024-03-11,8:00p,Chicago Bulls,Dallas Mavericks,21363,118,United Center
+NBA,2024-03-11,8:00p,San Antonio Spurs,Golden State Warriors,18354,125,Frost Bank Center
+NBA,2024-03-11,9:00p,Denver Nuggets,Toronto Raptors,19652,126,Ball Arena
+NBA,2024-03-11,10:30p,Portland Trail Blazers,Boston Celtics,18480,113,Moda Center
+NBA,2024-03-12,7:30p,New York Knicks,Philadelphia 76ers,19812,131,Madison Square Garden (IV)
+NBA,2024-03-12,8:00p,Memphis Grizzlies,Washington Wizards,15291,124,FedEx Forum
+NBA,2024-03-12,8:00p,Oklahoma City Thunder,Indiana Pacers,17118,124,Paycom Center
+NBA,2024-03-12,8:30p,San Antonio Spurs,Houston Rockets,18751,134,Frost Bank Center
+NBA,2024-03-12,9:00p,Utah Jazz,Boston Celtics,18206,120,Delta Center
+NBA,2024-03-12,10:00p,Los Angeles Clippers,Minnesota Timberwolves,19370,137,Crypto.com Arena
+NBA,2024-03-12,10:00p,Sacramento Kings,Milwaukee Bucks,17832,137,Golden 1 Center
+NBA,2024-03-13,7:00p,Detroit Pistons,Toronto Raptors,19313,138,Little Caesars Arena
+NBA,2024-03-13,7:00p,Orlando Magic,Brooklyn Nets,18846,139,Kia Center
+NBA,2024-03-13,7:30p,Indiana Pacers,Chicago Bulls,17274,164,Gainbridge Fieldhouse
+NBA,2024-03-13,7:30p,Miami Heat,Denver Nuggets,19921,125,Kaseya Center
+NBA,2024-03-13,8:00p,Memphis Grizzlies,Charlotte Hornets,16717,125,FedEx Forum
+NBA,2024-03-13,8:00p,New Orleans Pelicans,Cleveland Cavaliers,17727,117,Smoothie King Center
+NBA,2024-03-13,8:30p,Dallas Mavericks,Golden State Warriors,20411,133,American Airlines Center
+NBA,2024-03-13,10:00p,Portland Trail Blazers,Atlanta Hawks,18064,131,Moda Center
+NBA,2024-03-13,10:00p,Sacramento Kings,Los Angeles Lakers,18332,134,Golden 1 Center
+NBA,2024-03-14,7:30p,Boston Celtics,Phoenix Suns,19156,122,TD Garden
+NBA,2024-03-14,8:00p,Chicago Bulls,Los Angeles Clippers,21219,120,United Center
+NBA,2024-03-14,8:00p,Houston Rockets,Washington Wizards,18055,125,Toyota Center
+NBA,2024-03-14,8:00p,Milwaukee Bucks,Philadelphia 76ers,17635,135,Fiserv Forum
+NBA,2024-03-14,10:00p,Oklahoma City Thunder,Dallas Mavericks,18203,147,Paycom Center
+NBA,2024-03-14,10:00p,Portland Trail Blazers,New York Knicks,17768,125,Moda Center
+NBA,2024-03-15,7:00p,Charlotte Hornets,Phoenix Suns,18613,127,Spectrum Center
+NBA,2024-03-15,7:00p,Detroit Pistons,Miami Heat,19894,121,Little Caesars Arena
+NBA,2024-03-15,7:30p,Toronto Raptors,Orlando Magic,19800,134,Scotiabank Arena
+NBA,2024-03-15,8:00p,New Orleans Pelicans,Los Angeles Clippers,18865,129,Smoothie King Center
+NBA,2024-03-15,8:30p,San Antonio Spurs,Denver Nuggets,16223,127,Moody Center
+NBA,2024-03-15,9:30p,Utah Jazz,Atlanta Hawks,18206,132,Delta Center
+NBA,2024-03-16,5:00p,Houston Rockets,Cleveland Cavaliers,18055,121,Toyota Center
+NBA,2024-03-16,7:00p,Indiana Pacers,Brooklyn Nets,17009,134,Gainbridge Fieldhouse
+NBA,2024-03-16,7:00p,New Orleans Pelicans,Portland Trail Blazers,17725,129,Smoothie King Center
+NBA,2024-03-16,7:00p,Philadelphia 76ers,Charlotte Hornets,19957,135,Wells Fargo Center
+NBA,2024-03-16,8:00p,Chicago Bulls,Washington Wizards,21697,137,United Center
+NBA,2024-03-16,8:00p,Memphis Grizzlies,Oklahoma City Thunder,17012,138,FedEx Forum
+NBA,2024-03-16,8:30p,Los Angeles Lakers,Golden State Warriors,18997,145,Crypto.com Arena
+NBA,2024-03-16,9:30p,Utah Jazz,Minnesota Timberwolves,18206,128,Delta Center
+NBA,2024-03-16,10:00p,Sacramento Kings,New York Knicks,18311,141,Golden 1 Center
+NBA,2024-03-17,1:00p,Milwaukee Bucks,Phoenix Suns,17783,130,Fiserv Forum
+NBA,2024-03-17,3:00p,Detroit Pistons,Miami Heat,20004,123,Little Caesars Arena
+NBA,2024-03-17,3:30p,Dallas Mavericks,Denver Nuggets,20377,140,American Airlines Center
+NBA,2024-03-17,6:00p,Orlando Magic,Toronto Raptors,18846,130,Kia Center
+NBA,2024-03-17,6:00p,Washington Wizards,Boston Celtics,20333,132,Capital One Arena
+NBA,2024-03-17,7:00p,San Antonio Spurs,Brooklyn Nets,16057,155,Moody Center
+NBA,2024-03-17,9:30p,Los Angeles Clippers,Atlanta Hawks,19370,128,Crypto.com Arena
+NBA,2024-03-18,7:00p,Indiana Pacers,Cleveland Cavaliers,17274,137,Gainbridge Fieldhouse
+NBA,2024-03-18,7:30p,Boston Celtics,Detroit Pistons,19156,113,TD Garden
+NBA,2024-03-18,7:30p,Philadelphia 76ers,Miami Heat,19782,139,Wells Fargo Center
+NBA,2024-03-18,8:00p,Chicago Bulls,Portland Trail Blazers,20293,139,United Center
+NBA,2024-03-18,9:00p,Utah Jazz,Minnesota Timberwolves,18206,122,Delta Center
+NBA,2024-03-18,10:00p,Golden State Warriors,New York Knicks,18064,138,Chase Center
+NBA,2024-03-18,10:00p,Sacramento Kings,Memphis Grizzlies,17832,164,Golden 1 Center
+NBA,2024-03-18,10:30p,Los Angeles Lakers,Atlanta Hawks,18997,117,Crypto.com Arena
+NBA,2024-03-19,7:00p,Orlando Magic,Charlotte Hornets,18846,121,Kia Center
+NBA,2024-03-19,7:00p,Washington Wizards,Houston Rockets,14137,131,Capital One Arena
+NBA,2024-03-19,7:30p,Brooklyn Nets,New Orleans Pelicans,17732,125,Barclays Center
+NBA,2024-03-19,8:00p,San Antonio Spurs,Dallas Mavericks,18354,133,Frost Bank Center
+NBA,2024-03-19,9:00p,Minnesota Timberwolves,Denver Nuggets,18024,132,Target Center
+NBA,2024-03-20,7:00p,Cleveland Cavaliers,Miami Heat,19432,134,Rocket Mortgage Fieldhouse
+NBA,2024-03-20,7:00p,Detroit Pistons,Indiana Pacers,19897,129,Little Caesars Arena
+NBA,2024-03-20,7:30p,Boston Celtics,Milwaukee Bucks,19156,144,TD Garden
+NBA,2024-03-20,7:30p,Toronto Raptors,Sacramento Kings,18641,125,Scotiabank Arena
+NBA,2024-03-20,8:00p,Oklahoma City Thunder,Utah Jazz,18203,135,Paycom Center
+NBA,2024-03-20,10:00p,Golden State Warriors,Memphis Grizzlies,18064,132,Chase Center
+NBA,2024-03-20,10:00p,Phoenix Suns,Philadelphia 76ers,17071,125,Footprint Center
+NBA,2024-03-20,10:00p,Portland Trail Blazers,Los Angeles Clippers,17504,118,Moda Center
+NBA,2024-03-21,7:00p,Orlando Magic,New Orleans Pelicans,17094,129,Kia Center
+NBA,2024-03-21,7:00p,Washington Wizards,Sacramento Kings,14495,135,Capital One Arena
+NBA,2024-03-21,8:00p,Houston Rockets,Chicago Bulls,17016,139,Toyota Center
+NBA,2024-03-21,8:00p,Milwaukee Bucks,Brooklyn Nets,17341,137,Fiserv Forum
+NBA,2024-03-21,8:30p,Dallas Mavericks,Utah Jazz,20277,139,American Airlines Center
+NBA,2024-03-21,9:00p,Denver Nuggets,New York Knicks,19811,133,Ball Arena
+NBA,2024-03-21,10:30p,Phoenix Suns,Atlanta Hawks,17071,141,Footprint Center
+NBA,2024-03-22,7:00p,Detroit Pistons,Boston Celtics,19994,119,Little Caesars Arena
+NBA,2024-03-22,7:00p,Toronto Raptors,Oklahoma City Thunder,19601,121,Scotiabank Arena
+NBA,2024-03-22,8:00p,Miami Heat,New Orleans Pelicans,19727,117,Kaseya Center
+NBA,2024-03-22,8:00p,Minnesota Timberwolves,Cleveland Cavaliers,18024,122,Target Center
+NBA,2024-03-22,8:00p,San Antonio Spurs,Memphis Grizzlies,17408,140,Frost Bank Center
+NBA,2024-03-22,10:00p,Golden State Warriors,Indiana Pacers,18064,133,Chase Center
+NBA,2024-03-22,10:00p,Portland Trail Blazers,Los Angeles Clippers,18660,125,Moda Center
+NBA,2024-03-22,10:30p,Los Angeles Lakers,Philadelphia 76ers,18997,138,Crypto.com Arena
+NBA,2024-03-23,1:00p,New York Knicks,Brooklyn Nets,19812,120,Madison Square Garden (IV)
+NBA,2024-03-23,7:00p,Orlando Magic,Sacramento Kings,18307,138,Kia Center
+NBA,2024-03-23,7:30p,Atlanta Hawks,Charlotte Hornets,17900,119,State Farm Arena
+NBA,2024-03-23,8:00p,Chicago Bulls,Boston Celtics,21198,120,United Center
+NBA,2024-03-23,8:00p,Houston Rockets,Utah Jazz,18055,130,Toyota Center
+NBA,2024-03-23,8:00p,San Antonio Spurs,Phoenix Suns,18354,119,Frost Bank Center
+NBA,2024-03-23,8:00p,Washington Wizards,Toronto Raptors,15746,140,Capital One Arena
+NBA,2024-03-23,10:00p,Portland Trail Blazers,Denver Nuggets,18629,142,Moda Center
+NBA,2024-03-24,3:00p,Detroit Pistons,New Orleans Pelicans,19922,128,Little Caesars Arena
+NBA,2024-03-24,3:30p,Los Angeles Clippers,Philadelphia 76ers,19370,121,Crypto.com Arena
+NBA,2024-03-24,6:00p,Miami Heat,Cleveland Cavaliers,19645,126,Kaseya Center
+NBA,2024-03-24,7:00p,Milwaukee Bucks,Oklahoma City Thunder,17877,128,Fiserv Forum
+NBA,2024-03-24,7:00p,Minnesota Timberwolves,Golden State Warriors,18024,139,Target Center
+NBA,2024-03-24,10:00p,Los Angeles Lakers,Indiana Pacers,18997,140,Crypto.com Arena
+NBA,2024-03-25,7:00p,Cleveland Cavaliers,Charlotte Hornets,19432,124,Rocket Mortgage Fieldhouse
+NBA,2024-03-25,7:30p,Atlanta Hawks,Boston Celtics,17405,131,State Farm Arena
+NBA,2024-03-25,7:30p,New York Knicks,Detroit Pistons,19812,131,Madison Square Garden (IV)
+NBA,2024-03-25,7:30p,Toronto Raptors,Brooklyn Nets,18376,127,Scotiabank Arena
+NBA,2024-03-25,8:00p,Chicago Bulls,Washington Wizards,21726,139,United Center
+NBA,2024-03-25,8:00p,Houston Rockets,Portland Trail Blazers,16537,129,Toyota Center
+NBA,2024-03-25,8:00p,San Antonio Spurs,Phoenix Suns,18044,128,Frost Bank Center
+NBA,2024-03-25,9:00p,Denver Nuggets,Memphis Grizzlies,19536,133,Ball Arena
+NBA,2024-03-25,9:00p,Utah Jazz,Dallas Mavericks,18206,125,Delta Center
+NBA,2024-03-25,10:00p,Sacramento Kings,Philadelphia 76ers,17832,141,Golden 1 Center
+NBA,2024-03-25,10:30p,Los Angeles Clippers,Indiana Pacers,19370,126,Crypto.com Arena
+NBA,2024-03-26,7:30p,Miami Heat,Golden State Warriors,19813,130,Kaseya Center
+NBA,2024-03-26,7:30p,Milwaukee Bucks,Los Angeles Lakers,18085,184,Fiserv Forum
+NBA,2024-03-26,8:00p,New Orleans Pelicans,Oklahoma City Thunder,17436,130,Smoothie King Center
+NBA,2024-03-26,10:00p,Sacramento Kings,Dallas Mavericks,17832,130,Golden 1 Center
+NBA,2024-03-27,7:00p,Charlotte Hornets,Cleveland Cavaliers,15303,130,Spectrum Center
+NBA,2024-03-27,7:00p,Orlando Magic,Golden State Warriors,19210,131,Kia Center
+NBA,2024-03-27,7:00p,Washington Wizards,Brooklyn Nets,15159,143,Capital One Arena
+NBA,2024-03-27,7:30p,Atlanta Hawks,Portland Trail Blazers,16059,127,State Farm Arena
+NBA,2024-03-27,7:30p,Philadelphia 76ers,Los Angeles Clippers,21022,143,Wells Fargo Center
+NBA,2024-03-27,7:30p,Toronto Raptors,New York Knicks,19133,126,Scotiabank Arena
+NBA,2024-03-27,8:00p,Chicago Bulls,Indiana Pacers,22018,132,United Center
+NBA,2024-03-27,8:00p,Memphis Grizzlies,Los Angeles Lakers,17794,136,FedEx Forum
+NBA,2024-03-27,8:00p,Minnesota Timberwolves,Detroit Pistons,18024,122,Target Center
+NBA,2024-03-27,8:00p,Oklahoma City Thunder,Houston Rockets,17438,153,Paycom Center
+NBA,2024-03-27,9:00p,Utah Jazz,San Antonio Spurs,18206,132,Delta Center
+NBA,2024-03-27,10:00p,Denver Nuggets,Phoenix Suns,19827,139,Ball Arena
+NBA,2024-03-28,7:30p,Atlanta Hawks,Boston Celtics,17743,144,State Farm Arena
+NBA,2024-03-28,8:00p,New Orleans Pelicans,Milwaukee Bucks,17484,140,Smoothie King Center
+NBA,2024-03-29,7:00p,Charlotte Hornets,Golden State Warriors,19487,123,Spectrum Center
+NBA,2024-03-29,7:00p,Indiana Pacers,Los Angeles Lakers,17274,126,Gainbridge Fieldhouse
+NBA,2024-03-29,7:00p,Orlando Magic,Los Angeles Clippers,19452,130,Kia Center
+NBA,2024-03-29,7:00p,Washington Wizards,Detroit Pistons,15023,126,Capital One Arena
+NBA,2024-03-29,7:30p,Brooklyn Nets,Chicago Bulls,17894,133,Barclays Center
+NBA,2024-03-29,7:30p,Cleveland Cavaliers,Philadelphia 76ers,19432,139,Rocket Mortgage Fieldhouse
+NBA,2024-03-29,8:00p,Miami Heat,Portland Trail Blazers,19839,118,Kaseya Center
+NBA,2024-03-29,8:00p,Oklahoma City Thunder,Phoenix Suns,18203,130,Paycom Center
+NBA,2024-03-29,8:00p,San Antonio Spurs,New York Knicks,18604,157,Frost Bank Center
+NBA,2024-03-29,9:00p,Denver Nuggets,Minnesota Timberwolves,19844,134,Ball Arena
+NBA,2024-03-29,9:30p,Utah Jazz,Houston Rockets,18206,132,Delta Center
+NBA,2024-03-29,10:00p,Sacramento Kings,Dallas Mavericks,17832,133,Golden 1 Center
+NBA,2024-03-30,5:00p,New Orleans Pelicans,Boston Celtics,17932,121,Smoothie King Center
+NBA,2024-03-30,7:00p,Orlando Magic,Memphis Grizzlies,18009,126,Kia Center
+NBA,2024-03-30,7:30p,Atlanta Hawks,Milwaukee Bucks,17700,146,State Farm Arena
+NBA,2024-03-31,3:30p,Denver Nuggets,Cleveland Cavaliers,19621,127,Ball Arena
+NBA,2024-03-31,6:00p,Brooklyn Nets,Los Angeles Lakers,18162,128,Barclays Center
+NBA,2024-03-31,6:00p,Charlotte Hornets,Los Angeles Clippers,15941,132,Spectrum Center
+NBA,2024-03-31,6:00p,Toronto Raptors,Philadelphia 76ers,19114,129,Scotiabank Arena
+NBA,2024-03-31,6:00p,Washington Wizards,Miami Heat,16039,131,Capital One Arena
+NBA,2024-03-31,7:00p,Houston Rockets,Dallas Mavericks,18055,118,Toyota Center
+NBA,2024-03-31,7:00p,Minnesota Timberwolves,Chicago Bulls,18024,127,Target Center
+NBA,2024-03-31,7:00p,New York Knicks,Oklahoma City Thunder,19812,153,Madison Square Garden (IV)
+NBA,2024-03-31,7:00p,San Antonio Spurs,Golden State Warriors,18718,130,Frost Bank Center
+NBA,2024-03-31,9:00p,Sacramento Kings,Utah Jazz,18332,133,Golden 1 Center
+NBA,2024-04-01,7:00p,Charlotte Hornets,Boston Celtics,19238,114,Spectrum Center
+NBA,2024-04-01,7:00p,Detroit Pistons,Memphis Grizzlies,19999,128,Little Caesars Arena
+NBA,2024-04-01,7:00p,Indiana Pacers,Brooklyn Nets,16522,140,Gainbridge Fieldhouse
+NBA,2024-04-01,7:00p,Orlando Magic,Portland Trail Blazers,19004,131,Kia Center
+NBA,2024-04-01,8:00p,Chicago Bulls,Atlanta Hawks,21114,127,United Center
+NBA,2024-04-01,8:00p,New Orleans Pelicans,Phoenix Suns,17753,134,Smoothie King Center
+NBA,2024-04-02,7:00p,Toronto Raptors,Los Angeles Lakers,19800,126,Scotiabank Arena
+NBA,2024-04-02,7:00p,Washington Wizards,Milwaukee Bucks,16492,133,Capital One Arena
+NBA,2024-04-02,7:30p,Miami Heat,New York Knicks,19857,136,Kaseya Center
+NBA,2024-04-02,7:30p,Philadelphia 76ers,Oklahoma City Thunder,20733,142,Wells Fargo Center
+NBA,2024-04-02,8:00p,Minnesota Timberwolves,Houston Rockets,18024,133,Target Center
+NBA,2024-04-02,9:00p,Denver Nuggets,San Antonio Spurs,19741,130,Ball Arena
+NBA,2024-04-02,9:00p,Utah Jazz,Cleveland Cavaliers,18206,125,Delta Center
+NBA,2024-04-02,10:00p,Golden State Warriors,Dallas Mavericks,18064,140,Chase Center
+NBA,2024-04-02,10:00p,Sacramento Kings,Los Angeles Clippers,17832,132,Golden 1 Center
+NBA,2024-04-03,7:00p,Charlotte Hornets,Portland Trail Blazers,14209,126,Spectrum Center
+NBA,2024-04-03,7:00p,Washington Wizards,Los Angeles Lakers,20333,134,Capital One Arena
+NBA,2024-04-03,7:30p,Atlanta Hawks,Detroit Pistons,17899,127,State Farm Arena
+NBA,2024-04-03,7:30p,Boston Celtics,Oklahoma City Thunder,19156,134,TD Garden
+NBA,2024-04-03,7:30p,Brooklyn Nets,Indiana Pacers,17732,135,Barclays Center
+NBA,2024-04-03,8:00p,Milwaukee Bucks,Memphis Grizzlies,17420,125,Fiserv Forum
+NBA,2024-04-03,8:00p,Minnesota Timberwolves,Toronto Raptors,18024,120,Target Center
+NBA,2024-04-03,8:00p,New Orleans Pelicans,Orlando Magic,16427,,Smoothie King Center
+NBA,2024-04-03,10:00p,Phoenix Suns,Cleveland Cavaliers,17071,134,Footprint Center
+NBA,2024-04-04,7:30p,Dallas Mavericks,Atlanta Hawks,20211,129,American Airlines Center
+NBA,2024-04-04,7:30p,Miami Heat,Philadelphia 76ers,19719,127,Kaseya Center
+NBA,2024-04-04,7:30p,New York Knicks,Sacramento Kings,19812,148,Madison Square Garden (IV)
+NBA,2024-04-04,8:00p,Houston Rockets,Golden State Warriors,18055,133,Toyota Center
+NBA,2024-04-04,10:00p,Los Angeles Clippers,Denver Nuggets,19370,153,Crypto.com Arena
+NBA,2024-04-05,7:00p,Charlotte Hornets,Orlando Magic,16374,133,Spectrum Center
+NBA,2024-04-05,7:00p,Indiana Pacers,Oklahoma City Thunder,17274,132,Gainbridge Fieldhouse
+NBA,2024-04-05,7:00p,Washington Wizards,Portland Trail Blazers,18079,136,Capital One Arena
+NBA,2024-04-05,7:30p,Boston Celtics,Sacramento Kings,19156,123,TD Garden
+NBA,2024-04-05,8:00p,Chicago Bulls,New York Knicks,21599,137,United Center
+NBA,2024-04-05,8:00p,Houston Rockets,Miami Heat,18055,123,Toyota Center
+NBA,2024-04-05,8:00p,Memphis Grizzlies,Detroit Pistons,16745,121,FedEx Forum
+NBA,2024-04-05,8:00p,Milwaukee Bucks,Toronto Raptors,17750,141,Fiserv Forum
+NBA,2024-04-05,8:00p,New Orleans Pelicans,San Antonio Spurs,17422,121,Smoothie King Center
+NBA,2024-04-05,8:30p,Dallas Mavericks,Golden State Warriors,20425,141,American Airlines Center
+NBA,2024-04-05,10:00p,Phoenix Suns,Minnesota Timberwolves,17071,128,Footprint Center
+NBA,2024-04-05,10:30p,Los Angeles Clippers,Utah Jazz,19370,124,Crypto.com Arena
+NBA,2024-04-06,3:30p,Los Angeles Lakers,Cleveland Cavaliers,18997,124,Crypto.com Arena
+NBA,2024-04-06,7:00p,Brooklyn Nets,Detroit Pistons,17732,127,Barclays Center
+NBA,2024-04-06,8:00p,Memphis Grizzlies,Philadelphia 76ers,17794,135,FedEx Forum
+NBA,2024-04-06,9:00p,Denver Nuggets,Atlanta Hawks,19639,130,Ball Arena
+NBA,2024-04-07,3:30p,Dallas Mavericks,Houston Rockets,20317,168,American Airlines Center
+NBA,2024-04-07,3:30p,Los Angeles Clippers,Cleveland Cavaliers,19370,139,Crypto.com Arena
+NBA,2024-04-07,5:00p,Indiana Pacers,Miami Heat,17274,148,Gainbridge Fieldhouse
+NBA,2024-04-07,6:00p,Boston Celtics,Portland Trail Blazers,19156,111,TD Garden
+NBA,2024-04-07,6:00p,Charlotte Hornets,Oklahoma City Thunder,16556,132,Spectrum Center
+NBA,2024-04-07,6:00p,Orlando Magic,Chicago Bulls,19276,131,Kia Center
+NBA,2024-04-07,6:00p,Phoenix Suns,New Orleans Pelicans,17071,133,Footprint Center
+NBA,2024-04-07,6:00p,Toronto Raptors,Washington Wizards,19502,143,Scotiabank Arena
+NBA,2024-04-07,7:00p,Milwaukee Bucks,New York Knicks,17536,135,Fiserv Forum
+NBA,2024-04-07,7:00p,San Antonio Spurs,Philadelphia 76ers,18046,172,Frost Bank Center
+NBA,2024-04-07,7:30p,Brooklyn Nets,Sacramento Kings,17732,126,Barclays Center
+NBA,2024-04-07,8:30p,Golden State Warriors,Utah Jazz,18064,127,Chase Center
+NBA,2024-04-07,10:00p,Los Angeles Lakers,Minnesota Timberwolves,18997,125,Crypto.com Arena
+NBA,2024-04-09,7:00p,Charlotte Hornets,Dallas Mavericks,17425,121,Spectrum Center
+NBA,2024-04-09,7:00p,Philadelphia 76ers,Detroit Pistons,19796,135,Wells Fargo Center
+NBA,2024-04-09,7:00p,Toronto Raptors,Indiana Pacers,19325,137,Scotiabank Arena
+NBA,2024-04-09,7:30p,Atlanta Hawks,Miami Heat,17049,155,State Farm Arena
+NBA,2024-04-09,7:30p,Milwaukee Bucks,Boston Celtics,17493,117,Fiserv Forum
+NBA,2024-04-09,8:00p,Chicago Bulls,New York Knicks,21648,132,United Center
+NBA,2024-04-09,8:00p,Houston Rockets,Orlando Magic,18055,131,Toyota Center
+NBA,2024-04-09,8:00p,Memphis Grizzlies,San Antonio Spurs,16108,115,FedEx Forum
+NBA,2024-04-09,8:00p,Minnesota Timberwolves,Washington Wizards,18024,132,Target Center
+NBA,2024-04-09,8:00p,Oklahoma City Thunder,Sacramento Kings,17509,137,Paycom Center
+NBA,2024-04-09,9:00p,Utah Jazz,Denver Nuggets,18206,118,Delta Center
+NBA,2024-04-09,10:00p,Los Angeles Lakers,Golden State Warriors,18997,135,Crypto.com Arena
+NBA,2024-04-09,10:00p,Phoenix Suns,Los Angeles Clippers,17071,131,Footprint Center
+NBA,2024-04-09,10:00p,Portland Trail Blazers,New Orleans Pelicans,18341,121,Moda Center
+NBA,2024-04-10,7:00p,Cleveland Cavaliers,Memphis Grizzlies,19432,130,Rocket Mortgage Fieldhouse
+NBA,2024-04-10,7:30p,Atlanta Hawks,Charlotte Hornets,16158,129,State Farm Arena
+NBA,2024-04-10,7:30p,Brooklyn Nets,Toronto Raptors,17732,140,Barclays Center
+NBA,2024-04-10,7:30p,Miami Heat,Dallas Mavericks,19660,130,Kaseya Center
+NBA,2024-04-10,8:00p,Milwaukee Bucks,Orlando Magic,17563,132,Fiserv Forum
+NBA,2024-04-10,8:00p,Oklahoma City Thunder,San Antonio Spurs,17229,117,Paycom Center
+NBA,2024-04-10,10:00p,Denver Nuggets,Minnesota Timberwolves,19845,141,Ball Arena
+NBA,2024-04-10,10:30p,Los Angeles Clippers,Phoenix Suns,19370,122,Crypto.com Arena
+NBA,2024-04-11,7:00p,Detroit Pistons,Chicago Bulls,20013,123,Little Caesars Arena
+NBA,2024-04-11,7:30p,Boston Celtics,New York Knicks,19156,124,TD Garden
+NBA,2024-04-11,9:00p,Utah Jazz,Houston Rockets,18206,138,Delta Center
+NBA,2024-04-11,10:00p,Portland Trail Blazers,Golden State Warriors,19335,124,Moda Center
+NBA,2024-04-11,10:00p,Sacramento Kings,New Orleans Pelicans,17832,137,Golden 1 Center
+NBA,2024-04-12,7:00p,Philadelphia 76ers,Orlando Magic,20149,141,Wells Fargo Center
+NBA,2024-04-12,7:00p,Washington Wizards,Chicago Bulls,20333,140,Capital One Arena
+NBA,2024-04-12,7:30p,Boston Celtics,Charlotte Hornets,19156,116,TD Garden
+NBA,2024-04-12,7:30p,Cleveland Cavaliers,Indiana Pacers,19432,131,Rocket Mortgage Fieldhouse
+NBA,2024-04-12,7:30p,New York Knicks,Brooklyn Nets,19812,135,Madison Square Garden (IV)
+NBA,2024-04-12,8:00p,Memphis Grizzlies,Los Angeles Lakers,17794,140,FedEx Forum
+NBA,2024-04-12,8:00p,Miami Heat,Toronto Raptors,19600,127,Kaseya Center
+NBA,2024-04-12,8:00p,Minnesota Timberwolves,Atlanta Hawks,18024,142,Target Center
+NBA,2024-04-12,8:00p,Oklahoma City Thunder,Milwaukee Bucks,18203,126,Paycom Center
+NBA,2024-04-12,8:00p,San Antonio Spurs,Denver Nuggets,18665,127,Frost Bank Center
+NBA,2024-04-12,8:30p,Dallas Mavericks,Detroit Pistons,20274,115,American Airlines Center
+NBA,2024-04-12,10:00p,Golden State Warriors,New Orleans Pelicans,18064,133,Chase Center
+NBA,2024-04-12,10:00p,Portland Trail Blazers,Houston Rockets,18630,127,Moda Center
+NBA,2024-04-12,10:30p,Los Angeles Clippers,Utah Jazz,19370,127,Crypto.com Arena
+NBA,2024-04-12,10:30p,Sacramento Kings,Phoenix Suns,17832,136,Golden 1 Center
+NBA,2024-04-14,1:00p,Boston Celtics,Washington Wizards,19156,121,TD Garden
+NBA,2024-04-14,1:00p,Cleveland Cavaliers,Charlotte Hornets,19432,108,Rocket Mortgage Fieldhouse
+NBA,2024-04-14,1:00p,Indiana Pacers,Atlanta Hawks,17274,124,Gainbridge Fieldhouse
+NBA,2024-04-14,1:00p,Miami Heat,Toronto Raptors,19600,126,Kaseya Center
+NBA,2024-04-14,1:00p,New York Knicks,Chicago Bulls,19812,155,Madison Square Garden (IV)
+NBA,2024-04-14,1:00p,Orlando Magic,Milwaukee Bucks,18846,128,Kia Center
+NBA,2024-04-14,1:00p,Philadelphia 76ers,Brooklyn Nets,20246,121,Wells Fargo Center
+NBA,2024-04-14,3:30p,Golden State Warriors,Utah Jazz,18064,124,Chase Center
+NBA,2024-04-14,3:30p,Los Angeles Clippers,Houston Rockets,19370,115,Crypto.com Arena
+NBA,2024-04-14,3:30p,Memphis Grizzlies,Denver Nuggets,17544,129,FedEx Forum
+NBA,2024-04-14,3:30p,Minnesota Timberwolves,Phoenix Suns,18024,131,Target Center
+NBA,2024-04-14,3:30p,New Orleans Pelicans,Los Angeles Lakers,18633,136,Smoothie King Center
+NBA,2024-04-14,3:30p,Oklahoma City Thunder,Dallas Mavericks,18203,116,Paycom Center
+NBA,2024-04-14,3:30p,Sacramento Kings,Portland Trail Blazers,18037,126,Golden 1 Center
+NBA,2024-04-14,3:30p,San Antonio Spurs,Detroit Pistons,18516,114,Frost Bank Center
+NBA,2024-04-16,7:30p,New Orleans Pelicans,Los Angeles Lakers,18591,153,Smoothie King Center
+NBA,2024-04-16,10:00p,Sacramento Kings,Golden State Warriors,18304,141,Golden 1 Center
+NBA,2024-04-17,7:00p,Philadelphia 76ers,Miami Heat,19788,149,Wells Fargo Center
+NBA,2024-04-17,9:30p,Chicago Bulls,Atlanta Hawks,21627,136,United Center
+NBA,2024-04-19,7:00p,Miami Heat,Chicago Bulls,19600,129,Kaseya Center
+NBA,2024-04-19,9:30p,New Orleans Pelicans,Sacramento Kings,18656,142,Smoothie King Center
+NBA,2024-04-20,1:00p,Cleveland Cavaliers,Orlando Magic,19432,152,Rocket Mortgage Fieldhouse
+NBA,2024-04-20,3:30p,Minnesota Timberwolves,Phoenix Suns,19478,155,Target Center
+NBA,2024-04-20,6:00p,New York Knicks,Philadelphia 76ers,19812,150,Madison Square Garden (IV)
+NBA,2024-04-20,8:30p,Denver Nuggets,Los Angeles Lakers,19731,131,Ball Arena
+NBA,2024-04-21,1:00p,Boston Celtics,Miami Heat,19156,129,TD Garden
+NBA,2024-04-21,3:30p,Los Angeles Clippers,Dallas Mavericks,19370,142,Crypto.com Arena
+NBA,2024-04-21,7:00p,Milwaukee Bucks,Indiana Pacers,17341,137,Fiserv Forum
+NBA,2024-04-21,9:30p,Oklahoma City Thunder,New Orleans Pelicans,18203,141,Paycom Center
+NBA,2024-04-22,7:00p,Cleveland Cavaliers,Orlando Magic,19432,151,Rocket Mortgage Fieldhouse
+NBA,2024-04-22,7:30p,New York Knicks,Philadelphia 76ers,19812,155,Madison Square Garden (IV)
+NBA,2024-04-22,10:00p,Denver Nuggets,Los Angeles Lakers,19711,139,Ball Arena
+NBA,2024-04-23,7:30p,Minnesota Timberwolves,Phoenix Suns,19310,152,Target Center
+NBA,2024-04-23,8:30p,Milwaukee Bucks,Indiana Pacers,17683,141,Fiserv Forum
+NBA,2024-04-23,10:00p,Los Angeles Clippers,Dallas Mavericks,19370,155,Crypto.com Arena
+NBA,2024-04-24,7:00p,Boston Celtics,Miami Heat,19156,139,TD Garden
+NBA,2024-04-24,9:30p,Oklahoma City Thunder,New Orleans Pelicans,18203,138,Paycom Center
+NBA,2024-04-25,7:00p,Orlando Magic,Cleveland Cavaliers,18846,130,Kia Center
+NBA,2024-04-25,7:30p,Philadelphia 76ers,New York Knicks,21116,156,Wells Fargo Center
+NBA,2024-04-25,10:00p,Los Angeles Lakers,Denver Nuggets,18997,138,Crypto.com Arena
+NBA,2024-04-26,5:30p,Indiana Pacers,Milwaukee Bucks,17274,170,Gainbridge Fieldhouse
+NBA,2024-04-26,8:00p,Dallas Mavericks,Los Angeles Clippers,20402,148,American Airlines Center
+NBA,2024-04-26,10:30p,Phoenix Suns,Minnesota Timberwolves,17071,154,Footprint Center
+NBA,2024-04-27,1:00p,Orlando Magic,Cleveland Cavaliers,18933,140,Kia Center
+NBA,2024-04-27,3:30p,New Orleans Pelicans,Oklahoma City Thunder,18659,137,Smoothie King Center
+NBA,2024-04-27,6:00p,Miami Heat,Boston Celtics,20092,131,Kaseya Center
+NBA,2024-04-27,8:30p,Los Angeles Lakers,Denver Nuggets,18997,139,Crypto.com Arena
+NBA,2024-04-28,1:00p,Philadelphia 76ers,New York Knicks,21048,161,Wells Fargo Center
+NBA,2024-04-28,3:30p,Dallas Mavericks,Los Angeles Clippers,20411,156,American Airlines Center
+NBA,2024-04-28,7:00p,Indiana Pacers,Milwaukee Bucks,17274,145,Gainbridge Fieldhouse
+NBA,2024-04-28,9:30p,Phoenix Suns,Minnesota Timberwolves,17071,168,Footprint Center
+NBA,2024-04-29,7:30p,Miami Heat,Boston Celtics,19600,140,Kaseya Center
+NBA,2024-04-29,8:30p,New Orleans Pelicans,Oklahoma City Thunder,18487,144,Smoothie King Center
+NBA,2024-04-29,10:00p,Denver Nuggets,Los Angeles Lakers,19861,139,Ball Arena
+NBA,2024-04-30,7:00p,New York Knicks,Philadelphia 76ers,19812,169,Madison Square Garden (IV)
+NBA,2024-04-30,8:00p,Cleveland Cavaliers,Orlando Magic,19432,151,Rocket Mortgage Fieldhouse
+NBA,2024-04-30,9:30p,Milwaukee Bucks,Indiana Pacers,17341,145,Fiserv Forum
+NBA,2024-05-01,7:30p,Boston Celtics,Miami Heat,19156,131,TD Garden
+NBA,2024-05-01,10:00p,Los Angeles Clippers,Dallas Mavericks,19370,136,Crypto.com Arena
+NBA,2024-05-02,6:30p,Indiana Pacers,Milwaukee Bucks,17274,147,Gainbridge Fieldhouse
+NBA,2024-05-02,9:00p,Philadelphia 76ers,New York Knicks,21093,157,Wells Fargo Center
+NBA,2024-05-03,7:00p,Orlando Magic,Cleveland Cavaliers,19193,148,Kia Center
+NBA,2024-05-03,9:30p,Dallas Mavericks,Los Angeles Clippers,20625,155,American Airlines Center
+NBA,2024-05-04,7:00p,Denver Nuggets,Minnesota Timberwolves,19915,138,Ball Arena
+NBA,2024-05-05,1:00p,Cleveland Cavaliers,Orlando Magic,19432,157,Rocket Mortgage Fieldhouse
+NBA,2024-05-06,7:30p,New York Knicks,Indiana Pacers,19812,150,Madison Square Garden (IV)
+NBA,2024-05-06,10:00p,Denver Nuggets,Minnesota Timberwolves,19942,139,Ball Arena
+NBA,2024-05-07,7:00p,Boston Celtics,Cleveland Cavaliers,19156,129,TD Garden
+NBA,2024-05-07,9:30p,Oklahoma City Thunder,Dallas Mavericks,18203,143,Paycom Center
+NBA,2024-05-08,8:00p,New York Knicks,Indiana Pacers,19812,142,Madison Square Garden (IV)
+NBA,2024-05-09,7:00p,Boston Celtics,Cleveland Cavaliers,19156,134,TD Garden
+NBA,2024-05-09,9:30p,Oklahoma City Thunder,Dallas Mavericks,18203,147,Paycom Center
+NBA,2024-05-10,7:00p,Indiana Pacers,New York Knicks,17274,147,Gainbridge Fieldhouse
+NBA,2024-05-10,9:30p,Minnesota Timberwolves,Denver Nuggets,19733,150,Target Center
+NBA,2024-05-11,3:30p,Dallas Mavericks,Oklahoma City Thunder,20325,145,American Airlines Center
+NBA,2024-05-11,8:30p,Cleveland Cavaliers,Boston Celtics,19432,131,Rocket Mortgage Fieldhouse
+NBA,2024-05-12,3:30p,Indiana Pacers,New York Knicks,17274,135,Gainbridge Fieldhouse
+NBA,2024-05-12,8:00p,Minnesota Timberwolves,Denver Nuggets,19583,143,Target Center
+NBA,2024-05-13,7:00p,Cleveland Cavaliers,Boston Celtics,19432,142,Rocket Mortgage Fieldhouse
+NBA,2024-05-13,9:30p,Dallas Mavericks,Oklahoma City Thunder,20607,159,American Airlines Center
+NBA,2024-05-14,8:00p,New York Knicks,Indiana Pacers,19812,156,Madison Square Garden (IV)
+NBA,2024-05-14,10:30p,Denver Nuggets,Minnesota Timberwolves,19992,142,Ball Arena
+NBA,2024-05-15,7:00p,Boston Celtics,Cleveland Cavaliers,19156,134,TD Garden
+NBA,2024-05-15,9:30p,Oklahoma City Thunder,Dallas Mavericks,18203,132,Paycom Center
+NBA,2024-05-16,8:30p,Minnesota Timberwolves,Denver Nuggets,19187,132,Target Center
+NBA,2024-05-17,8:30p,Indiana Pacers,New York Knicks,17274,141,Gainbridge Fieldhouse
+NBA,2024-05-18,8:00p,Dallas Mavericks,Oklahoma City Thunder,20555,146,American Airlines Center
+NBA,2024-05-19,3:30p,New York Knicks,Indiana Pacers,19812,143,Madison Square Garden (IV)
+NBA,2024-05-19,8:00p,Denver Nuggets,Minnesota Timberwolves,20022,145,Ball Arena
+NBA,2024-05-21,8:00p,Boston Celtics,Indiana Pacers,19156,166,TD Garden
+NBA,2024-05-22,8:30p,Minnesota Timberwolves,Dallas Mavericks,19433,146,Target Center
+NBA,2024-05-23,8:00p,Boston Celtics,Indiana Pacers,19156,141,TD Garden
+NBA,2024-05-24,8:30p,Minnesota Timberwolves,Dallas Mavericks,19636,149,Target Center
+NBA,2024-05-25,8:30p,Indiana Pacers,Boston Celtics,17274,145,Gainbridge Fieldhouse
+NBA,2024-05-26,8:00p,Dallas Mavericks,Minnesota Timberwolves,20511,151,American Airlines Center
+NBA,2024-05-27,8:00p,Indiana Pacers,Boston Celtics,17274,142,Gainbridge Fieldhouse
+NBA,2024-05-28,8:30p,Dallas Mavericks,Minnesota Timberwolves,20477,155,American Airlines Center
+NBA,2024-05-30,8:30p,Minnesota Timberwolves,Dallas Mavericks,19333,141,Target Center
+NBA,2024-06-06,8:30p,Boston Celtics,Dallas Mavericks,19156,132,TD Garden
+NBA,2024-06-09,8:00p,Boston Celtics,Dallas Mavericks,19156,138,TD Garden
+NBA,2024-06-12,8:30p,Dallas Mavericks,Boston Celtics,20311,141,American Airlines Center
+NBA,2024-06-14,8:30p,Dallas Mavericks,Boston Celtics,20277,142,American Airlines Center
+NBA,2024-06-17,8:30p,Boston Celtics,Dallas Mavericks,19156,141,TD Garden

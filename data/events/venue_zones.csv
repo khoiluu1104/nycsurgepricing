@@ -1,0 +1,25 @@
+venue,zone,zone_name,role
+Barclays Center,181,Park Slope,venue
+Barclays Center,25,Boerum Hill,spillover (<800 m)
+Barclays Center,49,Clinton Hill,spillover (<800 m)
+Barclays Center,97,Fort Greene,spillover (<800 m)
+Barclays Center,106,Gowanus,spillover (<800 m)
+Barclays Center,189,Prospect Heights,spillover (<800 m)
+Citi Field,93,Flushing Meadows-Corona Park,venue
+Citi Field,57,Corona,spillover (<800 m)
+Citi Field,70,East Elmhurst,spillover (<800 m)
+Citi Field,92,Flushing,spillover (<800 m)
+Citi Field,173,North Corona,spillover (<800 m)
+Citi Field,253,Willets Point,spillover (<800 m)
+Madison Square Garden,186,Penn Station/Madison Sq West,venue
+Madison Square Garden,48,Clinton East,spillover (<800 m)
+Madison Square Garden,68,East Chelsea,spillover (<800 m)
+Madison Square Garden,90,Flatiron,spillover (<800 m)
+Madison Square Garden,100,Garment District,spillover (<800 m)
+Madison Square Garden,164,Midtown South,spillover (<800 m)
+Madison Square Garden,234,Union Sq,spillover (<800 m)
+Madison Square Garden,246,West Chelsea/Hudson Yards,spillover (<800 m)
+Yankee Stadium,247,West Concourse,venue
+Yankee Stadium,42,Central Harlem North,spillover (<800 m)
+Yankee Stadium,69,East Concourse/Concourse Village,spillover (<800 m)
+Yankee Stadium,119,Highbridge,spillover (<800 m)

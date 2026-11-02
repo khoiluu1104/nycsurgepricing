@@ -1,0 +1,10 @@
+grp,league,games,mean_surprise_min,min,max
+Ended early,MLB,43,-23.7906976744186,-47,-15
+Ended early,NBA,2,-16,-16,-16
+Ended early,NHL,1,-15,-15,-15
+On time,MLB,91,-0.461538461538462,-14,13
+On time,NBA,75,-0.946666666666667,-13,14
+On time,NHL,42,-0.261904761904762,-10,12
+Ran late,MLB,39,30.3589743589744,15,77
+Ran late,NBA,10,22.5,16,33
+Ran late,NHL,7,31.7142857142857,15,94

@@ -1,0 +1,311 @@
+league,home,away,venue,zone,date,start,end,length_min,attendance
+NBA,New York Knicks,Minnesota Timberwolves,Madison Square Garden,186,2024-01-01,2024-01-01 15:00:00,2024-01-01 17:28:00,148,19812
+NHL,New York Rangers,Carolina Hurricanes,Madison Square Garden,186,2024-01-02,2024-01-02 19:00:00,2024-01-02 21:28:00,148,18006
+NBA,New York Knicks,Chicago Bulls,Madison Square Garden,186,2024-01-03,2024-01-03 20:30:00,2024-01-03 22:43:00,133,19812
+NHL,New York Rangers,Chicago Blackhawks,Madison Square Garden,186,2024-01-04,2024-01-04 19:00:00,2024-01-04 21:22:00,142,18006
+NBA,Brooklyn Nets,Oklahoma City Thunder,Barclays Center,181,2024-01-05,2024-01-05 19:30:00,2024-01-05 21:52:00,142,18147
+NBA,Brooklyn Nets,Portland Trail Blazers,Barclays Center,181,2024-01-07,2024-01-07 15:00:00,2024-01-07 17:40:00,160,17732
+NHL,New York Rangers,Vancouver Canucks,Madison Square Garden,186,2024-01-08,2024-01-08 19:00:00,2024-01-08 21:28:00,148,18006
+NBA,New York Knicks,Portland Trail Blazers,Madison Square Garden,186,2024-01-09,2024-01-09 19:30:00,2024-01-09 21:34:00,124,19812
+NHL,New York Rangers,Washington Capitals,Madison Square Garden,186,2024-01-14,2024-01-14 13:00:00,2024-01-14 15:29:00,149,18006
+NBA,New York Knicks,Orlando Magic,Madison Square Garden,186,2024-01-15,2024-01-15 15:00:00,2024-01-15 17:16:00,136,19812
+NBA,Brooklyn Nets,Miami Heat,Barclays Center,181,2024-01-15,2024-01-15 19:30:00,2024-01-15 21:58:00,148,17893
+NHL,New York Rangers,Seattle Kraken,Madison Square Garden,186,2024-01-16,2024-01-16 19:00:00,2024-01-16 21:19:00,139,18006
+NBA,New York Knicks,Houston Rockets,Madison Square Garden,186,2024-01-17,2024-01-17 19:30:00,2024-01-17 21:45:00,135,19439
+NBA,New York Knicks,Washington Wizards,Madison Square Garden,186,2024-01-18,2024-01-18 19:30:00,2024-01-18 21:54:00,144,19466
+NBA,New York Knicks,Toronto Raptors,Madison Square Garden,186,2024-01-20,2024-01-20 19:30:00,2024-01-20 21:41:00,131,19812
+NBA,Brooklyn Nets,New York Knicks,Barclays Center,181,2024-01-23,2024-01-23 19:30:00,2024-01-23 21:42:00,132,17732
+NBA,Brooklyn Nets,Minnesota Timberwolves,Barclays Center,181,2024-01-25,2024-01-25 19:30:00,2024-01-25 21:45:00,135,17732
+NBA,New York Knicks,Denver Nuggets,Madison Square Garden,186,2024-01-25,2024-01-25 19:30:00,2024-01-25 21:35:00,125,19812
+NHL,New York Rangers,Vegas Golden Knights,Madison Square Garden,186,2024-01-26,2024-01-26 19:00:00,2024-01-26 21:33:00,153,18006
+NBA,New York Knicks,Miami Heat,Madison Square Garden,186,2024-01-27,2024-01-27 15:00:00,2024-01-27 17:23:00,143,19812
+NBA,Brooklyn Nets,Houston Rockets,Barclays Center,181,2024-01-27,2024-01-27 18:00:00,2024-01-27 20:26:00,146,17732
+NBA,Brooklyn Nets,Utah Jazz,Barclays Center,181,2024-01-29,2024-01-29 19:30:00,2024-01-29 21:40:00,130,16054
+NBA,Brooklyn Nets,Phoenix Suns,Barclays Center,181,2024-01-31,2024-01-31 20:30:00,2024-01-31 22:52:00,142,17732
+NBA,New York Knicks,Indiana Pacers,Madison Square Garden,186,2024-02-01,2024-02-01 19:30:00,2024-02-01 21:47:00,137,19812
+NBA,New York Knicks,Los Angeles Lakers,Madison Square Garden,186,2024-02-03,2024-02-03 20:30:00,2024-02-03 22:48:00,138,19812
+NHL,New York Rangers,Colorado Avalanche,Madison Square Garden,186,2024-02-05,2024-02-05 19:00:00,2024-02-05 21:23:00,143,18006
+NBA,Brooklyn Nets,Golden State Warriors,Barclays Center,181,2024-02-05,2024-02-05 19:30:00,2024-02-05 21:51:00,141,17919
+NBA,Brooklyn Nets,Dallas Mavericks,Barclays Center,181,2024-02-06,2024-02-06 19:30:00,2024-02-06 21:41:00,131,17732
+NBA,New York Knicks,Memphis Grizzlies,Madison Square Garden,186,2024-02-06,2024-02-06 19:30:00,2024-02-06 21:35:00,125,19013
+NHL,New York Rangers,Tampa Bay Lightning,Madison Square Garden,186,2024-02-07,2024-02-07 19:00:00,2024-02-07 21:24:00,144,17208
+NBA,Brooklyn Nets,Cleveland Cavaliers,Barclays Center,181,2024-02-08,2024-02-08 19:30:00,2024-02-08 21:33:00,123,17304
+NBA,New York Knicks,Dallas Mavericks,Madison Square Garden,186,2024-02-08,2024-02-08 19:30:00,2024-02-08 21:42:00,132,19812
+NBA,Brooklyn Nets,San Antonio Spurs,Barclays Center,181,2024-02-10,2024-02-10 18:00:00,2024-02-10 20:10:00,130,18005
+NBA,New York Knicks,Indiana Pacers,Madison Square Garden,186,2024-02-10,2024-02-10 19:30:00,2024-02-10 21:36:00,126,19812
+NHL,New York Rangers,Calgary Flames,Madison Square Garden,186,2024-02-12,2024-02-12 19:00:00,2024-02-12 21:22:00,142,18006
+NBA,Brooklyn Nets,Boston Celtics,Barclays Center,181,2024-02-13,2024-02-13 19:30:00,2024-02-13 21:44:00,134,18053
+NHL,New York Rangers,Montreal Canadiens,Madison Square Garden,186,2024-02-15,2024-02-15 19:00:00,2024-02-15 21:45:00,165,18006
+NHL,New York Rangers,Dallas Stars,Madison Square Garden,186,2024-02-20,2024-02-20 19:00:00,2024-02-20 21:29:00,149,18006
+NBA,New York Knicks,Boston Celtics,Madison Square Garden,186,2024-02-24,2024-02-24 20:30:00,2024-02-24 22:37:00,127,19812
+NBA,New York Knicks,Detroit Pistons,Madison Square Garden,186,2024-02-26,2024-02-26 19:30:00,2024-02-26 21:37:00,127,19303
+NBA,New York Knicks,New Orleans Pelicans,Madison Square Garden,186,2024-02-27,2024-02-27 19:30:00,2024-02-27 21:39:00,129,19812
+NHL,New York Rangers,Columbus Blue Jackets,Madison Square Garden,186,2024-02-28,2024-02-28 19:00:00,2024-02-28 21:33:00,153,18006
+NBA,Brooklyn Nets,Atlanta Hawks,Barclays Center,181,2024-02-29,2024-02-29 19:30:00,2024-02-29 21:35:00,125,17284
+NBA,New York Knicks,Golden State Warriors,Madison Square Garden,186,2024-02-29,2024-02-29 19:30:00,2024-02-29 21:48:00,138,19812
+NBA,Brooklyn Nets,Atlanta Hawks,Barclays Center,181,2024-03-02,2024-03-02 15:00:00,2024-03-02 17:18:00,138,18075
+NHL,New York Rangers,Florida Panthers,Madison Square Garden,186,2024-03-04,2024-03-04 19:00:00,2024-03-04 21:30:00,150,18006
+NBA,Brooklyn Nets,Memphis Grizzlies,Barclays Center,181,2024-03-04,2024-03-04 19:30:00,2024-03-04 21:58:00,148,15847
+NBA,Brooklyn Nets,Philadelphia 76ers,Barclays Center,181,2024-03-05,2024-03-05 19:30:00,2024-03-05 21:50:00,140,17086
+NBA,New York Knicks,Atlanta Hawks,Madison Square Garden,186,2024-03-05,2024-03-05 19:30:00,2024-03-05 21:37:00,127,19812
+NBA,New York Knicks,Orlando Magic,Madison Square Garden,186,2024-03-08,2024-03-08 19:30:00,2024-03-08 21:33:00,123,19812
+NHL,New York Rangers,St. Louis Blues,Madison Square Garden,186,2024-03-09,2024-03-09 19:30:00,2024-03-09 21:53:00,143,18006
+NBA,New York Knicks,Philadelphia 76ers,Madison Square Garden,186,2024-03-10,2024-03-10 19:00:00,2024-03-10 21:18:00,138,19812
+NHL,New York Rangers,New Jersey Devils,Madison Square Garden,186,2024-03-11,2024-03-11 19:00:00,2024-03-11 21:21:00,141,18006
+NBA,New York Knicks,Philadelphia 76ers,Madison Square Garden,186,2024-03-12,2024-03-12 19:30:00,2024-03-12 21:41:00,131,19812
+NHL,New York Rangers,New York Islanders,Madison Square Garden,186,2024-03-17,2024-03-17 13:00:00,2024-03-17 15:26:00,146,18006
+NHL,New York Rangers,Winnipeg Jets,Madison Square Garden,186,2024-03-19,2024-03-19 19:00:00,2024-03-19 21:30:00,150,18006
+NBA,Brooklyn Nets,New Orleans Pelicans,Barclays Center,181,2024-03-19,2024-03-19 19:30:00,2024-03-19 21:35:00,125,17732
+NBA,New York Knicks,Brooklyn Nets,Madison Square Garden,186,2024-03-23,2024-03-23 13:00:00,2024-03-23 15:00:00,120,19812
+NHL,New York Rangers,Florida Panthers,Madison Square Garden,186,2024-03-23,2024-03-23 20:00:00,2024-03-23 22:44:00,164,18006
+NBA,New York Knicks,Detroit Pistons,Madison Square Garden,186,2024-03-25,2024-03-25 19:30:00,2024-03-25 21:41:00,131,19812
+NHL,New York Rangers,Philadelphia Flyers,Madison Square Garden,186,2024-03-26,2024-03-26 19:00:00,2024-03-26 21:40:00,160,18006
+MLB,New York Mets,Milwaukee Brewers,Citi Field,93,2024-03-29,2024-03-29 13:44:00,2024-03-29 16:12:00,148,42137
+NBA,Brooklyn Nets,Chicago Bulls,Barclays Center,181,2024-03-29,2024-03-29 19:30:00,2024-03-29 21:43:00,133,17894
+MLB,New York Mets,Milwaukee Brewers,Citi Field,93,2024-03-30,2024-03-30 13:40:00,2024-03-30 16:30:00,170,30296
+MLB,New York Mets,Milwaukee Brewers,Citi Field,93,2024-03-31,2024-03-31 13:42:00,2024-03-31 16:25:00,163,22222
+NBA,Brooklyn Nets,Los Angeles Lakers,Barclays Center,181,2024-03-31,2024-03-31 18:00:00,2024-03-31 20:08:00,128,18162
+NBA,New York Knicks,Oklahoma City Thunder,Madison Square Garden,186,2024-03-31,2024-03-31 19:00:00,2024-03-31 21:33:00,153,19812
+NHL,New York Rangers,Pittsburgh Penguins,Madison Square Garden,186,2024-04-01,2024-04-01 19:00:00,2024-04-01 21:30:00,150,18006
+MLB,New York Mets,Detroit Tigers,Citi Field,93,2024-04-01,2024-04-01 19:10:00,2024-04-01 21:56:00,166,16853
+NHL,New York Rangers,New Jersey Devils,Madison Square Garden,186,2024-04-03,2024-04-03 19:00:00,2024-04-03 21:38:00,158,18006
+NBA,Brooklyn Nets,Indiana Pacers,Barclays Center,181,2024-04-03,2024-04-03 19:30:00,2024-04-03 21:45:00,135,17732
+MLB,New York Mets,Detroit Tigers,Citi Field,93,2024-04-04,2024-04-04 12:10:00,2024-04-04 15:35:00,205,
+MLB,New York Mets,Detroit Tigers,Citi Field,93,2024-04-04,2024-04-04 16:21:00,2024-04-04 18:44:00,143,15020
+NBA,New York Knicks,Sacramento Kings,Madison Square Garden,186,2024-04-04,2024-04-04 19:30:00,2024-04-04 21:58:00,148,19812
+MLB,New York Yankees,Toronto Blue Jays,Yankee Stadium,247,2024-04-05,2024-04-05 13:10:00,2024-04-05 16:04:00,174,47812
+NBA,Brooklyn Nets,Detroit Pistons,Barclays Center,181,2024-04-06,2024-04-06 19:00:00,2024-04-06 21:07:00,127,17732
+MLB,New York Yankees,Toronto Blue Jays,Yankee Stadium,247,2024-04-06,2024-04-06 19:11:00,2024-04-06 22:31:00,200,42250
+MLB,New York Yankees,Toronto Blue Jays,Yankee Stadium,247,2024-04-07,2024-04-07 13:38:00,2024-04-07 16:48:00,190,40569
+NHL,New York Rangers,Montreal Canadiens,Madison Square Garden,186,2024-04-07,2024-04-07 19:00:00,2024-04-07 21:29:00,149,17854
+NBA,Brooklyn Nets,Sacramento Kings,Barclays Center,181,2024-04-07,2024-04-07 19:30:00,2024-04-07 21:36:00,126,17732
+MLB,New York Yankees,Miami Marlins,Yankee Stadium,247,2024-04-08,2024-04-08 18:07:00,2024-04-08 20:08:00,121,31071
+MLB,New York Yankees,Miami Marlins,Yankee Stadium,247,2024-04-09,2024-04-09 19:08:00,2024-04-09 21:43:00,155,37680
+MLB,New York Yankees,Miami Marlins,Yankee Stadium,247,2024-04-10,2024-04-10 19:08:00,2024-04-10 21:58:00,170,36295
+NBA,Brooklyn Nets,Toronto Raptors,Barclays Center,181,2024-04-10,2024-04-10 19:30:00,2024-04-10 21:50:00,140,17732
+NHL,New York Rangers,Philadelphia Flyers,Madison Square Garden,186,2024-04-11,2024-04-11 19:00:00,2024-04-11 21:26:00,146,18006
+MLB,New York Mets,Kansas City Royals,Citi Field,93,2024-04-12,2024-04-12 19:10:00,2024-04-12 21:28:00,138,18822
+NBA,New York Knicks,Brooklyn Nets,Madison Square Garden,186,2024-04-12,2024-04-12 19:30:00,2024-04-12 21:45:00,135,19812
+NHL,New York Rangers,New York Islanders,Madison Square Garden,186,2024-04-13,2024-04-13 12:30:00,2024-04-13 15:19:00,169,18006
+MLB,New York Mets,Kansas City Royals,Citi Field,93,2024-04-13,2024-04-13 13:41:00,2024-04-13 16:37:00,176,25387
+NBA,New York Knicks,Chicago Bulls,Madison Square Garden,186,2024-04-14,2024-04-14 13:00:00,2024-04-14 15:35:00,155,19812
+MLB,New York Mets,Kansas City Royals,Citi Field,93,2024-04-14,2024-04-14 14:26:00,2024-04-14 16:48:00,142,32749
+MLB,New York Mets,Pittsburgh Pirates,Citi Field,93,2024-04-15,2024-04-15 19:10:00,2024-04-15 21:53:00,163,18266
+NHL,New York Rangers,Ottawa Senators,Madison Square Garden,186,2024-04-15,2024-04-15 19:30:00,2024-04-15 21:53:00,143,18006
+MLB,New York Mets,Pittsburgh Pirates,Citi Field,93,2024-04-16,2024-04-16 19:10:00,2024-04-16 21:38:00,148,18398
+MLB,New York Mets,Pittsburgh Pirates,Citi Field,93,2024-04-17,2024-04-17 13:10:00,2024-04-17 15:43:00,153,18092
+MLB,New York Yankees,Tampa Bay Rays,Yankee Stadium,247,2024-04-19,2024-04-19 19:09:00,2024-04-19 21:49:00,160,36055
+MLB,New York Yankees,Tampa Bay Rays,Yankee Stadium,247,2024-04-20,2024-04-20 13:08:00,2024-04-20 15:33:00,145,47629
+NBA,New York Knicks,Philadelphia 76ers,Madison Square Garden,186,2024-04-20,2024-04-20 18:00:00,2024-04-20 20:30:00,150,19812
+MLB,New York Yankees,Tampa Bay Rays,Yankee Stadium,247,2024-04-21,2024-04-21 13:39:00,2024-04-21 16:21:00,162,40022
+NHL,New York Rangers,Washington Capitals,Madison Square Garden,186,2024-04-21,2024-04-21 15:00:00,2024-04-21 17:41:00,161,18006
+MLB,New York Yankees,Oakland Athletics,Yankee Stadium,247,2024-04-22,2024-04-22 13:07:00,2024-04-22 15:39:00,152,30366
+NBA,New York Knicks,Philadelphia 76ers,Madison Square Garden,186,2024-04-22,2024-04-22 19:30:00,2024-04-22 22:05:00,155,19812
+NHL,New York Rangers,Washington Capitals,Madison Square Garden,186,2024-04-23,2024-04-23 19:00:00,2024-04-23 21:37:00,157,18006
+MLB,New York Yankees,Oakland Athletics,Yankee Stadium,247,2024-04-23,2024-04-23 19:08:00,2024-04-23 21:37:00,149,30060
+MLB,New York Yankees,Oakland Athletics,Yankee Stadium,247,2024-04-24,2024-04-24 19:09:00,2024-04-24 21:42:00,153,31179
+MLB,New York Yankees,Oakland Athletics,Yankee Stadium,247,2024-04-25,2024-04-25 19:08:00,2024-04-25 21:32:00,144,40141
+MLB,New York Mets,St. Louis Cardinals,Citi Field,93,2024-04-26,2024-04-26 19:11:00,2024-04-26 21:41:00,150,24159
+MLB,New York Mets,St. Louis Cardinals,Citi Field,93,2024-04-27,2024-04-27 16:06:00,2024-04-27 19:09:00,183,32332
+MLB,New York Mets,St. Louis Cardinals,Citi Field,93,2024-04-28,2024-04-28 13:41:00,2024-04-28 16:40:00,179,30980
+MLB,New York Mets,Chicago Cubs,Citi Field,93,2024-04-29,2024-04-29 19:11:00,2024-04-29 21:16:00,125,25046
+NBA,New York Knicks,Philadelphia 76ers,Madison Square Garden,186,2024-04-30,2024-04-30 19:00:00,2024-04-30 21:49:00,169,19812
+MLB,New York Mets,Chicago Cubs,Citi Field,93,2024-04-30,2024-04-30 19:11:00,2024-04-30 21:42:00,151,22880
+MLB,New York Mets,Chicago Cubs,Citi Field,93,2024-05-01,2024-05-01 19:11:00,2024-05-01 21:48:00,157,22485
+MLB,New York Mets,Chicago Cubs,Citi Field,93,2024-05-02,2024-05-02 13:10:00,2024-05-02 16:27:00,197,22224
+MLB,New York Yankees,Detroit Tigers,Yankee Stadium,247,2024-05-03,2024-05-03 19:07:00,2024-05-03 21:51:00,164,37386
+MLB,New York Yankees,Detroit Tigers,Yankee Stadium,247,2024-05-04,2024-05-04 13:09:00,2024-05-04 15:43:00,154,45017
+MLB,New York Yankees,Detroit Tigers,Yankee Stadium,247,2024-05-05,2024-05-05 13:38:00,2024-05-05 16:18:00,160,35119
+NHL,New York Rangers,Carolina Hurricanes,Madison Square Garden,186,2024-05-05,2024-05-05 16:00:00,2024-05-05 18:35:00,155,18006
+NBA,New York Knicks,Indiana Pacers,Madison Square Garden,186,2024-05-06,2024-05-06 19:30:00,2024-05-06 22:00:00,150,19812
+NHL,New York Rangers,Carolina Hurricanes,Madison Square Garden,186,2024-05-07,2024-05-07 19:00:00,2024-05-07 23:03:00,243,18006
+MLB,New York Yankees,Houston Astros,Yankee Stadium,247,2024-05-07,2024-05-07 19:07:00,2024-05-07 21:53:00,166,37126
+MLB,New York Yankees,Houston Astros,Yankee Stadium,247,2024-05-08,2024-05-08 19:08:00,2024-05-08 21:43:00,155,37660
+NBA,New York Knicks,Indiana Pacers,Madison Square Garden,186,2024-05-08,2024-05-08 20:00:00,2024-05-08 22:22:00,142,19812
+MLB,New York Yankees,Houston Astros,Yankee Stadium,247,2024-05-09,2024-05-09 17:07:00,2024-05-09 20:02:00,175,38095
+MLB,New York Mets,Atlanta Braves,Citi Field,93,2024-05-10,2024-05-10 20:05:00,2024-05-10 22:32:00,147,23355
+MLB,New York Mets,Atlanta Braves,Citi Field,93,2024-05-11,2024-05-11 16:10:00,2024-05-11 18:55:00,165,38919
+MLB,New York Mets,Atlanta Braves,Citi Field,93,2024-05-12,2024-05-12 19:10:00,2024-05-12 22:00:00,170,18944
+NHL,New York Rangers,Carolina Hurricanes,Madison Square Garden,186,2024-05-13,2024-05-13 19:00:00,2024-05-13 21:25:00,145,18006
+MLB,New York Mets,Philadelphia Phillies,Citi Field,93,2024-05-13,2024-05-13 19:11:00,2024-05-13 22:21:00,190,28086
+MLB,New York Mets,Philadelphia Phillies,Citi Field,93,2024-05-14,2024-05-14 13:11:00,2024-05-14 15:59:00,168,30047
+NBA,New York Knicks,Indiana Pacers,Madison Square Garden,186,2024-05-14,2024-05-14 20:00:00,2024-05-14 22:36:00,156,19812
+MLB,New York Yankees,Chicago White Sox,Yankee Stadium,247,2024-05-17,2024-05-17 19:06:00,2024-05-17 21:38:00,152,46025
+MLB,New York Yankees,Chicago White Sox,Yankee Stadium,247,2024-05-18,2024-05-18 13:08:00,2024-05-18 15:37:00,149,43194
+MLB,New York Yankees,Chicago White Sox,Yankee Stadium,247,2024-05-19,2024-05-19 13:38:00,2024-05-19 16:11:00,153,41041
+NBA,New York Knicks,Indiana Pacers,Madison Square Garden,186,2024-05-19,2024-05-19 15:30:00,2024-05-19 17:53:00,143,19812
+MLB,New York Yankees,Seattle Mariners,Yankee Stadium,247,2024-05-20,2024-05-20 19:09:00,2024-05-20 21:43:00,154,37590
+MLB,New York Yankees,Seattle Mariners,Yankee Stadium,247,2024-05-21,2024-05-21 19:09:00,2024-05-21 22:07:00,178,37257
+MLB,New York Yankees,Seattle Mariners,Yankee Stadium,247,2024-05-22,2024-05-22 19:09:00,2024-05-22 21:52:00,163,40224
+NHL,New York Rangers,Florida Panthers,Madison Square Garden,186,2024-05-22,2024-05-22 20:00:00,2024-05-22 22:32:00,152,18006
+MLB,New York Yankees,Seattle Mariners,Yankee Stadium,247,2024-05-23,2024-05-23 12:38:00,2024-05-23 15:21:00,163,43121
+MLB,New York Mets,San Francisco Giants,Citi Field,93,2024-05-24,2024-05-24 19:10:00,2024-05-24 21:55:00,165,26658
+NHL,New York Rangers,Florida Panthers,Madison Square Garden,186,2024-05-24,2024-05-24 20:00:00,2024-05-24 23:12:00,192,18006
+MLB,New York Mets,San Francisco Giants,Citi Field,93,2024-05-25,2024-05-25 13:41:00,2024-05-25 16:44:00,183,32971
+MLB,New York Mets,San Francisco Giants,Citi Field,93,2024-05-26,2024-05-26 13:40:00,2024-05-26 15:57:00,137,41016
+MLB,New York Mets,Los Angeles Dodgers,Citi Field,93,2024-05-28,2024-05-28 16:11:00,2024-05-28 18:53:00,162,
+MLB,New York Mets,Los Angeles Dodgers,Citi Field,93,2024-05-28,2024-05-28 19:41:00,2024-05-28 21:59:00,138,36021
+MLB,New York Mets,Los Angeles Dodgers,Citi Field,93,2024-05-29,2024-05-29 16:10:00,2024-05-29 19:30:00,200,23890
+MLB,New York Mets,Arizona Diamondbacks,Citi Field,93,2024-05-30,2024-05-30 19:10:00,2024-05-30 21:53:00,163,20926
+NHL,New York Rangers,Florida Panthers,Madison Square Garden,186,2024-05-30,2024-05-30 20:00:00,2024-05-30 22:32:00,152,18006
+MLB,New York Mets,Arizona Diamondbacks,Citi Field,93,2024-05-31,2024-05-31 19:10:00,2024-05-31 22:01:00,171,33884
+MLB,New York Mets,Arizona Diamondbacks,Citi Field,93,2024-06-01,2024-06-01 16:31:00,2024-06-01 19:24:00,173,30600
+MLB,New York Mets,Arizona Diamondbacks,Citi Field,93,2024-06-02,2024-06-02 13:41:00,2024-06-02 16:21:00,160,31059
+MLB,New York Yankees,Minnesota Twins,Yankee Stadium,247,2024-06-04,2024-06-04 19:09:00,2024-06-04 21:31:00,142,37139
+MLB,New York Yankees,Minnesota Twins,Yankee Stadium,247,2024-06-05,2024-06-05 19:09:00,2024-06-05 21:45:00,156,43202
+MLB,New York Yankees,Minnesota Twins,Yankee Stadium,247,2024-06-06,2024-06-06 19:08:00,2024-06-06 22:16:00,188,41380
+MLB,New York Yankees,Los Angeles Dodgers,Yankee Stadium,247,2024-06-07,2024-06-07 19:08:00,2024-06-07 22:29:00,201,48048
+MLB,New York Yankees,Los Angeles Dodgers,Yankee Stadium,247,2024-06-08,2024-06-08 19:43:00,2024-06-08 23:00:00,197,48374
+MLB,New York Yankees,Los Angeles Dodgers,Yankee Stadium,247,2024-06-09,2024-06-09 19:10:00,2024-06-09 21:54:00,164,48023
+MLB,New York Mets,Miami Marlins,Citi Field,93,2024-06-11,2024-06-11 19:12:00,2024-06-11 22:02:00,170,22070
+MLB,New York Mets,Miami Marlins,Citi Field,93,2024-06-12,2024-06-12 19:11:00,2024-06-12 21:56:00,165,19803
+MLB,New York Mets,Miami Marlins,Citi Field,93,2024-06-13,2024-06-13 19:10:00,2024-06-13 21:35:00,145,22485
+MLB,New York Mets,San Diego Padres,Citi Field,93,2024-06-14,2024-06-14 20:15:00,2024-06-14 22:47:00,152,22850
+MLB,New York Mets,San Diego Padres,Citi Field,93,2024-06-15,2024-06-15 16:11:00,2024-06-15 18:45:00,154,37031
+MLB,New York Mets,San Diego Padres,Citi Field,93,2024-06-16,2024-06-16 13:42:00,2024-06-16 16:53:00,191,31454
+MLB,New York Yankees,Baltimore Orioles,Yankee Stadium,247,2024-06-18,2024-06-18 19:08:00,2024-06-18 22:01:00,173,47429
+MLB,New York Yankees,Baltimore Orioles,Yankee Stadium,247,2024-06-19,2024-06-19 19:09:00,2024-06-19 22:49:00,220,47155
+MLB,New York Yankees,Baltimore Orioles,Yankee Stadium,247,2024-06-20,2024-06-20 16:08:00,2024-06-20 19:08:00,180,45456
+MLB,New York Yankees,Atlanta Braves,Yankee Stadium,247,2024-06-21,2024-06-21 19:09:00,2024-06-21 22:06:00,177,45226
+MLB,New York Yankees,Atlanta Braves,Yankee Stadium,247,2024-06-22,2024-06-22 19:15:00,2024-06-22 21:51:00,156,45056
+MLB,New York Yankees,Atlanta Braves,Yankee Stadium,247,2024-06-23,2024-06-23 13:38:00,2024-06-23 15:52:00,134,46683
+MLB,New York Mets,New York Yankees,Citi Field,93,2024-06-25,2024-06-25 19:11:00,2024-06-25 22:16:00,185,42824
+MLB,New York Mets,New York Yankees,Citi Field,93,2024-06-26,2024-06-26 19:10:00,2024-06-26 22:15:00,185,43004
+MLB,New York Mets,Houston Astros,Citi Field,93,2024-06-28,2024-06-28 19:11:00,2024-06-28 22:17:00,186,32465
+MLB,New York Mets,Houston Astros,Citi Field,93,2024-06-29,2024-06-29 16:13:00,2024-06-29 19:36:00,203,32348
+MLB,New York Mets,Houston Astros,Citi Field,93,2024-06-30,2024-06-30 13:40:00,2024-06-30 16:41:00,181,26853
+MLB,New York Yankees,Cincinnati Reds,Yankee Stadium,247,2024-07-02,2024-07-02 19:10:00,2024-07-02 21:53:00,163,41219
+MLB,New York Yankees,Cincinnati Reds,Yankee Stadium,247,2024-07-03,2024-07-03 19:09:00,2024-07-03 21:46:00,157,47646
+MLB,New York Yankees,Cincinnati Reds,Yankee Stadium,247,2024-07-04,2024-07-04 13:13:00,2024-07-04 16:09:00,176,43154
+MLB,New York Yankees,Boston Red Sox,Yankee Stadium,247,2024-07-05,2024-07-05 19:08:00,2024-07-05 21:57:00,169,47158
+MLB,New York Yankees,Boston Red Sox,Yankee Stadium,247,2024-07-06,2024-07-06 13:08:00,2024-07-06 16:05:00,177,45504
+MLB,New York Yankees,Boston Red Sox,Yankee Stadium,247,2024-07-07,2024-07-07 19:10:00,2024-07-07 21:33:00,143,45250
+MLB,New York Mets,Washington Nationals,Citi Field,93,2024-07-09,2024-07-09 19:11:00,2024-07-09 21:52:00,161,31243
+MLB,New York Mets,Washington Nationals,Citi Field,93,2024-07-10,2024-07-10 19:11:00,2024-07-10 21:35:00,144,24887
+MLB,New York Mets,Washington Nationals,Citi Field,93,2024-07-11,2024-07-11 13:10:00,2024-07-11 15:59:00,169,25710
+MLB,New York Mets,Colorado Rockies,Citi Field,93,2024-07-12,2024-07-12 19:10:00,2024-07-12 21:59:00,169,28852
+MLB,New York Mets,Colorado Rockies,Citi Field,93,2024-07-13,2024-07-13 16:10:00,2024-07-13 19:03:00,173,31029
+MLB,New York Mets,Colorado Rockies,Citi Field,93,2024-07-14,2024-07-14 13:42:00,2024-07-14 16:38:00,176,24970
+MLB,New York Yankees,Tampa Bay Rays,Yankee Stadium,247,2024-07-19,2024-07-19 19:08:00,2024-07-19 21:47:00,159,47036
+MLB,New York Yankees,Tampa Bay Rays,Yankee Stadium,247,2024-07-20,2024-07-20 13:08:00,2024-07-20 15:48:00,160,43173
+MLB,New York Yankees,Tampa Bay Rays,Yankee Stadium,247,2024-07-21,2024-07-21 13:39:00,2024-07-21 16:40:00,181,45178
+MLB,New York Yankees,Tampa Bay Rays,Yankee Stadium,247,2024-07-22,2024-07-22 13:10:00,2024-07-22 15:51:00,161,40824
+MLB,New York Yankees,New York Mets,Yankee Stadium,247,2024-07-23,2024-07-23 19:09:00,2024-07-23 22:22:00,193,47453
+MLB,New York Yankees,New York Mets,Yankee Stadium,247,2024-07-24,2024-07-24 19:08:00,2024-07-24 22:26:00,198,48760
+MLB,New York Mets,Atlanta Braves,Citi Field,93,2024-07-25,2024-07-25 19:10:00,2024-07-25 21:49:00,159,34807
+MLB,New York Mets,Atlanta Braves,Citi Field,93,2024-07-26,2024-07-26 19:10:00,2024-07-26 21:54:00,164,34673
+MLB,New York Mets,Atlanta Braves,Citi Field,93,2024-07-27,2024-07-27 16:13:00,2024-07-27 18:26:00,133,35149
+MLB,New York Mets,Atlanta Braves,Citi Field,93,2024-07-28,2024-07-28 13:41:00,2024-07-28 16:19:00,158,26916
+MLB,New York Mets,Minnesota Twins,Citi Field,93,2024-07-29,2024-07-29 19:11:00,2024-07-29 22:10:00,179,28507
+MLB,New York Mets,Minnesota Twins,Citi Field,93,2024-07-30,2024-07-30 19:10:00,2024-07-30 21:22:00,132,27767
+MLB,New York Mets,Minnesota Twins,Citi Field,93,2024-07-31,2024-07-31 13:10:00,2024-07-31 15:59:00,169,28875
+MLB,New York Yankees,Toronto Blue Jays,Yankee Stadium,247,2024-08-02,2024-08-02 20:31:00,2024-08-02 23:35:00,184,44883
+MLB,New York Yankees,Toronto Blue Jays,Yankee Stadium,247,2024-08-03,2024-08-03 13:10:00,2024-08-03 16:01:00,171,40218
+MLB,New York Yankees,Toronto Blue Jays,Yankee Stadium,247,2024-08-04,2024-08-04 13:39:00,2024-08-04 17:15:00,216,44237
+MLB,New York Yankees,Los Angeles Angels,Yankee Stadium,247,2024-08-07,2024-08-07 16:09:00,2024-08-07 18:59:00,170,
+MLB,New York Yankees,Los Angeles Angels,Yankee Stadium,247,2024-08-07,2024-08-07 19:37:00,2024-08-07 22:21:00,164,40744
+MLB,New York Yankees,Los Angeles Angels,Yankee Stadium,247,2024-08-08,2024-08-08 19:08:00,2024-08-08 22:06:00,178,40681
+MLB,New York Yankees,Texas Rangers,Yankee Stadium,247,2024-08-10,2024-08-10 13:09:00,2024-08-10 16:06:00,177,
+MLB,New York Yankees,Texas Rangers,Yankee Stadium,247,2024-08-10,2024-08-10 16:42:00,2024-08-10 19:29:00,167,41996
+MLB,New York Yankees,Texas Rangers,Yankee Stadium,247,2024-08-11,2024-08-11 13:38:00,2024-08-11 16:53:00,195,45318
+MLB,New York Mets,Oakland Athletics,Citi Field,93,2024-08-13,2024-08-13 19:11:00,2024-08-13 22:11:00,180,31923
+MLB,New York Mets,Oakland Athletics,Citi Field,93,2024-08-14,2024-08-14 19:11:00,2024-08-14 21:40:00,149,28288
+MLB,New York Mets,Oakland Athletics,Citi Field,93,2024-08-15,2024-08-15 13:11:00,2024-08-15 16:56:00,225,28461
+MLB,New York Mets,Miami Marlins,Citi Field,93,2024-08-16,2024-08-16 19:11:00,2024-08-16 21:52:00,161,32311
+MLB,New York Mets,Miami Marlins,Citi Field,93,2024-08-17,2024-08-17 16:11:00,2024-08-17 18:37:00,146,34744
+MLB,New York Mets,Miami Marlins,Citi Field,93,2024-08-18,2024-08-18 12:06:00,2024-08-18 15:12:00,186,30596
+MLB,New York Mets,Baltimore Orioles,Citi Field,93,2024-08-19,2024-08-19 19:20:00,2024-08-19 21:42:00,142,26874
+MLB,New York Yankees,Cleveland Guardians,Yankee Stadium,247,2024-08-20,2024-08-20 19:08:00,2024-08-20 23:13:00,245,41426
+MLB,New York Mets,Baltimore Orioles,Citi Field,93,2024-08-20,2024-08-20 19:11:00,2024-08-20 22:00:00,169,34225
+MLB,New York Mets,Baltimore Orioles,Citi Field,93,2024-08-21,2024-08-21 13:10:00,2024-08-21 15:40:00,150,32871
+MLB,New York Yankees,Cleveland Guardians,Yankee Stadium,247,2024-08-21,2024-08-21 19:09:00,2024-08-21 21:29:00,140,41263
+MLB,New York Yankees,Cleveland Guardians,Yankee Stadium,247,2024-08-22,2024-08-22 13:08:00,2024-08-22 16:00:00,172,38105
+MLB,New York Yankees,Colorado Rockies,Yankee Stadium,247,2024-08-23,2024-08-23 19:09:00,2024-08-23 21:32:00,143,38910
+MLB,New York Yankees,Colorado Rockies,Yankee Stadium,247,2024-08-24,2024-08-24 14:09:00,2024-08-24 17:09:00,180,40438
+MLB,New York Yankees,Colorado Rockies,Yankee Stadium,247,2024-08-25,2024-08-25 13:38:00,2024-08-25 16:33:00,175,41324
+MLB,New York Yankees,St. Louis Cardinals,Yankee Stadium,247,2024-08-30,2024-08-30 19:09:00,2024-08-30 21:34:00,145,47103
+MLB,New York Yankees,St. Louis Cardinals,Yankee Stadium,247,2024-08-31,2024-08-31 13:08:00,2024-08-31 15:45:00,157,41454
+MLB,New York Yankees,St. Louis Cardinals,Yankee Stadium,247,2024-09-01,2024-09-01 13:39:00,2024-09-01 17:00:00,201,42768
+MLB,New York Mets,Boston Red Sox,Citi Field,93,2024-09-02,2024-09-02 19:10:00,2024-09-02 21:32:00,142,35064
+MLB,New York Mets,Boston Red Sox,Citi Field,93,2024-09-03,2024-09-03 19:10:00,2024-09-03 21:45:00,155,29400
+MLB,New York Mets,Boston Red Sox,Citi Field,93,2024-09-04,2024-09-04 19:13:00,2024-09-04 22:03:00,170,26270
+MLB,New York Mets,Cincinnati Reds,Citi Field,93,2024-09-06,2024-09-06 19:10:00,2024-09-06 21:45:00,155,25335
+MLB,New York Mets,Cincinnati Reds,Citi Field,93,2024-09-07,2024-09-07 17:16:00,2024-09-07 19:42:00,146,34048
+MLB,New York Mets,Cincinnati Reds,Citi Field,93,2024-09-08,2024-09-08 13:41:00,2024-09-08 16:33:00,172,28142
+MLB,New York Yankees,Kansas City Royals,Yankee Stadium,247,2024-09-09,2024-09-09 19:09:00,2024-09-09 22:00:00,171,35308
+MLB,New York Yankees,Kansas City Royals,Yankee Stadium,247,2024-09-10,2024-09-10 19:08:00,2024-09-10 21:36:00,148,34485
+MLB,New York Yankees,Kansas City Royals,Yankee Stadium,247,2024-09-11,2024-09-11 19:07:00,2024-09-11 22:24:00,197,40080
+MLB,New York Yankees,Boston Red Sox,Yankee Stadium,247,2024-09-12,2024-09-12 19:16:00,2024-09-12 22:10:00,174,40229
+MLB,New York Yankees,Boston Red Sox,Yankee Stadium,247,2024-09-13,2024-09-13 19:09:00,2024-09-13 22:01:00,172,45292
+MLB,New York Yankees,Boston Red Sox,Yankee Stadium,247,2024-09-14,2024-09-14 13:07:00,2024-09-14 15:58:00,171,46378
+MLB,New York Yankees,Boston Red Sox,Yankee Stadium,247,2024-09-15,2024-09-15 13:39:00,2024-09-15 16:30:00,171,45552
+MLB,New York Mets,Washington Nationals,Citi Field,93,2024-09-16,2024-09-16 19:10:00,2024-09-16 21:38:00,148,21694
+MLB,New York Mets,Washington Nationals,Citi Field,93,2024-09-17,2024-09-17 19:12:00,2024-09-17 21:55:00,163,24932
+MLB,New York Mets,Washington Nationals,Citi Field,93,2024-09-18,2024-09-18 19:10:00,2024-09-18 21:36:00,146,34196
+MLB,New York Mets,Philadelphia Phillies,Citi Field,93,2024-09-19,2024-09-19 19:16:00,2024-09-19 21:52:00,156,35982
+MLB,New York Mets,Philadelphia Phillies,Citi Field,93,2024-09-20,2024-09-20 19:10:00,2024-09-20 22:07:00,177,41474
+MLB,New York Mets,Philadelphia Phillies,Citi Field,93,2024-09-21,2024-09-21 16:11:00,2024-09-21 18:34:00,143,44152
+MLB,New York Mets,Philadelphia Phillies,Citi Field,93,2024-09-22,2024-09-22 19:16:00,2024-09-22 21:46:00,150,43139
+MLB,New York Yankees,Baltimore Orioles,Yankee Stadium,247,2024-09-24,2024-09-24 19:10:00,2024-09-24 22:21:00,191,41149
+MLB,New York Yankees,Baltimore Orioles,Yankee Stadium,247,2024-09-25,2024-09-25 19:08:00,2024-09-25 22:19:00,191,41010
+MLB,New York Yankees,Baltimore Orioles,Yankee Stadium,247,2024-09-26,2024-09-26 19:09:00,2024-09-26 21:59:00,170,42022
+MLB,New York Yankees,Pittsburgh Pirates,Yankee Stadium,247,2024-09-27,2024-09-27 19:09:00,2024-09-27 21:57:00,168,41778
+MLB,New York Yankees,Pittsburgh Pirates,Yankee Stadium,247,2024-09-28,2024-09-28 13:08:00,2024-09-28 15:57:00,169,46069
+MLB,New York Yankees,Pittsburgh Pirates,Yankee Stadium,247,2024-09-29,2024-09-29 16:36:00,2024-09-29 19:31:00,175,44108
+MLB,New York Yankees,Kansas City Royals,Yankee Stadium,247,2024-10-05,2024-10-05 18:38:00,2024-10-05 21:59:00,201,48790
+MLB,New York Yankees,Kansas City Royals,Yankee Stadium,247,2024-10-07,2024-10-07 19:38:00,2024-10-07 22:45:00,187,48034
+MLB,New York Mets,Philadelphia Phillies,Citi Field,93,2024-10-08,2024-10-08 17:09:00,2024-10-08 20:04:00,175,44093
+MLB,New York Mets,Philadelphia Phillies,Citi Field,93,2024-10-09,2024-10-09 17:09:00,2024-10-09 20:24:00,195,44103
+NHL,New York Rangers,Utah Hockey Club,Madison Square Garden,186,2024-10-12,2024-10-12 19:00:00,2024-10-12 21:45:00,165,18006
+NHL,New York Rangers,Detroit Red Wings,Madison Square Garden,186,2024-10-14,2024-10-14 19:00:00,2024-10-14 21:35:00,155,17510
+MLB,New York Yankees,Cleveland Guardians,Yankee Stadium,247,2024-10-14,2024-10-14 19:39:00,2024-10-14 22:40:00,181,47264
+MLB,New York Yankees,Cleveland Guardians,Yankee Stadium,247,2024-10-15,2024-10-15 19:39:00,2024-10-15 23:05:00,206,47054
+MLB,New York Mets,Los Angeles Dodgers,Citi Field,93,2024-10-16,2024-10-16 20:09:00,2024-10-16 23:20:00,191,43883
+MLB,New York Mets,Los Angeles Dodgers,Citi Field,93,2024-10-17,2024-10-17 20:09:00,2024-10-17 23:48:00,219,43882
+MLB,New York Mets,Los Angeles Dodgers,Citi Field,93,2024-10-18,2024-10-18 17:08:00,2024-10-18 20:16:00,188,43841
+NHL,New York Rangers,Florida Panthers,Madison Square Garden,186,2024-10-24,2024-10-24 19:00:00,2024-10-24 21:23:00,143,18006
+NBA,New York Knicks,Indiana Pacers,Madison Square Garden,186,2024-10-25,2024-10-25 19:30:00,2024-10-25 21:51:00,141,19812
+NHL,New York Rangers,Anaheim Ducks,Madison Square Garden,186,2024-10-26,2024-10-26 19:00:00,2024-10-26 21:32:00,152,18006
+NBA,Brooklyn Nets,Milwaukee Bucks,Barclays Center,181,2024-10-27,2024-10-27 18:00:00,2024-10-27 20:19:00,139,17926
+NBA,New York Knicks,Cleveland Cavaliers,Madison Square Garden,186,2024-10-28,2024-10-28 19:30:00,2024-10-28 21:53:00,143,19812
+MLB,New York Yankees,Los Angeles Dodgers,Yankee Stadium,247,2024-10-28,2024-10-28 20:17:00,2024-10-28 23:42:00,205,49368
+NBA,Brooklyn Nets,Denver Nuggets,Barclays Center,181,2024-10-29,2024-10-29 19:30:00,2024-10-29 22:16:00,166,17926
+MLB,New York Yankees,Los Angeles Dodgers,Yankee Stadium,247,2024-10-29,2024-10-29 20:08:00,2024-10-29 23:24:00,196,49354
+MLB,New York Yankees,Los Angeles Dodgers,Yankee Stadium,247,2024-10-30,2024-10-30 20:09:00,2024-10-30 23:51:00,222,49263
+NHL,New York Rangers,Ottawa Senators,Madison Square Garden,186,2024-11-01,2024-11-01 19:00:00,2024-11-01 21:29:00,149,18006
+NBA,Brooklyn Nets,Chicago Bulls,Barclays Center,181,2024-11-01,2024-11-01 19:30:00,2024-11-01 21:37:00,127,17977
+NHL,New York Rangers,New York Islanders,Madison Square Garden,186,2024-11-03,2024-11-03 13:00:00,2024-11-03 15:32:00,152,18006
+NBA,Brooklyn Nets,Detroit Pistons,Barclays Center,181,2024-11-03,2024-11-03 15:30:00,2024-11-03 17:52:00,142,17086
+NBA,Brooklyn Nets,Memphis Grizzlies,Barclays Center,181,2024-11-04,2024-11-04 20:00:00,2024-11-04 22:14:00,134,18088
+NHL,New York Rangers,Buffalo Sabres,Madison Square Garden,186,2024-11-07,2024-11-07 19:00:00,2024-11-07 21:28:00,148,18006
+NBA,New York Knicks,Milwaukee Bucks,Madison Square Garden,186,2024-11-08,2024-11-08 19:30:00,2024-11-08 21:37:00,127,19812
+NHL,New York Rangers,Winnipeg Jets,Madison Square Garden,186,2024-11-12,2024-11-12 19:00:00,2024-11-12 21:25:00,145,18006
+NBA,Brooklyn Nets,Boston Celtics,Barclays Center,181,2024-11-13,2024-11-13 19:30:00,2024-11-13 21:40:00,130,18112
+NBA,New York Knicks,Chicago Bulls,Madison Square Garden,186,2024-11-13,2024-11-13 19:30:00,2024-11-13 21:46:00,136,19812
+NHL,New York Rangers,San Jose Sharks,Madison Square Garden,186,2024-11-14,2024-11-14 19:00:00,2024-11-14 21:26:00,146,18006
+NBA,New York Knicks,Brooklyn Nets,Madison Square Garden,186,2024-11-15,2024-11-15 19:30:00,2024-11-15 22:13:00,163,19812
+NBA,New York Knicks,Brooklyn Nets,Madison Square Garden,186,2024-11-17,2024-11-17 19:00:00,2024-11-17 21:20:00,140,19812
+NBA,New York Knicks,Washington Wizards,Madison Square Garden,186,2024-11-18,2024-11-18 19:30:00,2024-11-18 21:30:00,120,19812
+NBA,Brooklyn Nets,Charlotte Hornets,Barclays Center,181,2024-11-19,2024-11-19 19:30:00,2024-11-19 22:02:00,152,18117
+NHL,New York Rangers,St. Louis Blues,Madison Square Garden,186,2024-11-25,2024-11-25 19:00:00,2024-11-25 21:23:00,143,18006
+NBA,Brooklyn Nets,Orlando Magic,Barclays Center,181,2024-11-29,2024-11-29 19:30:00,2024-11-29 21:43:00,133,18143
+NHL,New York Rangers,Montreal Canadiens,Madison Square Garden,186,2024-11-30,2024-11-30 13:00:00,2024-11-30 15:47:00,167,18006
+NBA,Brooklyn Nets,Orlando Magic,Barclays Center,181,2024-12-01,2024-12-01 15:30:00,2024-12-01 18:06:00,156,16505
+NBA,New York Knicks,New Orleans Pelicans,Madison Square Garden,186,2024-12-01,2024-12-01 18:00:00,2024-12-01 20:03:00,123,19812
+NHL,New York Rangers,New Jersey Devils,Madison Square Garden,186,2024-12-02,2024-12-02 19:00:00,2024-12-02 21:32:00,152,18006
+NBA,New York Knicks,Orlando Magic,Madison Square Garden,186,2024-12-03,2024-12-03 19:30:00,2024-12-03 21:56:00,146,19812
+NBA,Brooklyn Nets,Indiana Pacers,Barclays Center,181,2024-12-04,2024-12-04 19:30:00,2024-12-04 21:46:00,136,16748
+NBA,New York Knicks,Charlotte Hornets,Madison Square Garden,186,2024-12-05,2024-12-05 19:30:00,2024-12-05 21:38:00,128,19812
+NHL,New York Rangers,Pittsburgh Penguins,Madison Square Garden,186,2024-12-06,2024-12-06 19:30:00,2024-12-06 21:59:00,149,18006
+NBA,New York Knicks,Detroit Pistons,Madison Square Garden,186,2024-12-07,2024-12-07 19:30:00,2024-12-07 21:45:00,135,19812
+NHL,New York Rangers,Seattle Kraken,Madison Square Garden,186,2024-12-08,2024-12-08 13:00:00,2024-12-08 15:34:00,154,18006
+NBA,Brooklyn Nets,Milwaukee Bucks,Barclays Center,181,2024-12-08,2024-12-08 15:30:00,2024-12-08 17:49:00,139,17926
+NHL,New York Rangers,Chicago Blackhawks,Madison Square Garden,186,2024-12-09,2024-12-09 19:00:00,2024-12-09 21:14:00,134,18006
+NBA,New York Knicks,Atlanta Hawks,Madison Square Garden,186,2024-12-11,2024-12-11 19:00:00,2024-12-11 21:13:00,133,19812
+NHL,New York Rangers,Los Angeles Kings,Madison Square Garden,186,2024-12-14,2024-12-14 13:00:00,2024-12-14 15:25:00,145,18006
+NBA,Brooklyn Nets,Cleveland Cavaliers,Barclays Center,181,2024-12-16,2024-12-16 19:30:00,2024-12-16 21:48:00,138,16588
+NBA,Brooklyn Nets,Utah Jazz,Barclays Center,181,2024-12-21,2024-12-21 19:30:00,2024-12-21 21:36:00,126,17926
+NHL,New York Rangers,Carolina Hurricanes,Madison Square Garden,186,2024-12-22,2024-12-22 12:30:00,2024-12-22 14:56:00,146,18006
+NBA,New York Knicks,Toronto Raptors,Madison Square Garden,186,2024-12-23,2024-12-23 19:30:00,2024-12-23 21:49:00,139,19812
+NBA,New York Knicks,San Antonio Spurs,Madison Square Garden,186,2024-12-25,2024-12-25 12:00:00,2024-12-25 14:19:00,139,19812
+NBA,Brooklyn Nets,San Antonio Spurs,Barclays Center,181,2024-12-27,2024-12-27 19:30:00,2024-12-27 21:50:00,140,17990

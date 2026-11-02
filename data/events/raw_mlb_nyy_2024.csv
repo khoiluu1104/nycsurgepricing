@@ -1,0 +1,89 @@
+league,date,start_txt,home,away,attendance,length_min,arena
+MLB,2024-04-05,1:10 PM,New York Yankees,Toronto Blue Jays,47812,174,Yankee Stadium
+MLB,2024-04-06,7:11 PM,New York Yankees,Toronto Blue Jays,42250,200,Yankee Stadium
+MLB,2024-04-07,1:38 PM,New York Yankees,Toronto Blue Jays,40569,190,Yankee Stadium
+MLB,2024-04-08,6:07 PM,New York Yankees,Miami Marlins,31071,121,Yankee Stadium
+MLB,2024-04-09,7:08 PM,New York Yankees,Miami Marlins,37680,155,Yankee Stadium
+MLB,2024-04-10,7:08 PM,New York Yankees,Miami Marlins,36295,170,Yankee Stadium
+MLB,2024-04-19,7:09 PM,New York Yankees,Tampa Bay Rays,36055,160,Yankee Stadium
+MLB,2024-04-20,1:08 PM,New York Yankees,Tampa Bay Rays,47629,145,Yankee Stadium
+MLB,2024-04-21,1:39 PM,New York Yankees,Tampa Bay Rays,40022,162,Yankee Stadium
+MLB,2024-04-22,1:07 PM,New York Yankees,Oakland Athletics,30366,152,Yankee Stadium
+MLB,2024-04-23,7:08 PM,New York Yankees,Oakland Athletics,30060,149,Yankee Stadium
+MLB,2024-04-24,7:09 PM,New York Yankees,Oakland Athletics,31179,153,Yankee Stadium
+MLB,2024-04-25,7:08 PM,New York Yankees,Oakland Athletics,40141,144,Yankee Stadium
+MLB,2024-05-03,7:07 PM,New York Yankees,Detroit Tigers,37386,164,Yankee Stadium
+MLB,2024-05-04,1:09 PM,New York Yankees,Detroit Tigers,45017,154,Yankee Stadium
+MLB,2024-05-05,1:38 PM,New York Yankees,Detroit Tigers,35119,160,Yankee Stadium
+MLB,2024-05-07,7:07 PM,New York Yankees,Houston Astros,37126,166,Yankee Stadium
+MLB,2024-05-08,7:08 PM,New York Yankees,Houston Astros,37660,155,Yankee Stadium
+MLB,2024-05-09,5:07 PM,New York Yankees,Houston Astros,38095,175,Yankee Stadium
+MLB,2024-05-17,7:06 PM,New York Yankees,Chicago White Sox,46025,152,Yankee Stadium
+MLB,2024-05-18,1:08 PM,New York Yankees,Chicago White Sox,43194,149,Yankee Stadium
+MLB,2024-05-19,1:38 PM,New York Yankees,Chicago White Sox,41041,153,Yankee Stadium
+MLB,2024-05-20,7:09 PM,New York Yankees,Seattle Mariners,37590,154,Yankee Stadium
+MLB,2024-05-21,7:09 PM,New York Yankees,Seattle Mariners,37257,178,Yankee Stadium
+MLB,2024-05-22,7:09 PM,New York Yankees,Seattle Mariners,40224,163,Yankee Stadium
+MLB,2024-05-23,12:38 PM,New York Yankees,Seattle Mariners,43121,163,Yankee Stadium
+MLB,2024-06-04,7:09 PM,New York Yankees,Minnesota Twins,37139,142,Yankee Stadium
+MLB,2024-06-05,7:09 PM,New York Yankees,Minnesota Twins,43202,156,Yankee Stadium
+MLB,2024-06-06,7:08 PM,New York Yankees,Minnesota Twins,41380,188,Yankee Stadium
+MLB,2024-06-07,7:08 PM,New York Yankees,Los Angeles Dodgers,48048,201,Yankee Stadium
+MLB,2024-06-08,7:43 PM,New York Yankees,Los Angeles Dodgers,48374,197,Yankee Stadium
+MLB,2024-06-09,7:10 PM,New York Yankees,Los Angeles Dodgers,48023,164,Yankee Stadium
+MLB,2024-06-18,7:08 PM,New York Yankees,Baltimore Orioles,47429,173,Yankee Stadium
+MLB,2024-06-19,7:09 PM,New York Yankees,Baltimore Orioles,47155,220,Yankee Stadium
+MLB,2024-06-20,4:08 PM,New York Yankees,Baltimore Orioles,45456,180,Yankee Stadium
+MLB,2024-06-21,7:09 PM,New York Yankees,Atlanta Braves,45226,177,Yankee Stadium
+MLB,2024-06-22,7:15 PM,New York Yankees,Atlanta Braves,45056,156,Yankee Stadium
+MLB,2024-06-23,1:38 PM,New York Yankees,Atlanta Braves,46683,134,Yankee Stadium
+MLB,2024-07-02,7:10 PM,New York Yankees,Cincinnati Reds,41219,163,Yankee Stadium
+MLB,2024-07-03,7:09 PM,New York Yankees,Cincinnati Reds,47646,157,Yankee Stadium
+MLB,2024-07-04,1:13 PM,New York Yankees,Cincinnati Reds,43154,176,Yankee Stadium
+MLB,2024-07-05,7:08 PM,New York Yankees,Boston Red Sox,47158,169,Yankee Stadium
+MLB,2024-07-06,1:08 PM,New York Yankees,Boston Red Sox,45504,177,Yankee Stadium
+MLB,2024-07-07,7:10 PM,New York Yankees,Boston Red Sox,45250,143,Yankee Stadium
+MLB,2024-07-19,7:08 PM,New York Yankees,Tampa Bay Rays,47036,159,Yankee Stadium
+MLB,2024-07-20,1:08 PM,New York Yankees,Tampa Bay Rays,43173,160,Yankee Stadium
+MLB,2024-07-21,1:39 PM,New York Yankees,Tampa Bay Rays,45178,181,Yankee Stadium
+MLB,2024-07-22,1:10 PM,New York Yankees,Tampa Bay Rays,40824,161,Yankee Stadium
+MLB,2024-07-23,7:09 PM,New York Yankees,New York Mets,47453,193,Yankee Stadium
+MLB,2024-07-24,7:08 PM,New York Yankees,New York Mets,48760,198,Yankee Stadium
+MLB,2024-08-02,8:31 PM,New York Yankees,Toronto Blue Jays,44883,184,Yankee Stadium
+MLB,2024-08-03,1:10 PM,New York Yankees,Toronto Blue Jays,40218,171,Yankee Stadium
+MLB,2024-08-04,1:39 PM,New York Yankees,Toronto Blue Jays,44237,216,Yankee Stadium
+MLB,2024-08-07,4:09 PM,New York Yankees,Los Angeles Angels,,170,Yankee Stadium
+MLB,2024-08-07,7:37 PM,New York Yankees,Los Angeles Angels,40744,164,Yankee Stadium
+MLB,2024-08-08,7:08 PM,New York Yankees,Los Angeles Angels,40681,178,Yankee Stadium
+MLB,2024-08-10,1:09 PM,New York Yankees,Texas Rangers,,177,Yankee Stadium
+MLB,2024-08-10,4:42 PM,New York Yankees,Texas Rangers,41996,167,Yankee Stadium
+MLB,2024-08-11,1:38 PM,New York Yankees,Texas Rangers,45318,195,Yankee Stadium
+MLB,2024-08-20,7:08 PM,New York Yankees,Cleveland Guardians,41426,245,Yankee Stadium
+MLB,2024-08-21,7:09 PM,New York Yankees,Cleveland Guardians,41263,140,Yankee Stadium
+MLB,2024-08-22,1:08 PM,New York Yankees,Cleveland Guardians,38105,172,Yankee Stadium
+MLB,2024-08-23,7:09 PM,New York Yankees,Colorado Rockies,38910,143,Yankee Stadium
+MLB,2024-08-24,2:09 PM,New York Yankees,Colorado Rockies,40438,180,Yankee Stadium
+MLB,2024-08-25,1:38 PM,New York Yankees,Colorado Rockies,41324,175,Yankee Stadium
+MLB,2024-08-30,7:09 PM,New York Yankees,St. Louis Cardinals,47103,145,Yankee Stadium
+MLB,2024-08-31,1:08 PM,New York Yankees,St. Louis Cardinals,41454,157,Yankee Stadium
+MLB,2024-09-01,1:39 PM,New York Yankees,St. Louis Cardinals,42768,201,Yankee Stadium
+MLB,2024-09-09,7:09 PM,New York Yankees,Kansas City Royals,35308,171,Yankee Stadium
+MLB,2024-09-10,7:08 PM,New York Yankees,Kansas City Royals,34485,148,Yankee Stadium
+MLB,2024-09-11,7:07 PM,New York Yankees,Kansas City Royals,40080,197,Yankee Stadium
+MLB,2024-09-12,7:16 PM,New York Yankees,Boston Red Sox,40229,174,Yankee Stadium
+MLB,2024-09-13,7:09 PM,New York Yankees,Boston Red Sox,45292,172,Yankee Stadium
+MLB,2024-09-14,1:07 PM,New York Yankees,Boston Red Sox,46378,171,Yankee Stadium
+MLB,2024-09-15,1:39 PM,New York Yankees,Boston Red Sox,45552,171,Yankee Stadium
+MLB,2024-09-24,7:10 PM,New York Yankees,Baltimore Orioles,41149,191,Yankee Stadium
+MLB,2024-09-25,7:08 PM,New York Yankees,Baltimore Orioles,41010,191,Yankee Stadium
+MLB,2024-09-26,7:09 PM,New York Yankees,Baltimore Orioles,42022,170,Yankee Stadium
+MLB,2024-09-27,7:09 PM,New York Yankees,Pittsburgh Pirates,41778,168,Yankee Stadium
+MLB,2024-09-28,1:08 PM,New York Yankees,Pittsburgh Pirates,46069,169,Yankee Stadium
+MLB,2024-09-29,4:36 PM,New York Yankees,Pittsburgh Pirates,44108,175,Yankee Stadium
+MLB,2024-10-05,6:38 PM,New York Yankees,Kansas City Royals,48790,201,Yankee Stadium
+MLB,2024-10-07,7:38 PM,New York Yankees,Kansas City Royals,48034,187,Yankee Stadium
+MLB,2024-10-14,7:39 PM,New York Yankees,Cleveland Guardians,47264,181,Yankee Stadium
+MLB,2024-10-15,7:39 PM,New York Yankees,Cleveland Guardians,47054,206,Yankee Stadium
+MLB,2024-10-28,8:17 PM,New York Yankees,Los Angeles Dodgers,49368,205,Yankee Stadium
+MLB,2024-10-29,8:08 PM,New York Yankees,Los Angeles Dodgers,49354,196,Yankee Stadium
+MLB,2024-10-30,8:09 PM,New York Yankees,Los Angeles Dodgers,49263,222,Yankee Stadium
