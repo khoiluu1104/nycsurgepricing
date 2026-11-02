@@ -6,8 +6,8 @@ This project uses the end of **310 NBA, NHL and MLB home games** at four New Yor
 in 2024 as sudden demand shocks. Game endings serve as an instrument for price, which identifies the
 **supply response to surge pricing** using only public trip records.
 
-*ECO1400 term paper, University of Toronto (work in progress, Nov 2026). Code in R
-(`duckdb`, `data.table`, `fixest`).*
+*Tran Nguyen Khoi Luu · ECO1400 term paper, University of Toronto (work in progress, Nov 2026).
+Code in R (`duckdb`, `data.table`, `fixest`).*
 
 ## Key results (all 2024, 4 venues, 310 games)
 
